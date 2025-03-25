@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>settlements</name>
+  <Placemark>
+	<name>Olla Walabu\</name>
+      <Point><coordinates>38.4528007255348,4.54407047442804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olla Liban Jilo</name>
+      <Point><coordinates>38.4951234876501,4.62058255904357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olla Liban Dida</name>
+      <Point><coordinates>38.61428559704,4.66851691322464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olla Kume</name>
+      <Point><coordinates>38.4847665870279,4.65602317994612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olla Jaldesa Halake</name>
+      <Point><coordinates>38.5766118897579,4.70418854306301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olla Ilman Arero</name>
+      <Point><coordinates>38.5013607289171,4.63411583253325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olla Happicha</name>
+      <Point><coordinates>38.525250903029,4.64021831858762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olla Dida</name>
+      <Point><coordinates>38.5142009755993,4.64968968495593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olla Arero Xunna</name>
+      <Point><coordinates>38.5390151854545,4.66281869280794</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

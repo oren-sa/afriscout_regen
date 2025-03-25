@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="road_from_omorate_to_akodongole" id="road_from_omorate_to_akodongole">
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>road_from_omorate_to_akodongole</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#road_from_omorate_to_akodongole">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.010136,4.787195 36.009152,4.784588 36.008761,4.783508 36.008428,4.782623 36.008246,4.781832 36.008117,4.78087 36.008053,4.779748 36.007969,4.779142 36.007943,4.778733 36.007936,4.778234 36.007835,4.777092 36.007747,4.776073 36.007692,4.775512 36.00754,4.774854 36.007243,4.774004 36.006936,4.773285 36.006543,4.772451 36.006054,4.771325 36.005823,4.770784 36.005633,4.770243 36.005451,4.76962 36.005336,4.769143 36.005245,4.76841 36.005091,4.767117 36.004894,4.765586 36.00476,4.764864 36.004583,4.764198 36.004335,4.763281 36.003939,4.761855 36.003752,4.761235 36.003555,4.760507</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

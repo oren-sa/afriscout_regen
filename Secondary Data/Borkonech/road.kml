@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="road_from_omorate_to_alkatakech" id="road_from_omorate_to_alkatakech">
+	<SimpleField name="OID_" type="float"></SimpleField>
+	<SimpleField name="FolderPath" type="string"></SimpleField>
+	<SimpleField name="SymbolID" type="float"></SimpleField>
+	<SimpleField name="AltMode" type="int"></SimpleField>
+	<SimpleField name="Base" type="float"></SimpleField>
+	<SimpleField name="Clamped" type="int"></SimpleField>
+	<SimpleField name="Extruded" type="int"></SimpleField>
+	<SimpleField name="Snippet" type="string"></SimpleField>
+	<SimpleField name="PopupInfo" type="string"></SimpleField>
+	<SimpleField name="Shape_Leng" type="float"></SimpleField>
+</Schema>
+<Folder><name>road_from_omorate_to_alkatakech</name>
+  <Placemark>
+	<name>Road Omorate from Alkatakech</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#road_from_omorate_to_alkatakech">
+		<SimpleData name="OID_">0</SimpleData>
+		<SimpleData name="FolderPath">Road Omorate from Alkatakech.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">0</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="Clamped">-1</SimpleData>
+		<SimpleData name="Extruded">0</SimpleData>
+		<SimpleData name="Shape_Leng">0.02176207055</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.042454789,4.81377656600006,0 36.0416914570001,4.81362851600005,0 36.040790638,4.81344088800006,0 36.0401849900001,4.81331022900002,0 36.0397636440001,4.81324454000003,0 36.0393706670001,4.81314475300007,0 36.0389344870001,4.81304530200003,0 36.0387687050001,4.81297826800005,0 36.038529365,4.81295458700004,0 36.0383371670001,4.81289517900007,0 36.038177423,4.81287077100006,0 36.037995638,4.81280028800006,0 36.0378743570001,4.81274227600005,0 36.037536473,4.81265109500004,0 36.0373363350001,4.81253778900003,0 36.0369028440001,4.81237168400003,0 36.0366282480001,4.81221788200003,0 36.036375229,4.81206522800005,0 36.0361435300001,4.81191442400007,0 36.0358376130001,4.81170145600004,0 36.0356016590001,4.81149949100006,0 36.035321212,4.81130001100007,0 36.03501663,4.81106372700003,0 36.034688089,4.81082149300005,0 36.034461697,4.81067172600007,0 36.0342399370001,4.81049016800006,0 36.0339664030001,4.81030028600003,0 36.0337156310001,4.81009325300005,0 36.0333546620001,4.80984032500004,0 36.033007581,4.80958397100005,0 36.032669545,4.80933673200008,0 36.032344177,4.80906171700002,0 36.031987112,4.80880591200003,0 36.03147784,4.80844863300007,0 36.030991413,4.80805723900005,0 36.030730862,4.80784280900002,0 36.030439588,4.80763981600006,0 36.030025433,4.80730847100006,0 36.0295771900001,4.80700703700006,0 36.0291401370001,4.80666586300003,0 36.0286467010001,4.80633385900006,0 36.0283563460001,4.80610607100004,0 36.027922748,4.80585711400005,0 36.0274873500001,4.80557162600007,0 36.0269260110001,4.80527018600003,0 36.026496267,4.80503480500005,0 36.026021595,4.80474963400007,0 36.0255429910001,4.80449724500005,0 36.024570941,4.80391756800003,0 36.023677612,4.80341016900007,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>36.0373363350001,4.81253778900003,0 36.0257899814264,4.81772723387255,0 36.0212027317985,4.82033649512876,0 36.0164050578758,4.83065780679144,0 36.0099660744532,4.84539802864609,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

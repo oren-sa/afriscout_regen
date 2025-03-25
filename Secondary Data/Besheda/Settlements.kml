@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>settlements</name>
+  <Placemark>
+	<name>Syilbiya</name>
+      <Point><coordinates>36.4489801875058,5.14480763857245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Syilbiya Dide</name>
+      <Point><coordinates>36.4394731389365,5.1574141637913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mega</name>
+      <Point><coordinates>36.4123129813728,5.14924326781612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gune</name>
+      <Point><coordinates>36.4770344248722,5.17854921690644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Argude</name>
+      <Point><coordinates>36.4941014148848,5.14918366249593</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

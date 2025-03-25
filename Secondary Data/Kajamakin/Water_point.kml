@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Water_point.shp</name>
+	<Schema name="Water_point" id="S_Water_point_DDS">
+		<SimpleField type="long" name="OBJECTID"><displayName>&lt;b&gt;OBJECTID&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="double" name="Easting"><displayName>&lt;b&gt;Easting&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="double" name="Northing"><displayName>&lt;b&gt;Northing&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="long" name="Elevation"><displayName>&lt;b&gt;Elevation&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Feature"><displayName>&lt;b&gt;Feature&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="hlightPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>OBJECTID</b></td><td>$[Water_point/OBJECTID]</td></tr>
+  <tr><td><b>Easting</b></td><td>$[Water_point/Easting]</td></tr>
+  <tr><td><b>Northing</b></td><td>$[Water_point/Northing]</td></tr>
+  <tr><td><b>Elevation</b></td><td>$[Water_point/Elevation]</td></tr>
+  <tr><td><b>Feature</b></td><td>$[Water_point/Feature]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="normPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>OBJECTID</b></td><td>$[Water_point/OBJECTID]</td></tr>
+  <tr><td><b>Easting</b></td><td>$[Water_point/Easting]</td></tr>
+  <tr><td><b>Northing</b></td><td>$[Water_point/Northing]</td></tr>
+  <tr><td><b>Elevation</b></td><td>$[Water_point/Elevation]</td></tr>
+  <tr><td><b>Feature</b></td><td>$[Water_point/Feature]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="pointStyleMap">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normPointStyle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hlightPointStyle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="layer 0">
+		<name>Water_point</name>
+		<Placemark>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Water_point_DDS">
+					<SimpleData name="OBJECTID">1</SimpleData>
+					<SimpleData name="Easting">35.95</SimpleData>
+					<SimpleData name="Northing">5.1298</SimpleData>
+					<SimpleData name="Elevation">418</SimpleData>
+					<SimpleData name="Feature">Water point</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.95001100025397,5.129804000203402,418</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Water_point_DDS">
+					<SimpleData name="OBJECTID">2</SimpleData>
+					<SimpleData name="Easting">35.9245</SimpleData>
+					<SimpleData name="Northing">5.07825</SimpleData>
+					<SimpleData name="Elevation">418</SimpleData>
+					<SimpleData name="Feature">Water point</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.9244600003579,5.078247999592396,418</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Water_point_DDS">
+					<SimpleData name="OBJECTID">3</SimpleData>
+					<SimpleData name="Easting">35.928</SimpleData>
+					<SimpleData name="Northing">5.08828</SimpleData>
+					<SimpleData name="Elevation">417</SimpleData>
+					<SimpleData name="Feature">Water point</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.92795699982921,5.088274999942857,417</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

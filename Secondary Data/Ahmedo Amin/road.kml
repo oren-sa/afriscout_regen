@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="road_line" id="road_line">
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>road_line</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#road_line">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>40.8602671381407,5.01773007580007 40.8517879131351,5.01150499983562 40.848813595653,5.00748965901805 40.8461367098365,5.00421789977514 40.8418239495592,4.99826924673383 40.8396498979804,4.99358837294922 40.8384034855699,4.98973293025766 40.8360240325348,4.98318941245822 40.8025266613203,4.93628643578239</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

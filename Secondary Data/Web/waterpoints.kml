@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="web_waterpoints" id="web_waterpoints">
+	<SimpleField name="FolderPath" type="string"></SimpleField>
+	<SimpleField name="SymbolID" type="float"></SimpleField>
+	<SimpleField name="AltMode" type="int"></SimpleField>
+	<SimpleField name="Base" type="float"></SimpleField>
+	<SimpleField name="Snippet" type="string"></SimpleField>
+	<SimpleField name="PopupInfo" type="string"></SimpleField>
+	<SimpleField name="HasLabel" type="int"></SimpleField>
+	<SimpleField name="LabelID" type="float"></SimpleField>
+</Schema>
+<Folder><name>web_waterpoints</name>
+  <Placemark>
+	<name>Web sadet dika traditional water well</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Web sadet dika traditional water well.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.6612400400001,4.49854945100003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Web motorized water point</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Web motorized water point.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.6607740000001,4.49818910000005,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Web hand pump water point</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Web hand pump water point.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.6642067000001,4.49718890000003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ruya pond</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Ruya pond.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.5589966700001,4.55242500000003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malicha nura pond</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Malicha nura pond.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7292778,4.53874430000008,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jirma boru pond</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Jirma boru pond.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7277132,4.55610740000003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ilman galgalo pond</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Ilman galgalo pond.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7552783,4.56470750000005,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guyo dida pond</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Guyo dida pond .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.6212674000001,4.42538300000007,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dida iya pond</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Dida iya pond.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.5530017,4.54393830000004,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cira cistern</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Cira cistern.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.6081067000001,4.41346030000005,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boru halake pond</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Boru halake pond .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7284417000001,4.46070670000006,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arero bute pond</name>
+	<ExtendedData><SchemaData schemaUrl="#web_waterpoints">
+		<SimpleData name="FolderPath">Arero bute pond.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.5521898000001,4.55535350000002,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>settlements</name>
+  <Placemark>
+      <Point><coordinates>40.8113908211393,4.92266801383871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>40.8009789452664,4.93773986715423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>40.8408430801003,4.99415778114071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>40.861349655069,5.01990081253662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>40.8996967210642,5.05741345351547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>40.9561480371889,5.08617542201045</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

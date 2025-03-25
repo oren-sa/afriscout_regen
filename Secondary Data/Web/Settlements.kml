@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="web_settlements" id="web_settlements">
+	<SimpleField name="FolderPath" type="string"></SimpleField>
+	<SimpleField name="SymbolID" type="float"></SimpleField>
+	<SimpleField name="AltMode" type="int"></SimpleField>
+	<SimpleField name="Base" type="float"></SimpleField>
+	<SimpleField name="Snippet" type="string"></SimpleField>
+	<SimpleField name="PopupInfo" type="string"></SimpleField>
+	<SimpleField name="HasLabel" type="int"></SimpleField>
+	<SimpleField name="LabelID" type="float"></SimpleField>
+</Schema>
+<Folder><name>web_settlements</name>
+  <Placemark>
+	<name>Abduba Halake Village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">Abduba Halake Village .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.5701267210001,4.56280219500007,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aga Huka village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">Aga Huka village .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.714292689,4.56316581200002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bonaya Molu Village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">Bonaya Molu Village .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7229283,4.46373830000005,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boru Dida village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">Boru Dida village .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7058857000001,4.56536760000006,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boru Halake Village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">Boru Halake Village.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.722338398,4.45420509900003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duba Godana Village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">Duba Godana Village .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.5600487,4.56209170000005,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Guyo Dida Village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">Guyo Dida Village .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.6237168000001,4.42632920100004,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jaldesa Xache Village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">Jaldesa Xache Village .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7228093000001,4.45901650000008,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jilo Dimala Village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">Jilo Dimala Village.kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.551135,4.47637419900002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jirma Malicha village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">Jirma Malicha village .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7230186,4.55339900000007,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>kuse Dhadacha Village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">kuse Dhadacha Village .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.7192471010001,4.44621650000005,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malicha Fayo Village</name>
+	<ExtendedData><SchemaData schemaUrl="#web_settlements">
+		<SimpleData name="FolderPath">Malicha Fayo Village .kml</SimpleData>
+		<SimpleData name="SymbolID">0</SimpleData>
+		<SimpleData name="AltMode">-1</SimpleData>
+		<SimpleData name="Base">0.00000000000</SimpleData>
+		<SimpleData name="HasLabel">-1</SimpleData>
+		<SimpleData name="LabelID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>38.5624423,4.55343900000003,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

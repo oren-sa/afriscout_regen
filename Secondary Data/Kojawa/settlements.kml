@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>settlements</name>
+  <Placemark>
+      <Point><coordinates>39.3170274132471,3.98165051777782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kojowa</name>
+      <Point><coordinates>39.3216053279926,4.06310093897928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Qanta</name>
+      <Point><coordinates>39.3544812378682,4.06465054286436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Girribba</name>
+      <Point><coordinates>39.3158424220409,4.09066970875177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malat</name>
+      <Point><coordinates>39.271688839446,4.09042156956755</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

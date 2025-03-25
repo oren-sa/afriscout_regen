@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="road_line" id="road_line">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>road_line</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#road_line">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>39.3027854775156,3.80893879090566 39.3018596811404,3.80998847927395 39.2954757754429,3.81607717377635 39.2915924961913,3.82150234478283 39.2913640678925,3.82795544299351 39.2909643185216,3.83058236792421 39.2902219268913,3.83212425863676 39.2878348523018,3.83499674391172 39.2819774868692,3.83538697884069 39.2797827587568,3.83568202855507 39.279976922779,3.83201575505944 39.2782637114937,3.82619083452155 39.2780352833683,3.82282151775166 39.2789489961579,3.82002327163743 39.2778639623888,3.81379860166248 39.2666138744232,3.8061234121107 39.2618168826307,3.80155484693035 39.2556493217267,3.79761445943101 39.243778299794,3.7870010785114 39.2432721316101,3.78671105881333</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#road_line">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>39.2797827587568,3.83568202855507 39.2838869705853,3.84733531985964 39.2883484582955,3.86354539794543 39.2919176485357,3.87261709303752 39.2939996761047,3.88198622073123 39.3081479774053,3.9125783788403 39.3135561754468,3.92967437883558</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#road_line">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>39.2797827587568,3.83568202855507 39.2942971092145,3.84940247675649 39.317496846524,3.86992532817688 39.3286772718597,3.87157557935987 39.3513596846658,3.89794272096664</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

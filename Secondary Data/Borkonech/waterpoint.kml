@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="water_point" id="water_point">
+	<SimpleField name="OBJECTID" type="float"></SimpleField>
+	<SimpleField name="Easting" type="float"></SimpleField>
+	<SimpleField name="Northing" type="float"></SimpleField>
+	<SimpleField name="Elevation" type="float"></SimpleField>
+	<SimpleField name="Features" type="string"></SimpleField>
+</Schema>
+<Folder><name>water_point</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#water_point">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="Easting">36.03154900000</SimpleData>
+		<SimpleData name="Northing">4.80256600000</SimpleData>
+		<SimpleData name="Elevation">374</SimpleData>
+		<SimpleData name="Features">Water point</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.0315489996112,4.80256599966339,374</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

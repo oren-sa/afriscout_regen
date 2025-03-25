@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Hand_dug_well.shp</name>
+	<Schema name="Hand_dug_well" id="S_Hand_dug_well_DDS">
+		<SimpleField type="long" name="OBJECTID"><displayName>&lt;b&gt;OBJECTID&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="double" name="Easting"><displayName>&lt;b&gt;Easting&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="double" name="Northing"><displayName>&lt;b&gt;Northing&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="long" name="Elevation"><displayName>&lt;b&gt;Elevation&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Feature"><displayName>&lt;b&gt;Feature&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="hlightPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>OBJECTID</b></td><td>$[Hand_dug_well/OBJECTID]</td></tr>
+  <tr><td><b>Easting</b></td><td>$[Hand_dug_well/Easting]</td></tr>
+  <tr><td><b>Northing</b></td><td>$[Hand_dug_well/Northing]</td></tr>
+  <tr><td><b>Elevation</b></td><td>$[Hand_dug_well/Elevation]</td></tr>
+  <tr><td><b>Feature</b></td><td>$[Hand_dug_well/Feature]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="normPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>OBJECTID</b></td><td>$[Hand_dug_well/OBJECTID]</td></tr>
+  <tr><td><b>Easting</b></td><td>$[Hand_dug_well/Easting]</td></tr>
+  <tr><td><b>Northing</b></td><td>$[Hand_dug_well/Northing]</td></tr>
+  <tr><td><b>Elevation</b></td><td>$[Hand_dug_well/Elevation]</td></tr>
+  <tr><td><b>Feature</b></td><td>$[Hand_dug_well/Feature]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="pointStyleMap">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normPointStyle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hlightPointStyle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="layer 0">
+		<name>Hand_dug_well</name>
+		<Placemark>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Hand_dug_well_DDS">
+					<SimpleData name="OBJECTID">1</SimpleData>
+					<SimpleData name="Easting">36.0793</SimpleData>
+					<SimpleData name="Northing">5.22061</SimpleData>
+					<SimpleData name="Elevation">416</SimpleData>
+					<SimpleData name="Feature">Hand dug well</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>36.07927800001324,5.220607000396491,416</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

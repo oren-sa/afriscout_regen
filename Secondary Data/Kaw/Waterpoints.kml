@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Waterpoints.schema">
+      <SimpleField name="FolderPath" type="string"/>
+      <SimpleField name="SymbolID" type="float"/>
+      <SimpleField name="AltMode" type="int"/>
+      <SimpleField name="Base" type="float"/>
+      <SimpleField name="PopupInfo" type="string"/>
+      <SimpleField name="HasLabel" type="int"/>
+      <SimpleField name="LabelID" type="float"/>
+      <SimpleField name="layer" type="string"/>
+      <SimpleField name="path" type="string"/>
+    </Schema>
+    <Document id="Waterpoints">
+      <name>Waterpoints</name>
+      <Placemark id="Waterpoints.1">
+        <name>Dambala Ammessa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Dambala Ammessa.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Dambala Ammessa</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Dambala Ammessa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4597163020001,4.55463115300006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.2">
+        <name>Ela Adi</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Ela Adi.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Ela Adi</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Ela Adi</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.583225,4.68926111100006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.3">
+        <name>Ela Arero</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Ela Arero .kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Ela Arero</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Ela Arero</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5642636150001,4.65708401400002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.4">
+        <name>Ela Arero Xune</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Ela Arero Xune.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Ela Arero Xune</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Ela Arero Xune</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5642636150001,4.65708401400002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.5">
+        <name>Ela Liban Jilo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Ela Liban Jilo.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Ela Liban Jilo</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Ela Liban Jilo</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.502638398,4.62930770100007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.6">
+        <name>Ela Ummata</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Ela Ummata.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Ela Ummata</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Ela Ummata</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.537541667,4.65668816000004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.7">
+        <name>Eela Walabu</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Eela Walabu.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Ela Walabu</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Ela Walabu</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.447976538,4.53506048000003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.8">
+        <name>Hara Adii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Hara Adii.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Hara Adii</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Hara Adii</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4797818960001,4.66741291200003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.9">
+        <name>Hara Dhenge</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Hara Dhenge.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Hara Dhenge</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Hara Dhenge</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5445516240001,4.70343445300006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.10">
+        <name>Hara Dida Dhokata</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Hara Dida Dhokata.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Hara Dida Dhokata</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Hara Dida Dhokata</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.511392899,4.65221490000005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.11">
+        <name>Hara Dido Dhane</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Hara Dido Dhane.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Hara Dido Dhane</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Hara Dido Dhane</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4935444990001,4.62005960300007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.12">
+        <name>Hara Dima Wila</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Hara Dima Wila.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Hara Dima Wila</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Hara Dima Wila</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.611652366,4.65670468500002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.13">
+        <name>Hara Dulacha</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Hara Dulacha.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Hara Dulacha</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Hara Dulacha</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5565965810001,4.69116621300003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.14">
+        <name>Hara Guracha</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Hara Guracha.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Hara Guracha</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Hara Guracha</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5462559650001,4.70312798700007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.15">
+        <name>Hara Hapacha Tika</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Hara Hapacha Tika.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Hara Hapacha Tika</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Hara Hapacha Tika</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.530427478,4.62822226100008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.16">
+        <name>Hara Hapicha Guda</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Hara Hapicha Guda.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Hara Hapicha Guda</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Hara Hapicha Guda</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5298858940001,4.62919891400003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.17">
+        <name>Hara Wariyo Duba</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Hara Wariyo Duba.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Hara Wariyo Duba</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Hara Wariyo Duba</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4868321000001,4.63694789700003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.18">
+        <name>Kawa Motorized Pump</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Kawa Motorized Pump.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Kawa Motorized Pump</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Kawa Motorized Pump</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.528111111,4.65568611100002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Waterpoints.19">
+        <name>Motori Midanu</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Waterpoints.schema">
+            <SimpleData name="FolderPath">Motori Midanu.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water point ? Motori Midanu</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kaw RGU Map Layers/Water point|layername=Motori Midanu</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4793388890001,4.66979210700003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

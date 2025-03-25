@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="settlements.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="Easting" type="float"/>
+      <SimpleField name="Northing" type="float"/>
+      <SimpleField name="Elevation" type="float"/>
+      <SimpleField name="Feature" type="string"/>
+      <SimpleField name="layer" type="string"/>
+      <SimpleField name="path" type="string"/>
+    </Schema>
+    <Document id="settlements">
+      <name>settlements</name>
+      <Placemark id="settlements.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#settlements.schema">
+            <SimpleData name="OBJECTID">1</SimpleData>
+            <SimpleData name="Easting">35.94735200000</SimpleData>
+            <SimpleData name="Northing">5.15997800000</SimpleData>
+            <SimpleData name="Elevation">419</SimpleData>
+            <SimpleData name="Feature">Kadu village</SimpleData>
+            <SimpleData name="layer">Kadu_village</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kajmikine RGU/Kajamakin RGU/Kadu_village.shp</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9473520004078,5.15997799972413,419
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="settlements.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#settlements.schema">
+            <SimpleData name="OBJECTID">1</SimpleData>
+            <SimpleData name="Easting">35.85436800000</SimpleData>
+            <SimpleData name="Northing">5.22124700000</SimpleData>
+            <SimpleData name="Elevation">408</SimpleData>
+            <SimpleData name="Feature">Kamatak village</SimpleData>
+            <SimpleData name="layer">Kamatak_village</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kajmikine RGU/Kajamakin RGU/Kamatak_village.shp</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.8543680001567,5.2212469998546,408
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Nalos_village.shp</name>
+	<Schema name="Nalos_village" id="S_Nalos_village_DDS">
+		<SimpleField type="long" name="OBJECTID"><displayName>&lt;b&gt;OBJECTID&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="double" name="Easting"><displayName>&lt;b&gt;Easting&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="double" name="Northing"><displayName>&lt;b&gt;Northing&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="long" name="Elevation"><displayName>&lt;b&gt;Elevation&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Feature"><displayName>&lt;b&gt;Feature&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="hlightPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>OBJECTID</b></td><td>$[Nalos_village/OBJECTID]</td></tr>
+  <tr><td><b>Easting</b></td><td>$[Nalos_village/Easting]</td></tr>
+  <tr><td><b>Northing</b></td><td>$[Nalos_village/Northing]</td></tr>
+  <tr><td><b>Elevation</b></td><td>$[Nalos_village/Elevation]</td></tr>
+  <tr><td><b>Feature</b></td><td>$[Nalos_village/Feature]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="normPointStyle">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>OBJECTID</b></td><td>$[Nalos_village/OBJECTID]</td></tr>
+  <tr><td><b>Easting</b></td><td>$[Nalos_village/Easting]</td></tr>
+  <tr><td><b>Northing</b></td><td>$[Nalos_village/Northing]</td></tr>
+  <tr><td><b>Elevation</b></td><td>$[Nalos_village/Elevation]</td></tr>
+  <tr><td><b>Feature</b></td><td>$[Nalos_village/Feature]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="pointStyleMap">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#normPointStyle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hlightPointStyle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="layer 0">
+		<name>Nalos_village</name>
+		<Placemark>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>ffffffff</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Nalos_village_DDS">
+					<SimpleData name="OBJECTID">1</SimpleData>
+					<SimpleData name="Easting">35.8757</SimpleData>
+					<SimpleData name="Northing">5.2922</SimpleData>
+					<SimpleData name="Elevation">413</SimpleData>
+					<SimpleData name="Feature">Village1</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.87573400038972,5.292204000447271,413</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

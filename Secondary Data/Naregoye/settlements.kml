@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="settlements.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="Easting" type="float"/>
+      <SimpleField name="Northing" type="float"/>
+      <SimpleField name="Elevation" type="float"/>
+      <SimpleField name="Feature" type="string"/>
+      <SimpleField name="layer" type="string"/>
+      <SimpleField name="path" type="string"/>
+    </Schema>
+    <Document id="settlements">
+      <name>settlements</name>
+      <Placemark id="settlements.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#settlements.schema">
+            <SimpleData name="OBJECTID">1</SimpleData>
+            <SimpleData name="Easting">36.05997400000</SimpleData>
+            <SimpleData name="Northing">5.20723700000</SimpleData>
+            <SimpleData name="Elevation">421</SimpleData>
+            <SimpleData name="Feature">Kaldap village</SimpleData>
+            <SimpleData name="layer">Naregoy RGU ? Kaldap_village.shp</SimpleData>
+            <SimpleData name="path">/vsizip/C:/GIS/Afriscout/RGU Shapefiles/Naregoye RGU/Naregoy RGU.zip/Kaldap_village.shp|layername=Kaldap_village</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0599739997579,5.20723699963029,421
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="settlements.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#settlements.schema">
+            <SimpleData name="OBJECTID">1</SimpleData>
+            <SimpleData name="Easting">36.06603900000</SimpleData>
+            <SimpleData name="Northing">5.19806200000</SimpleData>
+            <SimpleData name="Elevation">403</SimpleData>
+            <SimpleData name="Feature">Karkersiyem village</SimpleData>
+            <SimpleData name="layer">Naregoy RGU ? Karkersiyem_village.shp</SimpleData>
+            <SimpleData name="path">/vsizip/C:/GIS/Afriscout/RGU Shapefiles/Naregoye RGU/Naregoy RGU.zip/Karkersiyem_village.shp|layername=Karkersiyem_village</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.06603900046,5.19806199992008,403
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="settlements.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#settlements.schema">
+            <SimpleData name="Easting">36.07802700000</SimpleData>
+            <SimpleData name="Northing">5.22081900000</SimpleData>
+            <SimpleData name="Elevation">425</SimpleData>
+            <SimpleData name="Feature">Nachepele Kuasa village</SimpleData>
+            <SimpleData name="layer">Naregoy RGU ? Nachepele_Kuasa_village.shp</SimpleData>
+            <SimpleData name="path">/vsizip/C:/GIS/Afriscout/RGU Shapefiles/Naregoye RGU/Naregoy RGU.zip/Nachepele_Kuasa_village.shp|layername=Nachepele_Kuasa_village</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.078027,5.220819,425
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="settlements.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#settlements.schema">
+            <SimpleData name="OBJECTID">1</SimpleData>
+            <SimpleData name="Easting">36.08308200000</SimpleData>
+            <SimpleData name="Northing">5.22861100000</SimpleData>
+            <SimpleData name="Elevation">428</SimpleData>
+            <SimpleData name="Feature">Nawyadome village</SimpleData>
+            <SimpleData name="layer">Naregoy RGU ? Nawyadome_village.shp</SimpleData>
+            <SimpleData name="path">/vsizip/C:/GIS/Afriscout/RGU Shapefiles/Naregoye RGU/Naregoy RGU.zip/Nawyadome_village.shp|layername=Nawyadome_village</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0830820003592,5.22861099963705,428
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

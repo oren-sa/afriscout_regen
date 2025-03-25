@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="waterpoints.schema">
+      <SimpleField name="FolderPath" type="string"/>
+      <SimpleField name="SymbolID" type="float"/>
+      <SimpleField name="AltMode" type="int"/>
+      <SimpleField name="Base" type="float"/>
+      <SimpleField name="PopupInfo" type="string"/>
+      <SimpleField name="HasLabel" type="int"/>
+      <SimpleField name="LabelID" type="float"/>
+      <SimpleField name="layer" type="string"/>
+      <SimpleField name="path" type="string"/>
+    </Schema>
+    <Document id="waterpoints">
+      <name>waterpoints</name>
+      <Placemark id="waterpoints.1">
+        <name>Dambala Buke</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Dambala Buke.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? Dambala Buke</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=Dambala Buke</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.2774205000001,4.08552959700006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.2">
+        <name>Fasho</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Fasho.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? Fasho</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=Fasho</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.182043698,4.13267390000004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.3">
+        <name>Giriba wells</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Giriba wells.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? Giriba wells</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=Giriba wells</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3447983,4.09434330000005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.4">
+        <name>Har Faar</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Har Faar.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? Har Faar</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=Har Faar</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.319882502,3.98172680000005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.5">
+        <name>Har jema</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Har jema.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? Har jema</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=Har jema</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.257357402,4.02504309600005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.6">
+        <name>Har Kojowa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Har Kojowa .kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? Har Kojowa</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=Har Kojowa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.322068485,4.06902664100005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.7">
+        <name>Haraddey</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Haraddey.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? Haraddey</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=Haraddey</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.2558751610001,4.09969581100006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.8">
+        <name>Kojowa Birka</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Kojowa Birka.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? Kojowa Birka</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=Kojowa Birka</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3297221830001,4.08239404900007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.9">
+        <name>Kojowa Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Kojowa Well.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? Kojowa Well</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=Kojowa Well</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3268339200001,4.06937747900002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.10">
+        <name>Shenical</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Shenical.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? Shenical</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=Shenical</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3312559990001,4.08752109800002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.11">
+        <name>war ade</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">war ade.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? war ade</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=war ade</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.269389399,4.20527190500007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.12">
+        <name>War adi</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">war adi.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? war adi</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=war adi</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3676116990001,4.11335170000007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.13">
+        <name>Warta Banan</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Warta Banan.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points in Kojowa RGU ? Warta Banan</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Kojowa RGU Map Layer SHP Files/Water Points in Kojowa RGU|layername=Warta Banan</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3504232000001,4.20404680100006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

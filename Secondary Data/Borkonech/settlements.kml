@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>villages</name>
+  <Placemark>
+      <Point><coordinates>36.0387669996343,4.80245599956296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>36.0230071201269,4.80727440702559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>36.0166260033854,4.85651895262922</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

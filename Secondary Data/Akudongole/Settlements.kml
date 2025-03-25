@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>new_scratch_layer</name>
+  <Placemark>
+      <Point><coordinates>36.0115070982522,4.78485182700862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>35.9800076375286,4.78013718504877</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

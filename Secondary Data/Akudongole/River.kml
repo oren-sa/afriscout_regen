@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="river" id="river">
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>river</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#river">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>36.016335,4.78896100000003 36.013945,4.78547599999996 36.013743,4.78309000000007 36.0145770000001,4.78116899999998 36.016257,4.77851500000008 36.0174090000001,4.77557600000011 36.0177460000001,4.77242200000006 36.0161040000001,4.77013700000003 36.0141970000001,4.768711 36.0097600000001,4.76681499999995 36.007711,4.76583700000003 36.0061870000001,4.76417500000002 36.0058160000001,4.76186500000006 36.0067030000001,4.75890300000009 36.0078530000001,4.75598399999996 36.0077370000001,4.75290499999994 36.006216,4.75022300000006</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

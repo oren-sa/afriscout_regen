@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="road_line" id="road_line">
+	<SimpleField name="Id" type="int"></SimpleField>
+</Schema>
+<Folder><name>road_line</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#road_line">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>40.7958387680905,5.20971796828824 40.7817101369725,5.18815532563654 40.7871960930334,5.1899768825814 40.7901278584802,5.19241974194498 40.7923266800375,5.19241973889564 40.795666842798,5.19407037472489 40.7983754169899,5.19407935228539</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#road_line">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>40.7707608490197,5.14758344743502 40.7716981695279,5.14929588645177 40.7725578069914,5.15254555534953 40.7729147349601,5.15342587632054 40.7732359723482,5.15583700498635 40.7722080335919,5.16337446152059 40.7736357461323,5.16737159484375 40.7752918972973,5.17536586314163 40.7772335838414,5.17896328222097 40.7817101369725,5.18815532563654</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#road_line">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>40.7707608490197,5.14758344743502 40.7667636887658,5.14736879726502 40.7583628164619,5.14297314959952 40.7490232284462,5.13982065986655 40.744918567871,5.13779830536694 40.7414682762753,5.13815519717777 40.7357710869022,5.13710077671275 40.7318488310362,5.13695867930174</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#road_line">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>40.7707608490197,5.14758344743502 40.7713430569309,5.14573900664413 40.7728183532164,5.14500143798757 40.7734608198975,5.14390698339632 40.7737463597817,5.14278873682373 40.7746267778016,5.1418132442662 40.7757689425374,5.14114705348472 40.7765065907608,5.1408377503375 40.7789606676741,5.13911833456386</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#road_line">
+		<SimpleData name="Id">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>40.7707608490197,5.14758344743502 40.7716129538287,5.14696730673638 40.7745983541385,5.14748818692415 40.7757404221109,5.14921111031319 40.7773232874494,5.15101416913964 40.7802686152503,5.15151501536694 40.7866325941468,5.15333754778639 40.788478204283,5.15346725445557</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

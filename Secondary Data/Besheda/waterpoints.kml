@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="waterpoints.schema">
+      <SimpleField name="FolderPath" type="string"/>
+      <SimpleField name="SymbolID" type="float"/>
+      <SimpleField name="AltMode" type="int"/>
+      <SimpleField name="Base" type="float"/>
+      <SimpleField name="PopupInfo" type="string"/>
+      <SimpleField name="HasLabel" type="int"/>
+      <SimpleField name="LabelID" type="float"/>
+      <SimpleField name="layer" type="string"/>
+      <SimpleField name="path" type="string"/>
+    </Schema>
+    <Document id="waterpoints">
+      <name>waterpoints</name>
+      <Placemark id="waterpoints.1">
+        <name>Boro Water Point</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Boro Water Point New.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Boro Hand Pump</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Boro Hand Pump</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4878723850001,5.09047272800007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.2">
+        <name>Chillo Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Chillo Chirosh (Tulla).kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="layer">Water Points ? Chillo Chirosh Tulla</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Chillo Chirosh Tulla</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4558334020001,5.15398245000006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.3">
+        <name>Water Point (Cistern)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Water Point (Cistern).kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Cistern</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Cistern</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4489422080001,5.14700175900003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.4">
+        <name>Dacho Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Dacho Chirosh.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Dacho Chirosh</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Dacho Chirosh</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.501236535,5.15341659700005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.5">
+        <name>Genbela Shallow Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Genbela Shallow Well.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Genbela Shallow Well</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Genbela Shallow Well</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.508434842,5.13549002600007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.6">
+        <name>Guyillo Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Guyillo Chirosh (Tulla).kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Guyillo Chirosh Tulla</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Guyillo Chirosh Tulla</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4894439780001,5.14249389500003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.7">
+        <name>Guyillo Hand Dug Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Guyillo Hand Dug Well.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Guyillo Hand Dug Well</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Guyillo Hand Dug Well</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4877769760001,5.14749147300006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.8">
+        <name>Konsona Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Konssona Pond.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Konsona Pond</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Konsona Pond</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4834704,5.17001010000007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.9">
+        <name>Lomach Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Lomach Chirosh.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Lomach Chirosh</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Lomach Chirosh</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.501063097,5.15406456600005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.10">
+        <name>Lomacha Ciroshe</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Lomacha Ciroshe.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Lomacha Ciroshe</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Lomacha Ciroshe</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5000000920001,5.14999709000006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.11">
+        <name>makle Shallow well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">makle Shallow well.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? makle Shallow well</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=makle Shallow well</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.505839705,5.14188480900003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.12">
+        <name>Water Point (Pond- Mekone Pula)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Water Point (Pond- Mekone Pula).kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Mekone Pula Pond 1</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Mekone Pula Pond 1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.482903505,5.17173578700005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.13">
+        <name>Mokone Pulla Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Mokone Pulla Pond.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Mokone Pulla Pond 2</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Mokone Pulla Pond 2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.486675329,5.17615083100003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.14">
+        <name>Muda Hand Dug Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Muda Hand Dug Well.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Muda Hand Dug Well</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Muda Hand Dug Well</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4844454230001,5.15333579600002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.15">
+        <name>Oto Noko Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Oto Noko Chirosh Tulla</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Oto Noko Chirosh Tulla</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4411381290001,5.13619231100006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.16">
+        <name>Sakna Kana Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Sakna Chirosh.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Sakna Kana Chirosh</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Sakna Kana Chirosh</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.504191437,5.14745888400006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.17">
+        <name>Water Point Susila Wonbn Bayta</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Water Point Susila Wonbn Bayta.kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Susila Wonbn Bayta</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Susila Wonbn Bayta</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5041097980001,5.14763540300004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="waterpoints.18">
+        <name>Water Point or Pond(Werle Pulo)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waterpoints.schema">
+            <SimpleData name="FolderPath">Water Point or Pond(Werle Pulo).kml</SimpleData>
+            <SimpleData name="SymbolID">0</SimpleData>
+            <SimpleData name="AltMode">-1</SimpleData>
+            <SimpleData name="Base">0.00000000000</SimpleData>
+            <SimpleData name="HasLabel">-1</SimpleData>
+            <SimpleData name="LabelID">0</SimpleData>
+            <SimpleData name="layer">Water Points ? Werle Pulo Pond</SimpleData>
+            <SimpleData name="path">C:/GIS/Afriscout/RGU Shapefiles/Besheda RG Unit Shape/Water Points|layername=Werle Pulo Pond</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.434940103,5.14408061600005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

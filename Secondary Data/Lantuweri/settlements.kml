@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="settlements" id="settlements">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>settlements</name>
+  <Placemark>
+      <Point><coordinates>40.8449754390072,5.16346009896999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>40.7508675339931,5.10894008849057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>40.8031151975023,5.07515830405064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>40.8023669852223,5.12638091673631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>40.8049258712198,5.1232608715289</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
