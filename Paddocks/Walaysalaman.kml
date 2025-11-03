@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Walaysalaman.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="Woreda" type="string"/>
+      <SimpleField name="ADM3" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+      <SimpleField name="PadName" type="string"/>
+      <SimpleField name="PadCode" type="string"/>
+      <SimpleField name="Note" type="string"/>
+      <SimpleField name="Date" type="string"/>
+      <SimpleField name="Shape_Leng" type="float"/>
+      <SimpleField name="Shape_Area" type="float"/>
+    </Schema>
+    <Document id="Walaysalaman">
+      <name>Walaysalaman</name>
+      <Placemark id="Walaysalaman.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Walaysalaman.schema">
+            <SimpleData name="OBJECTID">44</SimpleData>
+            <SimpleData name="Woreda">Liben</SimpleData>
+            <SimpleData name="ADM3">ET041407</SimpleData>
+            <SimpleData name="RGUName">Walaysalaman</SimpleData>
+            <SimpleData name="RGUCode">ET041407_01</SimpleData>
+            <SimpleData name="PadName">P5</SimpleData>
+            <SimpleData name="PadCode">ET041407_01_05</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.19406417935</SimpleData>
+            <SimpleData name="Shape_Area">0.00098614190</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.850061333,4.89078755000003,0
+                39.8533869,4.89065210000007,0
+                39.8638998050001,4.89546463600004,0
+                39.869128,4.90039360000003,0
+                39.872178369,4.91047190900002,0
+                39.8732074760001,4.92079334100004,0
+                39.8768314450001,4.93683857000002,0
+                39.876826355,4.94249313200004,0
+                39.8722756650001,4.95600087000003,0
+                39.890890632,4.93212235100003,0
+                39.9022430250001,4.92400414600007,0
+                39.9022365810001,4.92396428700005,0
+                39.894639452,4.91608452400004,0
+                39.8863872740001,4.90537541400005,0
+                39.871521467,4.89103241700008,0
+                39.86386026,4.88702820200007,0
+                39.8632062180001,4.88583671300006,0
+                39.85988675,4.88543222900006,0
+                39.8587102650001,4.88573870200003,0
+                39.8497628330001,4.88996876800007,0
+                39.849792854,4.89006442200002,0
+                39.850061333,4.89078755000003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Walaysalaman.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Walaysalaman.schema">
+            <SimpleData name="OBJECTID">339</SimpleData>
+            <SimpleData name="Woreda">Liben</SimpleData>
+            <SimpleData name="ADM3">ET041407</SimpleData>
+            <SimpleData name="RGUName">Walaysalaman</SimpleData>
+            <SimpleData name="RGUCode">ET041407_01</SimpleData>
+            <SimpleData name="PadName">P1</SimpleData>
+            <SimpleData name="PadCode">ET041407_01_01</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.16822652540</SimpleData>
+            <SimpleData name="Shape_Area">0.00078482569</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.9044029410001,4.94139077000005,0
+                39.8995139,4.94178290000002,0
+                39.896048879,4.94271488300006,0
+                39.8917746340001,4.94579123000005,0
+                39.8904052660001,4.94836481600004,0
+                39.889746722,4.95139232200006,0
+                39.885645954,4.95882294800003,0
+                39.8751361750001,4.96260191400006,0
+                39.876251989,4.96541825000003,0
+                39.8771683000001,4.96773103700002,0
+                39.8774769140001,4.97092357400004,0
+                39.8779142000001,4.97544720000008,0
+                39.879400478,4.97620052700006,0
+                39.88220886,4.97932077700005,0
+                39.8871762690001,4.98506494800006,0
+                39.8914555210001,4.99114697800007,0
+                39.8935672540001,4.99480447000008,0
+                39.895720709,4.99853422400003,0
+                39.8982251950001,5.00151607000004,0
+                39.90440649,5.00947869700002,0
+                39.905723015,5.00858790000007,0
+                39.8966046720001,4.98693837300004,0
+                39.8961415100001,4.97283676600006,0
+                39.8973862820001,4.96158301800006,0
+                39.9017621260001,4.95214408000004,0
+                39.9043397720001,4.94514082600006,0
+                39.9044029410001,4.94139077000005,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Walaysalaman.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Walaysalaman.schema">
+            <SimpleData name="OBJECTID">340</SimpleData>
+            <SimpleData name="Woreda">Liben</SimpleData>
+            <SimpleData name="ADM3">ET041407</SimpleData>
+            <SimpleData name="RGUName">Walaysalaman</SimpleData>
+            <SimpleData name="RGUCode">ET041407_01</SimpleData>
+            <SimpleData name="PadName">P2</SimpleData>
+            <SimpleData name="PadCode">ET041407_01_02</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.13631580598</SimpleData>
+            <SimpleData name="Shape_Area">0.00043992383</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.8751361750001,4.96260191400006,0
+                39.861238676,4.96662173500005,0
+                39.867546974,4.98080371000003,0
+                39.8766311040001,4.98377782900008,0
+                39.887339807,4.99453111600008,0
+                39.8945601560001,5.00381574700003,0
+                39.90216801,5.01099331500006,0
+                39.90440649,5.00947869700002,0
+                39.8982251950001,5.00151607000004,0
+                39.895720709,4.99853422400003,0
+                39.8935672540001,4.99480447000008,0
+                39.8914555210001,4.99114697800007,0
+                39.8871762690001,4.98506494800006,0
+                39.88220886,4.97932077700005,0
+                39.879400478,4.97620052700006,0
+                39.8779142000001,4.97544720000008,0
+                39.8774769140001,4.97092357400004,0
+                39.8771683000001,4.96773103700002,0
+                39.876251989,4.96541825000003,0
+                39.8751361750001,4.96260191400006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Walaysalaman.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Walaysalaman.schema">
+            <SimpleData name="OBJECTID">341</SimpleData>
+            <SimpleData name="Woreda">Liben</SimpleData>
+            <SimpleData name="ADM3">ET041407</SimpleData>
+            <SimpleData name="RGUName">Walaysalaman</SimpleData>
+            <SimpleData name="RGUCode">ET041407_01</SimpleData>
+            <SimpleData name="PadName">P3</SimpleData>
+            <SimpleData name="PadCode">ET041407_01_03</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.10842150120</SimpleData>
+            <SimpleData name="Shape_Area">0.00046492459</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.9022430250001,4.92400414600007,0
+                39.890890632,4.93212235100003,0
+                39.8722756650001,4.95600087000003,0
+                39.873847369,4.95962780700006,0
+                39.8751361750001,4.96260191400006,0
+                39.885645954,4.95882294800003,0
+                39.889746722,4.95139232200006,0
+                39.8904052660001,4.94836481600004,0
+                39.8917746340001,4.94579123000005,0
+                39.896048879,4.94271488300006,0
+                39.8995139,4.94178290000002,0
+                39.9044029410001,4.94139077000005,0
+                39.9044643770001,4.93774357100006,0
+                39.9022430250001,4.92400414600007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Walaysalaman.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Walaysalaman.schema">
+            <SimpleData name="OBJECTID">342</SimpleData>
+            <SimpleData name="Woreda">Liben</SimpleData>
+            <SimpleData name="ADM3">ET041407</SimpleData>
+            <SimpleData name="RGUName">Walaysalaman</SimpleData>
+            <SimpleData name="RGUCode">ET041407_01</SimpleData>
+            <SimpleData name="PadName">P4</SimpleData>
+            <SimpleData name="PadCode">ET041407_01_04</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.18086006835</SimpleData>
+            <SimpleData name="Shape_Area">0.00089876067</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.8722756650001,4.95600087000003,0
+                39.876826355,4.94249313200004,0
+                39.8768314450001,4.93683857000002,0
+                39.8732074760001,4.92079334100004,0
+                39.872178369,4.91047190900002,0
+                39.869128,4.90039360000003,0
+                39.8638998050001,4.89546463600004,0
+                39.8533869,4.89065210000007,0
+                39.850061333,4.89078755000003,0
+                39.8514133370001,4.89442907800003,0
+                39.860720332,4.90670402500007,0
+                39.8636322680001,4.92154985000008,0
+                39.862305387,4.93773317700004,0
+                39.8603288680001,4.95073461500004,0
+                39.8604410130001,4.96482847300007,0
+                39.861238676,4.96662173500005,0
+                39.8751361750001,4.96260191400006,0
+                39.873847369,4.95962780700006,0
+                39.8722756650001,4.95600087000003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Kaw.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="Woreda" type="string"/>
+      <SimpleField name="ADM3" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+      <SimpleField name="PadName" type="string"/>
+      <SimpleField name="PadCode" type="string"/>
+      <SimpleField name="Note" type="string"/>
+      <SimpleField name="Date" type="string"/>
+      <SimpleField name="Shape_Leng" type="float"/>
+      <SimpleField name="Shape_Area" type="float"/>
+    </Schema>
+    <Document id="Kaw">
+      <name>Kaw</name>
+      <Placemark id="Kaw.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kaw.schema">
+            <SimpleData name="OBJECTID">347</SimpleData>
+            <SimpleData name="Woreda">Arero</SimpleData>
+            <SimpleData name="ADM3">ET041208</SimpleData>
+            <SimpleData name="RGUName">Kaw</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+            <SimpleData name="PadName">P11</SimpleData>
+            <SimpleData name="PadCode">ET041208_04_11</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.38316103135</SimpleData>
+            <SimpleData name="Shape_Area">0.00525231285</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.5272774700001,4.65687927400006,0
+                38.5258269,4.65379990000002,0
+                38.5249263000001,4.65092450000003,0
+                38.5227903000001,4.64803810000006,0
+                38.5214605,4.64502680000004,0
+                38.5187011,4.64085650000004,0
+                38.5175643000001,4.63891840000002,0
+                38.5168914000001,4.63593650000007,0
+                38.5173768000001,4.63427160000003,0
+                38.5185927000001,4.63140040000008,0
+                38.5190153,4.63048070000002,0
+                38.5185102,4.62435870000007,0
+                38.5154200000001,4.62222480000003,0
+                38.511156,4.62211710000003,0
+                38.5049750000001,4.62120140000007,0
+                38.4970442000001,4.61955920000003,0
+                38.4929496,4.61548910000005,0
+                38.4892164,4.61030850000003,0
+                38.4868027000001,4.60428340000004,0
+                38.4820606000001,4.59875190000002,0
+                38.4779375000001,4.58847390000005,0
+                38.4734662000001,4.58047840000006,0
+                38.4712713000001,4.57433930000008,0
+                38.4666595,4.56058790000003,0
+                38.4629022,4.55540670000005,0
+                38.4598647,4.55320140000003,0
+                38.4564363000001,4.54968420000006,0
+                38.4547036000001,4.54577820000003,0
+                38.4469221000001,4.53545080000004,0
+                38.4427823,4.53371960000004,0
+                38.442239622,4.53320480000002,0
+                38.4419139190001,4.53339517400002,0
+                38.4397737800001,4.55391943300003,0
+                38.4385371070001,4.56973934500007,0
+                38.447301952,4.59044953300003,0
+                38.45110909,4.59758791700006,0
+                38.4534885510001,4.61091289800004,0
+                38.456819796,4.63327983100004,0
+                38.4601510420001,4.67087531500005,0
+                38.4620257340001,4.67978010400003,0
+                38.471118136,4.67378697500004,0
+                38.478705,4.66878620000006,0
+                38.485965981,4.66692090700008,0
+                38.494796884,4.66464585100005,0
+                38.5037359520001,4.66234292800004,0
+                38.510947415,4.66048508000006,0
+                38.5202752710001,4.65808199600002,0
+                38.5269687000001,4.65681430000006,0
+                38.5272774700001,4.65687927400006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kaw.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kaw.schema">
+            <SimpleData name="OBJECTID">358</SimpleData>
+            <SimpleData name="Woreda">Arero</SimpleData>
+            <SimpleData name="ADM3">ET041208</SimpleData>
+            <SimpleData name="RGUName">Kaw</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+            <SimpleData name="PadName">P1</SimpleData>
+            <SimpleData name="PadCode">ET041208_04_01</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.29441301973</SimpleData>
+            <SimpleData name="Shape_Area">0.00310473236</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.529022707,4.57561380200002,0
+                38.4986603070001,4.56258222400004,0
+                38.4571417290001,4.53561638300005,0
+                38.452750947,4.53019068000003,0
+                38.4478721290001,4.52056801800006,0
+                38.447358679,4.52006084400006,0
+                38.447346081,4.52052302300007,0
+                38.4478735800001,4.52991175100004,0
+                38.4445389580001,4.53186083800006,0
+                38.442239622,4.53320480000002,0
+                38.4427823,4.53371960000004,0
+                38.4469221000001,4.53545080000004,0
+                38.4547036000001,4.54577820000003,0
+                38.4564363000001,4.54968420000006,0
+                38.4598647,4.55320140000003,0
+                38.4629022,4.55540670000005,0
+                38.4666595,4.56058790000003,0
+                38.4712713000001,4.57433930000008,0
+                38.4734662000001,4.58047840000006,0
+                38.4779375000001,4.58847390000005,0
+                38.4820606000001,4.59875190000002,0
+                38.4868027000001,4.60428340000004,0
+                38.4892164,4.61030850000003,0
+                38.4929496,4.61548910000005,0
+                38.4970442000001,4.61955920000003,0
+                38.5049750000001,4.62120140000007,0
+                38.511156,4.62211710000003,0
+                38.5154200000001,4.62222480000003,0
+                38.5185102,4.62435870000007,0
+                38.5198189590001,4.61923078800004,0
+                38.522638767,4.60757402900003,0
+                38.52374257,4.60232115800005,0
+                38.525287409,4.59496944900008,0
+                38.5273589930001,4.58511101900007,0
+                38.5290794000001,4.57692380000003,0
+                38.529022707,4.57561380200002,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kaw.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kaw.schema">
+            <SimpleData name="OBJECTID">359</SimpleData>
+            <SimpleData name="Woreda">Arero</SimpleData>
+            <SimpleData name="ADM3">ET041208</SimpleData>
+            <SimpleData name="RGUName">Kaw</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+            <SimpleData name="PadName">P2</SimpleData>
+            <SimpleData name="PadCode">ET041208_04_02</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.18916770324</SimpleData>
+            <SimpleData name="Shape_Area">0.00203260738</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.5666444390001,4.58594106700002,0
+                38.5541474290001,4.58658684700004,0
+                38.5312684730001,4.57657768800004,0
+                38.529022707,4.57561380200002,0
+                38.5290794000001,4.57692380000003,0
+                38.5273589930001,4.58511101900007,0
+                38.525287409,4.59496944900008,0
+                38.52374257,4.60232115800005,0
+                38.522638767,4.60757402900003,0
+                38.5198189590001,4.61923078800004,0
+                38.5185102,4.62435870000007,0
+                38.5257156000001,4.63119940000007,0
+                38.5245967000001,4.63672390000005,0
+                38.5291807,4.64138350000007,0
+                38.5328586000001,4.64549730000005,0
+                38.5522614000001,4.63070170000003,0
+                38.5561086000001,4.62468770000004,0
+                38.5665175,4.58657860000005,0
+                38.5666444390001,4.58594106700002,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kaw.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kaw.schema">
+            <SimpleData name="OBJECTID">360</SimpleData>
+            <SimpleData name="Woreda">Arero</SimpleData>
+            <SimpleData name="ADM3">ET041208</SimpleData>
+            <SimpleData name="RGUName">Kaw</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+            <SimpleData name="PadName">P3</SimpleData>
+            <SimpleData name="PadCode">ET041208_04_03</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.20670188380</SimpleData>
+            <SimpleData name="Shape_Area">0.00200495264</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.5894387380001,4.61131671300006,0
+                38.5891587240001,4.61163274000006,0
+                38.5785318440001,4.60783566500004,0
+                38.5747355930001,4.60064207600004,0
+                38.566968633,4.58592431400007,0
+                38.5666444390001,4.58594106700002,0
+                38.5665175,4.58657860000005,0
+                38.5561086000001,4.62468770000004,0
+                38.5522614000001,4.63070170000003,0
+                38.5328586000001,4.64549730000005,0
+                38.5348301000001,4.65060080000006,0
+                38.5362267,4.65263400000003,0
+                38.536932,4.65525670000005,0
+                38.5403907,4.65944870000004,0
+                38.5472336,4.66039480000006,0
+                38.5517614,4.65895600000005,0
+                38.5551017000001,4.65904820000003,0
+                38.5582777000001,4.65940140000004,0
+                38.5647683,4.65913530000006,0
+                38.5697079110001,4.65677998900003,0
+                38.5777882,4.65168760000006,0
+                38.5849292,4.63357250000007,0
+                38.585593246,4.62853311900005,0
+                38.5868762000001,4.61879690000006,0
+                38.5895449000001,4.61241930000006,0
+                38.5894387380001,4.61131671300006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kaw.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kaw.schema">
+            <SimpleData name="OBJECTID">361</SimpleData>
+            <SimpleData name="Woreda">Arero</SimpleData>
+            <SimpleData name="ADM3">ET041208</SimpleData>
+            <SimpleData name="RGUName">Kaw</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+            <SimpleData name="PadName">P4</SimpleData>
+            <SimpleData name="PadCode">ET041208_04_04</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.26675576867</SimpleData>
+            <SimpleData name="Shape_Area">0.00271194542</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.594534653,4.60556541000005,0
+                38.5894387380001,4.61131671300006,0
+                38.5895449000001,4.61241930000006,0
+                38.5868762000001,4.61879690000006,0
+                38.585593246,4.62853311900005,0
+                38.5849292,4.63357250000007,0
+                38.5777882,4.65168760000006,0
+                38.5697079110001,4.65677998900003,0
+                38.5647683,4.65913530000006,0
+                38.5582777000001,4.65940140000004,0
+                38.5551017000001,4.65904820000003,0
+                38.5517614,4.65895600000005,0
+                38.5472336,4.66039480000006,0
+                38.5403907,4.65944870000004,0
+                38.5435565000001,4.67257720000003,0
+                38.5440592,4.67997470000006,0
+                38.5450899000001,4.68627750000007,0
+                38.5474547000001,4.69185440000007,0
+                38.5481301,4.69886040000006,0
+                38.5533373750001,4.69850656200003,0
+                38.5577871,4.69820420000002,0
+                38.5625532,4.70053270000005,0
+                38.5778227000001,4.68414600000006,0
+                38.582029,4.68687490000002,0
+                38.5853594000001,4.68443760000002,0
+                38.5878836000001,4.68236480000007,0
+                38.5896489,4.68200000000007,0
+                38.5927172,4.67936590000005,0
+                38.5932846000001,4.67727100000008,0
+                38.5967155000001,4.67420190000007,0
+                38.5996784000001,4.66601500000007,0
+                38.601679,4.66136430000006,0
+                38.6022849,4.65506410000006,0
+                38.6032574000001,4.65305170000005,0
+                38.6077878,4.64953970000005,0
+                38.6001715,4.61827570000003,0
+                38.5947325000001,4.60604010000003,0
+                38.594534653,4.60556541000005,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kaw.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kaw.schema">
+            <SimpleData name="OBJECTID">362</SimpleData>
+            <SimpleData name="Woreda">Arero</SimpleData>
+            <SimpleData name="ADM3">ET041208</SimpleData>
+            <SimpleData name="RGUName">Kaw</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+            <SimpleData name="PadName">P5</SimpleData>
+            <SimpleData name="PadCode">ET041208_04_05</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.05496538660</SimpleData>
+            <SimpleData name="Shape_Area">0.00017987624</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.613683442,4.60468388500004,0
+                38.6129761020001,4.60374372200005,0
+                38.603462301,4.60458162200007,0
+                38.5947244700001,4.60535118000007,0
+                38.594534653,4.60556541000005,0
+                38.5947325000001,4.60604010000003,0
+                38.6001715,4.61827570000003,0
+                38.611507143,4.61328647900007,0
+                38.613189,4.60771650000004,0
+                38.613683442,4.60468388500004,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kaw.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kaw.schema">
+            <SimpleData name="OBJECTID">363</SimpleData>
+            <SimpleData name="Woreda">Arero</SimpleData>
+            <SimpleData name="ADM3">ET041208</SimpleData>
+            <SimpleData name="RGUName">Kaw</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+            <SimpleData name="PadName">P6</SimpleData>
+            <SimpleData name="PadCode">ET041208_04_06</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.09585692778</SimpleData>
+            <SimpleData name="Shape_Area">0.00030598241</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.611507143,4.61328647900007,0
+                38.6157166,4.61589150000003,0
+                38.6173265990001,4.62380828500005,0
+                38.6206811000001,4.63264730000003,0
+                38.6236658,4.63631050000004,0
+                38.6272136000001,4.63745560000007,0
+                38.6335473,4.63785330000007,0
+                38.6384375000001,4.63924140000006,0
+                38.6397233610001,4.63929495000002,0
+                38.613683442,4.60468388500004,0
+                38.613189,4.60771650000004,0
+                38.611507143,4.61328647900007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kaw.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kaw.schema">
+            <SimpleData name="OBJECTID">364</SimpleData>
+            <SimpleData name="Woreda">Arero</SimpleData>
+            <SimpleData name="ADM3">ET041208</SimpleData>
+            <SimpleData name="RGUName">Kaw</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+            <SimpleData name="PadName">P7</SimpleData>
+            <SimpleData name="PadCode">ET041208_04_07</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.14262203894</SimpleData>
+            <SimpleData name="Shape_Area">0.00103065201</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.639557461,4.64737562400006,0
+                38.6399174680001,4.63955294900006,0
+                38.6397233610001,4.63929495000002,0
+                38.6384375000001,4.63924140000006,0
+                38.6335473,4.63785330000007,0
+                38.6272136000001,4.63745560000007,0
+                38.6236658,4.63631050000004,0
+                38.6206811000001,4.63264730000003,0
+                38.6173265990001,4.62380828500005,0
+                38.6157166,4.61589150000003,0
+                38.611507143,4.61328647900007,0
+                38.6001715,4.61827570000003,0
+                38.6077878,4.64953970000005,0
+                38.6121941000001,4.65981010000007,0
+                38.6157435000001,4.66233700000004,0
+                38.6220538000001,4.66368090000003,0
+                38.6262479000001,4.66148990000005,0
+                38.6304694,4.65694930000006,0
+                38.636602597,4.65077763200003,0
+                38.6392605,4.64735100000007,0
+                38.639557461,4.64737562400006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kaw.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kaw.schema">
+            <SimpleData name="OBJECTID">365</SimpleData>
+            <SimpleData name="Woreda">Arero</SimpleData>
+            <SimpleData name="ADM3">ET041208</SimpleData>
+            <SimpleData name="RGUName">Kaw</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+            <SimpleData name="PadName">P8</SimpleData>
+            <SimpleData name="PadCode">ET041208_04_08</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.28237967376</SimpleData>
+            <SimpleData name="Shape_Area">0.00246487596</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.6386524540001,4.66081044700007,0
+                38.6393070330001,4.65281721400004,0
+                38.639557461,4.64737562400006,0
+                38.6392605,4.64735100000007,0
+                38.636602597,4.65077763200003,0
+                38.6304694,4.65694930000006,0
+                38.6262479000001,4.66148990000005,0
+                38.6220538000001,4.66368090000003,0
+                38.6157435000001,4.66233700000004,0
+                38.6121941000001,4.65981010000007,0
+                38.6077878,4.64953970000005,0
+                38.6032574000001,4.65305170000005,0
+                38.6022849,4.65506410000006,0
+                38.601679,4.66136430000006,0
+                38.5996784000001,4.66601500000007,0
+                38.5967155000001,4.67420190000007,0
+                38.5932846000001,4.67727100000008,0
+                38.5927172,4.67936590000005,0
+                38.5896489,4.68200000000007,0
+                38.5878836000001,4.68236480000007,0
+                38.5853594000001,4.68443760000002,0
+                38.582029,4.68687490000002,0
+                38.5778227000001,4.68414600000006,0
+                38.5625532,4.70053270000005,0
+                38.5577871,4.69820420000002,0
+                38.5533373750001,4.69850656200003,0
+                38.5481301,4.69886040000006,0
+                38.545309011,4.71106993300003,0
+                38.5565844750001,4.71011157900006,0
+                38.562359069,4.71190140100003,0
+                38.577612007,4.71447210500003,0
+                38.5977643900001,4.70513018600008,0
+                38.618822134,4.69496425400007,0
+                38.6335603630001,4.68089486600007,0
+                38.638355747,4.66443361200004,0
+                38.6385636580001,4.66082136900008,0
+                38.6386524540001,4.66081044700007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kaw.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kaw.schema">
+            <SimpleData name="OBJECTID">366</SimpleData>
+            <SimpleData name="Woreda">Arero</SimpleData>
+            <SimpleData name="ADM3">ET041208</SimpleData>
+            <SimpleData name="RGUName">Kaw</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+            <SimpleData name="PadName">P9</SimpleData>
+            <SimpleData name="PadCode">ET041208_04_09</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.20667623176</SimpleData>
+            <SimpleData name="Shape_Area">0.00131112506</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.545309011,4.71106993300003,0
+                38.5481301,4.69886040000006,0
+                38.5474547000001,4.69185440000007,0
+                38.5450899000001,4.68627750000007,0
+                38.5440592,4.67997470000006,0
+                38.5435565000001,4.67257720000003,0
+                38.5403907,4.65944870000004,0
+                38.536932,4.65525670000005,0
+                38.5362267,4.65263400000003,0
+                38.5348301000001,4.65060080000006,0
+                38.5328586000001,4.64549730000005,0
+                38.5291807,4.64138350000007,0
+                38.5245967000001,4.63672390000005,0
+                38.5257156000001,4.63119940000007,0
+                38.5185102,4.62435870000007,0
+                38.5190153,4.63048070000002,0
+                38.5185927000001,4.63140040000008,0
+                38.5173768000001,4.63427160000003,0
+                38.5168914000001,4.63593650000007,0
+                38.5175643000001,4.63891840000002,0
+                38.5187011,4.64085650000004,0
+                38.5214605,4.64502680000004,0
+                38.5227903000001,4.64803810000006,0
+                38.5249263000001,4.65092450000003,0
+                38.5258269,4.65379990000002,0
+                38.5272774700001,4.65687927400006,0
+                38.5277468,4.65787560000007,0
+                38.5284267000001,4.66264130000008,0
+                38.5267596,4.66892640000003,0
+                38.5249179,4.67396680000007,0
+                38.5238886000001,4.67810440000005,0
+                38.5229943000001,4.68067780000007,0
+                38.5238971000001,4.68478740000006,0
+                38.5246289,4.68658420000003,0
+                38.5242496000001,4.69077220000003,0
+                38.5254393000001,4.69600320000006,0
+                38.5247220000001,4.70044140000005,0
+                38.5248259000001,4.70617040000008,0
+                38.5261974000001,4.71013730000004,0
+                38.526247749,4.71056689500006,0
+                38.5262725870001,4.71056764000002,0
+                38.544709777,4.71112086400007,0
+                38.545309011,4.71106993300003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kaw.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kaw.schema">
+            <SimpleData name="OBJECTID">367</SimpleData>
+            <SimpleData name="Woreda">Arero</SimpleData>
+            <SimpleData name="ADM3">ET041208</SimpleData>
+            <SimpleData name="RGUName">Kaw</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+            <SimpleData name="PadName">P10</SimpleData>
+            <SimpleData name="PadCode">ET041208_04_10</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.21333826802</SimpleData>
+            <SimpleData name="Shape_Area">0.00244216609</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.5272774700001,4.65687927400006,0
+                38.5269687000001,4.65681430000006,0
+                38.5202752710001,4.65808199600002,0
+                38.510947415,4.66048508000006,0
+                38.5037359520001,4.66234292800004,0
+                38.494796884,4.66464585100005,0
+                38.485965981,4.66692090700008,0
+                38.478705,4.66878620000006,0
+                38.471118136,4.67378697500004,0
+                38.4620257340001,4.67978010400003,0
+                38.463958178,4.68895921900003,0
+                38.4653858560001,4.69466992600007,0
+                38.4725242390001,4.69800117000005,0
+                38.4751030990001,4.70562256300002,0
+                38.4814814310001,4.69893795600007,0
+                38.4910576030001,4.70621923500005,0
+                38.5181692200001,4.71032449200004,0
+                38.526247749,4.71056689500006,0
+                38.5261974000001,4.71013730000004,0
+                38.5248259000001,4.70617040000008,0
+                38.5247220000001,4.70044140000005,0
+                38.5254393000001,4.69600320000006,0
+                38.5242496000001,4.69077220000003,0
+                38.5246289,4.68658420000003,0
+                38.5238971000001,4.68478740000006,0
+                38.5229943000001,4.68067780000007,0
+                38.5238886000001,4.67810440000005,0
+                38.5249179,4.67396680000007,0
+                38.5267596,4.66892640000003,0
+                38.5284267000001,4.66264130000008,0
+                38.5277468,4.65787560000007,0
+                38.5272774700001,4.65687927400006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

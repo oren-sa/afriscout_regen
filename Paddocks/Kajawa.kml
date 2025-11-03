@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Kajawa.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="Woreda" type="string"/>
+      <SimpleField name="ADM3" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+      <SimpleField name="PadName" type="string"/>
+      <SimpleField name="PadCode" type="string"/>
+      <SimpleField name="Note" type="string"/>
+      <SimpleField name="Date" type="string"/>
+      <SimpleField name="Shape_Leng" type="float"/>
+      <SimpleField name="Shape_Area" type="float"/>
+    </Schema>
+    <Document id="Kajawa">
+      <name>Kajawa</name>
+      <Placemark id="Kajawa.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">47</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+            <SimpleData name="PadName">P8</SimpleData>
+            <SimpleData name="PadCode">ET051103_06_08</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.23653230680</SimpleData>
+            <SimpleData name="Shape_Area">0.00326073916</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.35165283,3.97906386900007,0
+                39.349991689,3.97707744600007,0
+                39.3491403850001,3.97452594400005,0
+                39.348961172,3.97309172600006,0
+                39.3485582820001,3.97139217800003,0
+                39.3477837410001,3.96983554800005,0
+                39.348270669,3.96764544800004,0
+                39.349746823,3.96497222800002,0
+                39.35248267,3.96310365300008,0
+                39.353368023,3.96198978300004,0
+                39.356274005,3.95804244500005,0
+                39.358496448,3.95560786100003,0
+                39.364761521,3.95078732600007,0
+                39.3677240850001,3.94740519100003,0
+                39.370771335,3.94369230300003,0
+                39.3720467700001,3.94004317300005,0
+                39.3716457460001,3.93873639400005,0
+                39.3701319090001,3.93380339000004,0
+                39.36981157,3.93096870200003,0
+                39.3698250460001,3.92892219300006,0
+                39.36994945,3.92884728700005,0
+                39.3685860780001,3.92690602600004,0
+                39.3211513890001,3.92334783500007,0
+                39.317285338,3.92592520300002,0
+                39.315191413,3.92820948600007,0
+                39.314125613,3.93049674200006,0
+                39.3134474660001,3.93103212100004,0
+                39.3130219760001,3.93132084700005,0
+                39.3124480930001,3.93171026800007,0
+                39.3109490320001,3.93249549000006,0
+                39.307950911,3.93263825700006,0
+                39.3050955580001,3.93292379200005,0
+                39.298679502,3.98474526100006,0
+                39.33941622,3.98184538500004,0
+                39.35165283,3.97906386900007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kajawa.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">223</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+            <SimpleData name="PadName">P1</SimpleData>
+            <SimpleData name="PadCode">ET051103_06_01</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.32292456410</SimpleData>
+            <SimpleData name="Shape_Area">0.00526880958</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1785017240001,4.13175138100007,0
+                39.230587433,4.18271479900005,0
+                39.268648822,4.20550656200004,0
+                39.2772516300001,4.20776287700005,0
+                39.2775198430001,4.20726674500003,0
+                39.287446227,4.12107111000006,0
+                39.1785017240001,4.13175138100007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kajawa.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">224</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+            <SimpleData name="PadName">P2</SimpleData>
+            <SimpleData name="PadCode">ET051103_06_02</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.36854547599</SimpleData>
+            <SimpleData name="Shape_Area">0.00850761658</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.3629613780001,4.10780931200003,0
+                39.361813683,4.10816111800006,0
+                39.287446227,4.12107111000006,0
+                39.2775198430001,4.20726674500003,0
+                39.2772516300001,4.20776287700005,0
+                39.2850875280001,4.20981805000002,0
+                39.3260729,4.21170876900004,0
+                39.3583793170001,4.20516467100003,0
+                39.3645081970001,4.20074302100005,0
+                39.3772431260001,4.15322378200005,0
+                39.386081953,4.13176336000004,0
+                39.3851340210001,4.13160612700005,0
+                39.372843877,4.13044018500005,0
+                39.3672660390001,4.12553793400002,0
+                39.3651727550001,4.12263039300007,0
+                39.3677072580001,4.11660138600007,0
+                39.368577621,4.11227511600003,0
+                39.3633940330001,4.10844002600004,0
+                39.3629613780001,4.10780931200003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kajawa.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">225</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+            <SimpleData name="PadName">P3</SimpleData>
+            <SimpleData name="PadCode">ET051103_06_03</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.31586221706</SimpleData>
+            <SimpleData name="Shape_Area">0.00557030512</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.287446227,4.12107111000006,0
+                39.2889542990001,4.06944015400006,0
+                39.1975825600001,4.07331963900003,0
+                39.194778624,4.07362829600004,0
+                39.1842693580001,4.10446699600004,0
+                39.1785017240001,4.13175138100007,0
+                39.287446227,4.12107111000006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kajawa.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">226</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+            <SimpleData name="PadName">P4</SimpleData>
+            <SimpleData name="PadCode">ET051103_06_04</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.25004661147</SimpleData>
+            <SimpleData name="Shape_Area">0.00314022613</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.3629613780001,4.10780931200003,0
+                39.359928585,4.10338817900004,0
+                39.354262019,4.10141356800005,0
+                39.3504711,4.09870595800004,0
+                39.3457936990001,4.09651034500007,0
+                39.343469134,4.09452434700006,0
+                39.343413986,4.09447723200003,0
+                39.344604915,4.09074348900003,0
+                39.3462926080001,4.07741312100006,0
+                39.3464165250001,4.07051372500007,0
+                39.348039945,4.06613709800007,0
+                39.351646949,4.06295027400006,0
+                39.338587944,4.06117157400007,0
+                39.323241082,4.06185006000004,0
+                39.2889542990001,4.06944015400006,0
+                39.287446227,4.12107111000006,0
+                39.361813683,4.10816111800006,0
+                39.3629613780001,4.10780931200003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kajawa.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">227</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+            <SimpleData name="PadName">P5</SimpleData>
+            <SimpleData name="PadCode">ET051103_06_05</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.34131349057</SimpleData>
+            <SimpleData name="Shape_Area">0.00690531917</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.2889542990001,4.06944015400006,0
+                39.298679502,3.98474526100006,0
+                39.2333740220001,3.98668120100007,0
+                39.2306419600001,3.98722967300006,0
+                39.2273129980001,3.99723006000005,0
+                39.2023157300001,4.05151119000004,0
+                39.194778624,4.07362829600004,0
+                39.1975825600001,4.07331963900003,0
+                39.2889542990001,4.06944015400006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kajawa.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">228</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+            <SimpleData name="PadName">P6</SimpleData>
+            <SimpleData name="PadCode">ET051103_06_06</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.30137677012</SimpleData>
+            <SimpleData name="Shape_Area">0.00482957070</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.35165283,3.97906386900007,0
+                39.33941622,3.98184538500004,0
+                39.298679502,3.98474526100006,0
+                39.2889542990001,4.06944015400006,0
+                39.323241082,4.06185006000004,0
+                39.338587944,4.06117157400007,0
+                39.351646949,4.06295027400006,0
+                39.3545004640001,4.05938914900003,0
+                39.354958572,4.05235357600003,0
+                39.353108933,4.04726117100006,0
+                39.35140633,4.04372540100007,0
+                39.3535942890001,4.04120782000007,0
+                39.3575022220001,4.03920250300007,0
+                39.3615117300001,4.03546560700005,0
+                39.3643543150001,4.03269163800007,0
+                39.363980418,4.02992803600006,0
+                39.3605618760001,4.02901680200006,0
+                39.356933729,4.02705817200007,0
+                39.3549263720001,4.02436407800008,0
+                39.353332837,4.02046480100006,0
+                39.35002546,4.01197271100006,0
+                39.3497002660001,4.00610056300007,0
+                39.350773454,4.00360865400006,0
+                39.349595263,4.00063836900006,0
+                39.351434317,3.99697299500002,0
+                39.3515720070001,3.98925674300006,0
+                39.3517693250001,3.98492108800002,0
+                39.35165283,3.97906386900007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kajawa.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">229</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+            <SimpleData name="PadName">P7</SimpleData>
+            <SimpleData name="PadCode">ET051103_06_07</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.23972140787</SimpleData>
+            <SimpleData name="Shape_Area">0.00298863779</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.298679502,3.98474526100006,0
+                39.3050955580001,3.93292379200005,0
+                39.3015263670001,3.93463700400002,0
+                39.299955922,3.93663575100004,0
+                39.2978144080001,3.93720682200006,0
+                39.294530751,3.93892003500002,0
+                39.2925320030001,3.93963387200006,0
+                39.2891055800001,3.94006217600003,0
+                39.287392368,3.94077601500004,0
+                39.2848701400001,3.94289670900002,0
+                39.282443089,3.94289671000007,0
+                39.2804443420001,3.94432438500007,0
+                39.277588989,3.94104072800008,0
+                39.276589615,3.93690046700004,0
+                39.2733854590001,3.93274693000006,0
+                39.246178167,3.94055804200002,0
+                39.2306419600001,3.98722967300006,0
+                39.2333740220001,3.98668120100007,0
+                39.298679502,3.98474526100006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Kalkalcha.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="Woreda" type="string"/>
+      <SimpleField name="ADM3" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+      <SimpleField name="PadName" type="string"/>
+      <SimpleField name="PadCode" type="string"/>
+      <SimpleField name="Note" type="string"/>
+      <SimpleField name="Date" type="string"/>
+      <SimpleField name="Shape_Leng" type="float"/>
+      <SimpleField name="Shape_Area" type="float"/>
+    </Schema>
+    <Document id="Kalkalcha">
+      <name>Kalkalcha</name>
+      <Placemark id="Kalkalcha.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">45</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+            <SimpleData name="PadName">P5</SimpleData>
+            <SimpleData name="PadCode">ET051103_07_05</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.18067885900</SimpleData>
+            <SimpleData name="Shape_Area">0.00157035964</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.193264218,3.70829747800002,0
+                39.1886298920001,3.70309651000002,0
+                39.1831741440001,3.69697368200002,0
+                39.180923095,3.69444739500005,0
+                39.1780995660001,3.69127863100005,0
+                39.171414607,3.68500195600006,0
+                39.165265349,3.67922826400007,0
+                39.1616741290001,3.67585637800005,0
+                39.1584058930001,3.67229619900007,0
+                39.1552675790001,3.66887754800007,0
+                39.15017305,3.66312943000003,0
+                39.1495499580001,3.66276296800004,0
+                39.141541542,3.67305950500003,0
+                39.137044761,3.67776543900004,0
+                39.132498807,3.68252283100003,0
+                39.132499141,3.68252302300004,0
+                39.1395389360001,3.68977567700006,0
+                39.1646033320001,3.70811624100003,0
+                39.1675303540001,3.72031217200004,0
+                39.1737746690001,3.72563935500006,0
+                39.1787875220001,3.72729007800007,0
+                39.1816849210001,3.72552077800003,0
+                39.185556854,3.71976157900002,0
+                39.1889616560001,3.71469720300007,0
+                39.193264218,3.70829747800002,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">216</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+            <SimpleData name="PadName">P1</SimpleData>
+            <SimpleData name="PadCode">ET051103_07_01</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.15654450039</SimpleData>
+            <SimpleData name="Shape_Area">0.00123283983</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.190138361,3.77430980200006,0
+                39.189845102,3.77409092900007,0
+                39.186063242,3.77035321500006,0
+                39.1831494690001,3.76708917600007,0
+                39.1792718470001,3.76346954400003,0
+                39.1749869290001,3.75868205700004,0
+                39.1723358020001,3.75440387600003,0
+                39.1693497680001,3.75166217100002,0
+                39.1637599700001,3.74652975300006,0
+                39.15689938,3.75246716700002,0
+                39.152036648,3.75667556000008,0
+                39.1380907720001,3.76470294400002,0
+                39.1293699450001,3.77052643400003,0
+                39.131233201,3.77402004000004,0
+                39.140751046,3.78532247900006,0
+                39.1427211640001,3.78884054900004,0
+                39.143291493,3.78805634800005,0
+                39.1497913150001,3.78155652600003,0
+                39.1580410890001,3.78005656700003,0
+                39.1622909720001,3.78055655400004,0
+                39.1687907940001,3.77980657400002,0
+                39.179290505,3.77955658100007,0
+                39.180790464,3.77730664300003,0
+                39.1855403330001,3.77680665800005,0
+                39.1887902450001,3.77655666300006,0
+                39.190138361,3.77430980200006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">217</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+            <SimpleData name="PadName">P2</SimpleData>
+            <SimpleData name="PadCode">ET051103_07_02</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.18141592619</SimpleData>
+            <SimpleData name="Shape_Area">0.00181085679</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1637599700001,3.74652975300006,0
+                39.1594955350001,3.74313077800002,0
+                39.152631598,3.73765986400002,0
+                39.146128747,3.73247675500005,0
+                39.139992024,3.72758546800003,0
+                39.1378829920001,3.72432219900003,0
+                39.1356291870001,3.72083492500008,0
+                39.132306665,3.71760813400005,0
+                39.1294646210001,3.71484797700003,0
+                39.1270508960001,3.71250379700007,0
+                39.124191212,3.70972650800007,0
+                39.121322708,3.70694065300006,0
+                39.1183422620001,3.70404608100006,0
+                39.1176315700001,3.70314229100006,0
+                39.114542283,3.70955850300004,0
+                39.111792359,3.72155817300006,0
+                39.1132923170001,3.73330785100006,0
+                39.113042324,3.74355757000006,0
+                39.115042268,3.75555724000003,0
+                39.118400636,3.76179420800003,0
+                39.126474279,3.76509706100006,0
+                39.1293699450001,3.77052643400003,0
+                39.1380907720001,3.76470294400002,0
+                39.152036648,3.75667556000008,0
+                39.15689938,3.75246716700002,0
+                39.1637599700001,3.74652975300006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">218</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+            <SimpleData name="PadName">P3</SimpleData>
+            <SimpleData name="PadCode">ET051103_07_03</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.12113659286</SimpleData>
+            <SimpleData name="Shape_Area">0.00077760137</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.2001315370001,3.75172944600007,0
+                39.1991421970001,3.75100689200002,0
+                39.19510344,3.74736586800003,0
+                39.191787048,3.74437607000004,0
+                39.188271543,3.74120676700005,0
+                39.1836289780001,3.73685961200005,0
+                39.181842454,3.73332840200004,0
+                39.1787875220001,3.72729007800007,0
+                39.1764285020001,3.73257640100007,0
+                39.1738538860001,3.73541213000004,0
+                39.1714601300001,3.73804865700004,0
+                39.168474272,3.74133733400004,0
+                39.1637599700001,3.74652975300006,0
+                39.1693497680001,3.75166217100002,0
+                39.1723358020001,3.75440387600003,0
+                39.1749869290001,3.75868205700004,0
+                39.1792718470001,3.76346954400003,0
+                39.1831494690001,3.76708917600007,0
+                39.186063242,3.77035321500006,0
+                39.189845102,3.77409092900007,0
+                39.190138361,3.77430980200006,0
+                39.191040183,3.77280676600003,0
+                39.1942900930001,3.76930686200006,0
+                39.1960400460001,3.76280704100003,0
+                39.1985399770001,3.75505725500005,0
+                39.2001315370001,3.75172944600007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">219</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+            <SimpleData name="PadName">P4</SimpleData>
+            <SimpleData name="PadCode">ET051103_07_04</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.18110870542</SimpleData>
+            <SimpleData name="Shape_Area">0.00170728057</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1787875220001,3.72729007800007,0
+                39.1737746690001,3.72563935500006,0
+                39.1675303540001,3.72031217200004,0
+                39.1646033320001,3.70811624100003,0
+                39.1395389360001,3.68977567700006,0
+                39.132499141,3.68252302300004,0
+                39.132498807,3.68252283100003,0
+                39.1307918360001,3.68430919500003,0
+                39.121042104,3.69605887300003,0
+                39.1176315700001,3.70314229100006,0
+                39.1183422620001,3.70404608100006,0
+                39.121322708,3.70694065300006,0
+                39.124191212,3.70972650800007,0
+                39.1270508960001,3.71250379700007,0
+                39.1294646210001,3.71484797700003,0
+                39.132306665,3.71760813400005,0
+                39.1356291870001,3.72083492500008,0
+                39.1378829920001,3.72432219900003,0
+                39.139992024,3.72758546800003,0
+                39.146128747,3.73247675500005,0
+                39.152631598,3.73765986400002,0
+                39.1594955350001,3.74313077800002,0
+                39.1637599700001,3.74652975300006,0
+                39.168474272,3.74133733400004,0
+                39.1714601300001,3.73804865700004,0
+                39.1738538860001,3.73541213000004,0
+                39.1764285020001,3.73257640100007,0
+                39.1787875220001,3.72729007800007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">220</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+            <SimpleData name="PadName">P6</SimpleData>
+            <SimpleData name="PadCode">ET051103_07_06</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.11439179558</SimpleData>
+            <SimpleData name="Shape_Area">0.00080078259</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.215156646,3.73541737300008,0
+                39.2146683180001,3.73489992400005,0
+                39.211692478,3.73024905700004,0
+                39.207153378,3.72485933800004,0
+                39.202933586,3.71980941400005,0
+                39.1978322160001,3.71374450000008,0
+                39.193264218,3.70829747800002,0
+                39.1889616560001,3.71469720300007,0
+                39.185556854,3.71976157900002,0
+                39.1816849210001,3.72552077800003,0
+                39.1787875220001,3.72729007800007,0
+                39.181842454,3.73332840200004,0
+                39.1836289780001,3.73685961200005,0
+                39.188271543,3.74120676700005,0
+                39.191787048,3.74437607000004,0
+                39.19510344,3.74736586800003,0
+                39.1991421970001,3.75100689200002,0
+                39.2001315370001,3.75172944600007,0
+                39.201289902,3.74930741100007,0
+                39.2077897230001,3.74380756300008,0
+                39.2150395240001,3.73580778200005,0
+                39.215156646,3.73541737300008,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">221</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+            <SimpleData name="PadName">P7</SimpleData>
+            <SimpleData name="PadCode">ET051103_07_07</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.16631740465</SimpleData>
+            <SimpleData name="Shape_Area">0.00082038138</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.2157571860001,3.70213892600003,0
+                39.2062897650001,3.69705884500007,0
+                39.1987899700001,3.69255897000005,0
+                39.1942900930001,3.68505917500005,0
+                39.185040348,3.67805936800005,0
+                39.1730406770001,3.67330949800004,0
+                39.1635138170001,3.66735521000004,0
+                39.163040951,3.66705966900003,0
+                39.154541185,3.66230980100005,0
+                39.1502913,3.66180981300005,0
+                39.1495499580001,3.66276296800004,0
+                39.15017305,3.66312943000003,0
+                39.1552675790001,3.66887754800007,0
+                39.1584058930001,3.67229619900007,0
+                39.1616741290001,3.67585637800005,0
+                39.165265349,3.67922826400007,0
+                39.171414607,3.68500195600006,0
+                39.1780995660001,3.69127863100005,0
+                39.180923095,3.69444739500005,0
+                39.1831741440001,3.69697368200002,0
+                39.1886298920001,3.70309651000002,0
+                39.193264218,3.70829747800002,0
+                39.1972243640001,3.70734687200007,0
+                39.2008106420001,3.70648600900006,0
+                39.20409541,3.70569752300003,0
+                39.207659166,3.70484206700007,0
+                39.210370712,3.70419117800003,0
+                39.213449729,3.70301807000004,0
+                39.2157571860001,3.70213892600003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">222</SimpleData>
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+            <SimpleData name="PadName">P8</SimpleData>
+            <SimpleData name="PadCode">ET051103_07_09</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Shape_Leng">0.09241567422</SimpleData>
+            <SimpleData name="Shape_Area">0.00038599999</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.2157571860001,3.70213892600003,0
+                39.213449729,3.70301807000004,0
+                39.210370712,3.70419117800003,0
+                39.207659166,3.70484206700007,0
+                39.20409541,3.70569752300003,0
+                39.2008106420001,3.70648600900006,0
+                39.1972243640001,3.70734687200007,0
+                39.193264218,3.70829747800002,0
+                39.1978322160001,3.71374450000008,0
+                39.202933586,3.71980941400005,0
+                39.207153378,3.72485933800004,0
+                39.211692478,3.73024905700004,0
+                39.2146683180001,3.73489992400005,0
+                39.215156646,3.73541737300008,0
+                39.2172894620001,3.72830798700005,0
+                39.216539482,3.72055820100007,0
+                39.215789504,3.71405837900005,0
+                39.2160394970001,3.70880852300007,0
+                39.2165394830001,3.70255869500005,0
+                39.2157571860001,3.70213892600003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
