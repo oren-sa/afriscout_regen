@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Kalkalcha.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Kalkalcha">
       <name>Kalkalcha</name>
       <Placemark id="Kalkalcha.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Kalkalcha.schema">
-            <SimpleData name="OBJECTID">45</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kalkalcha</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET051103_07_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.18067885900</SimpleData>
-            <SimpleData name="Shape_Area">0.00157035964</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -68,7 +64,6 @@
       <Placemark id="Kalkalcha.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Kalkalcha.schema">
-            <SimpleData name="OBJECTID">216</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kalkalcha</SimpleData>
@@ -76,8 +71,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET051103_07_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.15654450039</SimpleData>
-            <SimpleData name="Shape_Area">0.00123283983</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -118,7 +112,6 @@
       <Placemark id="Kalkalcha.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Kalkalcha.schema">
-            <SimpleData name="OBJECTID">217</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kalkalcha</SimpleData>
@@ -126,8 +119,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET051103_07_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.18141592619</SimpleData>
-            <SimpleData name="Shape_Area">0.00181085679</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -168,7 +160,6 @@
       <Placemark id="Kalkalcha.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Kalkalcha.schema">
-            <SimpleData name="OBJECTID">218</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kalkalcha</SimpleData>
@@ -176,8 +167,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET051103_07_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12113659286</SimpleData>
-            <SimpleData name="Shape_Area">0.00077760137</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -218,7 +208,6 @@
       <Placemark id="Kalkalcha.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Kalkalcha.schema">
-            <SimpleData name="OBJECTID">219</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kalkalcha</SimpleData>
@@ -226,8 +215,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET051103_07_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.18110870542</SimpleData>
-            <SimpleData name="Shape_Area">0.00170728057</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -270,7 +258,6 @@
       <Placemark id="Kalkalcha.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Kalkalcha.schema">
-            <SimpleData name="OBJECTID">220</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kalkalcha</SimpleData>
@@ -278,8 +265,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET051103_07_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.11439179558</SimpleData>
-            <SimpleData name="Shape_Area">0.00080078259</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -316,7 +302,6 @@
       <Placemark id="Kalkalcha.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Kalkalcha.schema">
-            <SimpleData name="OBJECTID">221</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kalkalcha</SimpleData>
@@ -324,8 +309,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET051103_07_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.16631740465</SimpleData>
-            <SimpleData name="Shape_Area">0.00082038138</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -369,7 +353,6 @@
       <Placemark id="Kalkalcha.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Kalkalcha.schema">
-            <SimpleData name="OBJECTID">222</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kalkalcha</SimpleData>
@@ -377,8 +360,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET051103_07_09</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09241567422</SimpleData>
-            <SimpleData name="Shape_Area">0.00038599999</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

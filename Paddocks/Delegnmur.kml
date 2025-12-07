@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Delegnmur.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Delegnmur">
       <name>Delegnmur</name>
       <Placemark id="Delegnmur.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Delegnmur.schema">
-            <SimpleData name="OBJECTID">63</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delegnmur</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET070706_03_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.19296936398</SimpleData>
-            <SimpleData name="Shape_Area">0.00096250020</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -59,7 +55,6 @@
       <Placemark id="Delegnmur.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Delegnmur.schema">
-            <SimpleData name="OBJECTID">138</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delegnmur</SimpleData>
@@ -67,8 +62,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET070706_03_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12470708296</SimpleData>
-            <SimpleData name="Shape_Area">0.00080105879</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -102,7 +96,6 @@
       <Placemark id="Delegnmur.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Delegnmur.schema">
-            <SimpleData name="OBJECTID">139</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delegnmur</SimpleData>
@@ -110,8 +103,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET070706_03_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06152011501</SimpleData>
-            <SimpleData name="Shape_Area">0.00021792482</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -136,7 +128,6 @@
       <Placemark id="Delegnmur.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Delegnmur.schema">
-            <SimpleData name="OBJECTID">140</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delegnmur</SimpleData>
@@ -144,8 +135,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET070706_03_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13378670322</SimpleData>
-            <SimpleData name="Shape_Area">0.00056146049</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -178,7 +168,6 @@
       <Placemark id="Delegnmur.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Delegnmur.schema">
-            <SimpleData name="OBJECTID">141</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delegnmur</SimpleData>
@@ -186,8 +175,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET070706_03_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.15707234056</SimpleData>
-            <SimpleData name="Shape_Area">0.00082420061</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -210,7 +198,6 @@
       <Placemark id="Delegnmur.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Delegnmur.schema">
-            <SimpleData name="OBJECTID">142</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delegnmur</SimpleData>
@@ -218,8 +205,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET070706_03_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09388343143</SimpleData>
-            <SimpleData name="Shape_Area">0.00049265903</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -245,7 +231,6 @@
       <Placemark id="Delegnmur.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Delegnmur.schema">
-            <SimpleData name="OBJECTID">143</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delegnmur</SimpleData>
@@ -253,8 +238,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET070706_03_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09882648143</SimpleData>
-            <SimpleData name="Shape_Area">0.00064447463</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -279,7 +263,6 @@
       <Placemark id="Delegnmur.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Delegnmur.schema">
-            <SimpleData name="OBJECTID">144</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delegnmur</SimpleData>
@@ -287,8 +270,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET070706_03_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.15934162869</SimpleData>
-            <SimpleData name="Shape_Area">0.00070295520</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

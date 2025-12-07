@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Dimeka_Zuriya.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Dimeka_Zuriya">
       <name>Dimeka_Zuriya</name>
       <Placemark id="Dimeka_Zuriya.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">64</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P15</SimpleData>
             <SimpleData name="PadCode">ET070704_03_15</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.07812724201</SimpleData>
-            <SimpleData name="Shape_Area">0.00032108465</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -109,7 +105,6 @@
       <Placemark id="Dimeka_Zuriya.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">160</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -117,8 +112,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET070704_03_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06729155316</SimpleData>
-            <SimpleData name="Shape_Area">0.00020511734</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -194,7 +188,6 @@
       <Placemark id="Dimeka_Zuriya.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">161</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -202,8 +195,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET070704_03_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.05127098328</SimpleData>
-            <SimpleData name="Shape_Area">0.00012282338</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -254,7 +246,6 @@
       <Placemark id="Dimeka_Zuriya.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">162</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -262,8 +253,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET070704_03_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.05992809530</SimpleData>
-            <SimpleData name="Shape_Area">0.00020397060</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -316,7 +306,6 @@
       <Placemark id="Dimeka_Zuriya.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">163</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -324,8 +313,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET070704_03_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06900001273</SimpleData>
-            <SimpleData name="Shape_Area">0.00013076386</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -408,7 +396,6 @@
       <Placemark id="Dimeka_Zuriya.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">164</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -416,8 +403,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET070704_03_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06181536359</SimpleData>
-            <SimpleData name="Shape_Area">0.00019225463</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -480,7 +466,6 @@
       <Placemark id="Dimeka_Zuriya.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">165</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -488,8 +473,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET070704_03_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06296726068</SimpleData>
-            <SimpleData name="Shape_Area">0.00021106833</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -559,7 +543,6 @@
       <Placemark id="Dimeka_Zuriya.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">166</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -567,8 +550,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET070704_03_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.04037339973</SimpleData>
-            <SimpleData name="Shape_Area">0.00010312329</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -616,7 +598,6 @@
       <Placemark id="Dimeka_Zuriya.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">167</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -624,8 +605,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET070704_03_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06378116683</SimpleData>
-            <SimpleData name="Shape_Area">0.00015770340</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -696,7 +676,6 @@
       <Placemark id="Dimeka_Zuriya.10">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">168</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -704,8 +683,7 @@
             <SimpleData name="PadName">P9</SimpleData>
             <SimpleData name="PadCode">ET070704_03_09</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.04884230069</SimpleData>
-            <SimpleData name="Shape_Area">0.00011054232</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -781,7 +759,6 @@
       <Placemark id="Dimeka_Zuriya.11">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">169</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -789,8 +766,7 @@
             <SimpleData name="PadName">P10</SimpleData>
             <SimpleData name="PadCode">ET070704_03_10</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.07222421826</SimpleData>
-            <SimpleData name="Shape_Area">0.00022668945</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -887,7 +863,6 @@
       <Placemark id="Dimeka_Zuriya.12">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">170</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -895,8 +870,7 @@
             <SimpleData name="PadName">P11</SimpleData>
             <SimpleData name="PadCode">ET070704_03_11</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06786169643</SimpleData>
-            <SimpleData name="Shape_Area">0.00017803058</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -964,7 +938,6 @@
       <Placemark id="Dimeka_Zuriya.13">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">171</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -972,8 +945,7 @@
             <SimpleData name="PadName">P12</SimpleData>
             <SimpleData name="PadCode">ET070704_03_12</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.08668645085</SimpleData>
-            <SimpleData name="Shape_Area">0.00030990342</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1068,7 +1040,6 @@
       <Placemark id="Dimeka_Zuriya.14">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">172</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -1076,8 +1047,7 @@
             <SimpleData name="PadName">P13</SimpleData>
             <SimpleData name="PadCode">ET070704_03_13</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.07907772785</SimpleData>
-            <SimpleData name="Shape_Area">0.00022817247</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1173,7 +1143,6 @@
       <Placemark id="Dimeka_Zuriya.15">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">173</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -1181,8 +1150,7 @@
             <SimpleData name="PadName">P14</SimpleData>
             <SimpleData name="PadCode">ET070704_03_14</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.05701550278</SimpleData>
-            <SimpleData name="Shape_Area">0.00014380772</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1248,7 +1216,6 @@
       <Placemark id="Dimeka_Zuriya.16">
         <ExtendedData>
           <SchemaData schemaUrl="#Dimeka_Zuriya.schema">
-            <SimpleData name="OBJECTID">174</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Dimeka_Zuriya</SimpleData>
@@ -1256,8 +1223,7 @@
             <SimpleData name="PadName">P16</SimpleData>
             <SimpleData name="PadCode">ET070704_03_16</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.07059192472</SimpleData>
-            <SimpleData name="Shape_Area">0.00016640178</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

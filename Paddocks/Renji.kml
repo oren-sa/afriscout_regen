@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Renji.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Renji">
       <name>Renji</name>
       <Placemark id="Renji.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Renji.schema">
-            <SimpleData name="OBJECTID">5</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Renji</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET041208_06_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.62518141387</SimpleData>
-            <SimpleData name="Shape_Area">0.02005249806</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -164,7 +160,6 @@
       <Placemark id="Renji.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Renji.schema">
-            <SimpleData name="OBJECTID">5</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Renji</SimpleData>
@@ -172,8 +167,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041208_06_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.62518141387</SimpleData>
-            <SimpleData name="Shape_Area">0.02005249806</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -244,7 +238,6 @@
       <Placemark id="Renji.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Renji.schema">
-            <SimpleData name="OBJECTID">5</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Renji</SimpleData>
@@ -252,8 +245,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041208_06_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.62518141387</SimpleData>
-            <SimpleData name="Shape_Area">0.02005249806</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -339,7 +331,6 @@
       <Placemark id="Renji.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Renji.schema">
-            <SimpleData name="OBJECTID">5</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Renji</SimpleData>
@@ -347,8 +338,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041208_06_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.62518141387</SimpleData>
-            <SimpleData name="Shape_Area">0.02005249806</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -410,7 +400,6 @@
       <Placemark id="Renji.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Renji.schema">
-            <SimpleData name="OBJECTID">5</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Renji</SimpleData>
@@ -418,8 +407,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041208_06_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.62518141387</SimpleData>
-            <SimpleData name="Shape_Area">0.02005249806</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -553,7 +541,6 @@
       <Placemark id="Renji.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Renji.schema">
-            <SimpleData name="OBJECTID">5</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Renji</SimpleData>
@@ -561,8 +548,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041208_06_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.62518141387</SimpleData>
-            <SimpleData name="Shape_Area">0.02005249806</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -662,7 +648,6 @@
       <Placemark id="Renji.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Renji.schema">
-            <SimpleData name="OBJECTID">5</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Renji</SimpleData>
@@ -670,8 +655,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET041208_06_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.62518141387</SimpleData>
-            <SimpleData name="Shape_Area">0.02005249806</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -829,7 +813,6 @@
       <Placemark id="Renji.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Renji.schema">
-            <SimpleData name="OBJECTID">5</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Renji</SimpleData>
@@ -837,8 +820,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET041208_06_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.62518141387</SimpleData>
-            <SimpleData name="Shape_Area">0.02005249806</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -903,7 +885,6 @@
       <Placemark id="Renji.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Renji.schema">
-            <SimpleData name="OBJECTID">5</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Renji</SimpleData>
@@ -911,8 +892,7 @@
             <SimpleData name="PadName">P9</SimpleData>
             <SimpleData name="PadCode">ET041208_06_09</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.62518141387</SimpleData>
-            <SimpleData name="Shape_Area">0.02005249806</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

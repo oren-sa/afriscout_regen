@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Haro_Dimtu.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Haro_Dimtu">
       <name>Haro Dimtu</name>
       <Placemark id="Haro_Dimtu.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Haro_Dimtu.schema">
-            <SimpleData name="OBJECTID">14</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Haro Dimtu</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041208_03_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.30974637271</SimpleData>
-            <SimpleData name="Shape_Area">0.00246622337</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -380,7 +376,6 @@
       <Placemark id="Haro_Dimtu.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Haro_Dimtu.schema">
-            <SimpleData name="OBJECTID">191</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Haro Dimtu</SimpleData>
@@ -388,8 +383,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041208_03_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.19670787412</SimpleData>
-            <SimpleData name="Shape_Area">0.00067568611</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -580,7 +574,6 @@
       <Placemark id="Haro_Dimtu.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Haro_Dimtu.schema">
-            <SimpleData name="OBJECTID">192</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Haro Dimtu</SimpleData>
@@ -588,8 +581,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041208_03_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.17676882109</SimpleData>
-            <SimpleData name="Shape_Area">0.00079467257</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -694,7 +686,6 @@
       <Placemark id="Haro_Dimtu.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Haro_Dimtu.schema">
-            <SimpleData name="OBJECTID">193</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Haro Dimtu</SimpleData>
@@ -702,8 +693,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041208_03_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.18652122727</SimpleData>
-            <SimpleData name="Shape_Area">0.00166815018</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -820,7 +810,6 @@
       <Placemark id="Haro_Dimtu.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Haro_Dimtu.schema">
-            <SimpleData name="OBJECTID">194</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Haro Dimtu</SimpleData>
@@ -828,8 +817,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041208_03_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.17185986049</SimpleData>
-            <SimpleData name="Shape_Area">0.00168082802</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

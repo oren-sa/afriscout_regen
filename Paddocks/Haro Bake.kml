@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Haro_Bake.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Haro_Bake">
       <name>Haro Bake</name>
       <Placemark id="Haro_Bake.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Haro_Bake.schema">
-            <SimpleData name="OBJECTID">18</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Haro Bake</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041207_06_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.27850490320</SimpleData>
-            <SimpleData name="Shape_Area">0.00360077782</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -224,7 +220,6 @@
       <Placemark id="Haro_Bake.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Haro_Bake.schema">
-            <SimpleData name="OBJECTID">187</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Haro Bake</SimpleData>
@@ -232,8 +227,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041207_06_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.15105199031</SimpleData>
-            <SimpleData name="Shape_Area">0.00128949384</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -336,7 +330,6 @@
       <Placemark id="Haro_Bake.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Haro_Bake.schema">
-            <SimpleData name="OBJECTID">188</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Haro Bake</SimpleData>
@@ -344,8 +337,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041207_06_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.19987017312</SimpleData>
-            <SimpleData name="Shape_Area">0.00199505038</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -485,7 +477,6 @@
       <Placemark id="Haro_Bake.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Haro_Bake.schema">
-            <SimpleData name="OBJECTID">189</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Haro Bake</SimpleData>
@@ -493,8 +484,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041207_06_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.35319819759</SimpleData>
-            <SimpleData name="Shape_Area">0.00572378290</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -750,7 +740,6 @@
       <Placemark id="Haro_Bake.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Haro_Bake.schema">
-            <SimpleData name="OBJECTID">190</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Haro Bake</SimpleData>
@@ -758,8 +747,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041207_06_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.22878185041</SimpleData>
-            <SimpleData name="Shape_Area">0.00206539182</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

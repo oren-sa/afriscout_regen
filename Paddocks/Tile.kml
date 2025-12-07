@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Tile.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Tile">
       <name>Tile</name>
       <Placemark id="Tile.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Tile.schema">
-            <SimpleData name="OBJECTID">7</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Tile</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET041220_06_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.39933821419</SimpleData>
-            <SimpleData name="Shape_Area">0.00969512347</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -123,7 +119,6 @@
       <Placemark id="Tile.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Tile.schema">
-            <SimpleData name="OBJECTID">7</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Tile</SimpleData>
@@ -131,8 +126,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041220_06_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.39933821419</SimpleData>
-            <SimpleData name="Shape_Area">0.00969512347</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -202,7 +196,6 @@
       <Placemark id="Tile.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Tile.schema">
-            <SimpleData name="OBJECTID">7</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Tile</SimpleData>
@@ -210,8 +203,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041220_06_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.39933821419</SimpleData>
-            <SimpleData name="Shape_Area">0.00969512347</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -284,7 +276,6 @@
       <Placemark id="Tile.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Tile.schema">
-            <SimpleData name="OBJECTID">7</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Tile</SimpleData>
@@ -292,8 +283,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041220_06_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.39933821419</SimpleData>
-            <SimpleData name="Shape_Area">0.00969512347</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -392,7 +382,6 @@
       <Placemark id="Tile.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Tile.schema">
-            <SimpleData name="OBJECTID">7</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Tile</SimpleData>
@@ -400,8 +389,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041220_06_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.39933821419</SimpleData>
-            <SimpleData name="Shape_Area">0.00969512347</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -517,7 +505,6 @@
       <Placemark id="Tile.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Tile.schema">
-            <SimpleData name="OBJECTID">7</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Tile</SimpleData>
@@ -525,8 +512,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041220_06_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.39933821419</SimpleData>
-            <SimpleData name="Shape_Area">0.00969512347</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

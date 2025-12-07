@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Hidha.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Hidha">
       <name>Hidha</name>
       <Placemark id="Hidha.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Hidha.schema">
-            <SimpleData name="OBJECTID">9</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Hidha</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041220_04_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.36729947434</SimpleData>
-            <SimpleData name="Shape_Area">0.00663456526</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -223,7 +219,6 @@
       <Placemark id="Hidha.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Hidha.schema">
-            <SimpleData name="OBJECTID">195</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Hidha</SimpleData>
@@ -231,8 +226,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041220_04_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.31745471083</SimpleData>
-            <SimpleData name="Shape_Area">0.00428072786</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -350,7 +344,6 @@
       <Placemark id="Hidha.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Hidha.schema">
-            <SimpleData name="OBJECTID">196</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Hidha</SimpleData>
@@ -358,8 +351,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041220_04_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.29820173555</SimpleData>
-            <SimpleData name="Shape_Area">0.00422222887</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -452,7 +444,6 @@
       <Placemark id="Hidha.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Hidha.schema">
-            <SimpleData name="OBJECTID">197</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Hidha</SimpleData>
@@ -460,8 +451,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041220_04_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.28687424934</SimpleData>
-            <SimpleData name="Shape_Area">0.00296235992</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -600,7 +590,6 @@
       <Placemark id="Hidha.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Hidha.schema">
-            <SimpleData name="OBJECTID">198</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Hidha</SimpleData>
@@ -608,8 +597,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041220_04_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.33994970088</SimpleData>
-            <SimpleData name="Shape_Area">0.00303038485</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

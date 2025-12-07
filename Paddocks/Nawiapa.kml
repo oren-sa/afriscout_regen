@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Nawiapa.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Nawiapa">
       <name>Nawiapa</name>
       <Placemark id="Nawiapa.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Nawiapa.schema">
-            <SimpleData name="OBJECTID">37</SimpleData>
             <SimpleData name="Woreda">Nyngatom</SimpleData>
             <SimpleData name="ADM3">ET070708</SimpleData>
             <SimpleData name="RGUName">Nawiapa</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET070708_04_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.17690707320</SimpleData>
-            <SimpleData name="Shape_Area">0.00136534007</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -137,7 +133,6 @@
       <Placemark id="Nawiapa.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Nawiapa.schema">
-            <SimpleData name="OBJECTID">308</SimpleData>
             <SimpleData name="Woreda">Nyngatom</SimpleData>
             <SimpleData name="ADM3">ET070708</SimpleData>
             <SimpleData name="RGUName">Nawiapa</SimpleData>
@@ -145,8 +140,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET070708_04_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09661282716</SimpleData>
-            <SimpleData name="Shape_Area">0.00036544653</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -222,7 +216,6 @@
       <Placemark id="Nawiapa.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Nawiapa.schema">
-            <SimpleData name="OBJECTID">309</SimpleData>
             <SimpleData name="Woreda">Nyngatom</SimpleData>
             <SimpleData name="ADM3">ET070708</SimpleData>
             <SimpleData name="RGUName">Nawiapa</SimpleData>
@@ -230,8 +223,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET070708_04_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12385313746</SimpleData>
-            <SimpleData name="Shape_Area">0.00070157621</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -322,7 +314,6 @@
       <Placemark id="Nawiapa.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Nawiapa.schema">
-            <SimpleData name="OBJECTID">310</SimpleData>
             <SimpleData name="Woreda">Nyngatom</SimpleData>
             <SimpleData name="ADM3">ET070708</SimpleData>
             <SimpleData name="RGUName">Nawiapa</SimpleData>
@@ -330,8 +321,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET070708_04_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13612079911</SimpleData>
-            <SimpleData name="Shape_Area">0.00071325803</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -422,7 +412,6 @@
       <Placemark id="Nawiapa.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Nawiapa.schema">
-            <SimpleData name="OBJECTID">311</SimpleData>
             <SimpleData name="Woreda">Nyngatom</SimpleData>
             <SimpleData name="ADM3">ET070708</SimpleData>
             <SimpleData name="RGUName">Nawiapa</SimpleData>
@@ -430,8 +419,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET070708_04_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.16726186757</SimpleData>
-            <SimpleData name="Shape_Area">0.00134031679</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

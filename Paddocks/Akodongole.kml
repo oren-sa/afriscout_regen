@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Akodongole.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Akodongole">
       <name>Akodongole</name>
       <Placemark id="Akodongole.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Akodongole.schema">
-            <SimpleData name="OBJECTID">38</SimpleData>
             <SimpleData name="Woreda">Dassenach</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Akodongole</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET070706_01_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.28550797768</SimpleData>
-            <SimpleData name="Shape_Area">0.00365360933</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -135,7 +131,6 @@
       <Placemark id="Akodongole.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Akodongole.schema">
-            <SimpleData name="OBJECTID">76</SimpleData>
             <SimpleData name="Woreda">Dassenach</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Akodongole</SimpleData>
@@ -143,8 +138,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET070706_01_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.05491475976</SimpleData>
-            <SimpleData name="Shape_Area">0.00013387034</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -182,7 +176,6 @@
       <Placemark id="Akodongole.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Akodongole.schema">
-            <SimpleData name="OBJECTID">77</SimpleData>
             <SimpleData name="Woreda">Dassenach</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Akodongole</SimpleData>
@@ -190,8 +183,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET070706_01_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.07778057368</SimpleData>
-            <SimpleData name="Shape_Area">0.00029195445</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -235,7 +227,6 @@
       <Placemark id="Akodongole.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Akodongole.schema">
-            <SimpleData name="OBJECTID">78</SimpleData>
             <SimpleData name="Woreda">Dassenach</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Akodongole</SimpleData>
@@ -243,8 +234,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET070706_01_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.08901842684</SimpleData>
-            <SimpleData name="Shape_Area">0.00050234559</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -291,7 +281,6 @@
       <Placemark id="Akodongole.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Akodongole.schema">
-            <SimpleData name="OBJECTID">79</SimpleData>
             <SimpleData name="Woreda">Dassenach</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Akodongole</SimpleData>
@@ -299,8 +288,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET070706_01_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12438985092</SimpleData>
-            <SimpleData name="Shape_Area">0.00080600814</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

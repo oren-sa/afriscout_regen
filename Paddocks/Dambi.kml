@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Dambi.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Dambi">
       <name>Dambi</name>
       <Placemark id="Dambi.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Dambi.schema">
-            <SimpleData name="OBJECTID">31</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dambi</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P9</SimpleData>
             <SimpleData name="PadCode">ET041207_02_09</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.31798460886</SimpleData>
-            <SimpleData name="Shape_Area">0.00490162355</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -95,7 +91,6 @@
       <Placemark id="Dambi.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Dambi.schema">
-            <SimpleData name="OBJECTID">125</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dambi</SimpleData>
@@ -103,8 +98,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041207_02_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.23141084247</SimpleData>
-            <SimpleData name="Shape_Area">0.00265493208</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -142,7 +136,6 @@
       <Placemark id="Dambi.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Dambi.schema">
-            <SimpleData name="OBJECTID">126</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dambi</SimpleData>
@@ -150,8 +143,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041207_02_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.23670974301</SimpleData>
-            <SimpleData name="Shape_Area">0.00236834188</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -207,7 +199,6 @@
       <Placemark id="Dambi.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Dambi.schema">
-            <SimpleData name="OBJECTID">127</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dambi</SimpleData>
@@ -215,8 +206,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041207_02_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.14032745933</SimpleData>
-            <SimpleData name="Shape_Area">0.00101557686</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -263,7 +253,6 @@
       <Placemark id="Dambi.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Dambi.schema">
-            <SimpleData name="OBJECTID">128</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dambi</SimpleData>
@@ -271,8 +260,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041207_02_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09648150788</SimpleData>
-            <SimpleData name="Shape_Area">0.00051102896</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -309,7 +297,6 @@
       <Placemark id="Dambi.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Dambi.schema">
-            <SimpleData name="OBJECTID">129</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dambi</SimpleData>
@@ -317,8 +304,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041207_02_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06159233399</SimpleData>
-            <SimpleData name="Shape_Area">0.00018896733</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -345,7 +331,6 @@
       <Placemark id="Dambi.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Dambi.schema">
-            <SimpleData name="OBJECTID">130</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dambi</SimpleData>
@@ -353,8 +338,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET041207_02_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.16175346919</SimpleData>
-            <SimpleData name="Shape_Area">0.00065992944</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -402,7 +386,6 @@
       <Placemark id="Dambi.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Dambi.schema">
-            <SimpleData name="OBJECTID">131</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dambi</SimpleData>
@@ -410,8 +393,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET041207_02_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.21060910987</SimpleData>
-            <SimpleData name="Shape_Area">0.00208980222</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -463,7 +445,6 @@
       <Placemark id="Dambi.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Dambi.schema">
-            <SimpleData name="OBJECTID">132</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dambi</SimpleData>
@@ -471,8 +452,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET041207_02_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.24036177798</SimpleData>
-            <SimpleData name="Shape_Area">0.00307333054</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

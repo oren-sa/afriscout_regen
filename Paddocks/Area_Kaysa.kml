@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Area_Kaysa.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Area_Kaysa">
       <name>Area_Kaysa</name>
       <Placemark id="Area_Kaysa.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">62</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P15</SimpleData>
             <SimpleData name="PadCode">ET070704_01_15</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.14233191348</SimpleData>
-            <SimpleData name="Shape_Area">0.00077961164</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -106,7 +102,6 @@
       <Placemark id="Area_Kaysa.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">80</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -114,8 +109,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET070704_01_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09661279322</SimpleData>
-            <SimpleData name="Shape_Area">0.00040452833</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -240,7 +234,6 @@
       <Placemark id="Area_Kaysa.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">81</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -248,8 +241,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET070704_01_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.03913885691</SimpleData>
-            <SimpleData name="Shape_Area">0.00007706465</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -296,7 +288,6 @@
       <Placemark id="Area_Kaysa.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">82</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -304,8 +295,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET070704_01_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.04709215611</SimpleData>
-            <SimpleData name="Shape_Area">0.00011247199</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -354,7 +344,6 @@
       <Placemark id="Area_Kaysa.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">83</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -362,8 +351,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET070704_01_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.05984232987</SimpleData>
-            <SimpleData name="Shape_Area">0.00009828681</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -429,7 +417,6 @@
       <Placemark id="Area_Kaysa.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">84</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -437,8 +424,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET070704_01_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.11002880137</SimpleData>
-            <SimpleData name="Shape_Area">0.00038837644</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -534,7 +520,6 @@
       <Placemark id="Area_Kaysa.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">85</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -542,8 +527,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET070704_01_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.07729687318</SimpleData>
-            <SimpleData name="Shape_Area">0.00028180895</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -623,7 +607,6 @@
       <Placemark id="Area_Kaysa.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">86</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -631,8 +614,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET070704_01_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.05772015181</SimpleData>
-            <SimpleData name="Shape_Area">0.00017503237</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -696,7 +678,6 @@
       <Placemark id="Area_Kaysa.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">87</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -704,8 +685,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET070704_01_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06773143506</SimpleData>
-            <SimpleData name="Shape_Area">0.00016246084</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -768,7 +748,6 @@
       <Placemark id="Area_Kaysa.10">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">88</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -776,8 +755,7 @@
             <SimpleData name="PadName">P9</SimpleData>
             <SimpleData name="PadCode">ET070704_01_09</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06327057134</SimpleData>
-            <SimpleData name="Shape_Area">0.00013358126</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -825,7 +803,6 @@
       <Placemark id="Area_Kaysa.11">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">89</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -833,8 +810,7 @@
             <SimpleData name="PadName">P10</SimpleData>
             <SimpleData name="PadCode">ET070704_01_10</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10744557529</SimpleData>
-            <SimpleData name="Shape_Area">0.00051797798</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -916,7 +892,6 @@
       <Placemark id="Area_Kaysa.12">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">90</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -924,8 +899,7 @@
             <SimpleData name="PadName">P11</SimpleData>
             <SimpleData name="PadCode">ET070704_01_11</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06526157134</SimpleData>
-            <SimpleData name="Shape_Area">0.00021598030</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1032,7 +1006,6 @@
       <Placemark id="Area_Kaysa.13">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">91</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -1040,8 +1013,7 @@
             <SimpleData name="PadName">P12</SimpleData>
             <SimpleData name="PadCode">ET070704_01_12</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.08455296123</SimpleData>
-            <SimpleData name="Shape_Area">0.00027070552</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1119,7 +1091,6 @@
       <Placemark id="Area_Kaysa.14">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">92</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -1127,8 +1098,7 @@
             <SimpleData name="PadName">P13</SimpleData>
             <SimpleData name="PadCode">ET070704_01_13</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.11286232331</SimpleData>
-            <SimpleData name="Shape_Area">0.00047385311</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1226,7 +1196,6 @@
       <Placemark id="Area_Kaysa.15">
         <ExtendedData>
           <SchemaData schemaUrl="#Area_Kaysa.schema">
-            <SimpleData name="OBJECTID">93</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Area_Kaysa</SimpleData>
@@ -1234,8 +1203,7 @@
             <SimpleData name="PadName">P14</SimpleData>
             <SimpleData name="PadCode">ET070704_01_14</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12670349857</SimpleData>
-            <SimpleData name="Shape_Area">0.00060822153</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

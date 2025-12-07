@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Hallu-Hulluko.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Hallu-Hulluko">
       <name>Hallu-Hulluko</name>
       <Placemark id="Hallu-Hulluko.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Hallu-Hulluko.schema">
-            <SimpleData name="OBJECTID">57</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Hallu-Hulluko</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET051103_04_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.17632062618</SimpleData>
-            <SimpleData name="Shape_Area">0.00111150179</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -383,7 +379,6 @@
       <Placemark id="Hallu-Hulluko.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Hallu-Hulluko.schema">
-            <SimpleData name="OBJECTID">175</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Hallu-Hulluko</SimpleData>
@@ -391,8 +386,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET051103_04_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.23371435222</SimpleData>
-            <SimpleData name="Shape_Area">0.00219947132</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -724,7 +718,6 @@
       <Placemark id="Hallu-Hulluko.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Hallu-Hulluko.schema">
-            <SimpleData name="OBJECTID">176</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Hallu-Hulluko</SimpleData>
@@ -732,8 +725,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET051103_04_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10426151698</SimpleData>
-            <SimpleData name="Shape_Area">0.00055523483</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -880,7 +872,6 @@
       <Placemark id="Hallu-Hulluko.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Hallu-Hulluko.schema">
-            <SimpleData name="OBJECTID">177</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Hallu-Hulluko</SimpleData>
@@ -888,8 +879,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET051103_04_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09905235965</SimpleData>
-            <SimpleData name="Shape_Area">0.00046489550</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1032,7 +1022,6 @@
       <Placemark id="Hallu-Hulluko.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Hallu-Hulluko.schema">
-            <SimpleData name="OBJECTID">178</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Hallu-Hulluko</SimpleData>
@@ -1040,8 +1029,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET051103_04_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.08377729909</SimpleData>
-            <SimpleData name="Shape_Area">0.00028747278</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Harawetu.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Harawetu">
       <name>Harawetu</name>
       <Placemark id="Harawetu.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Harawetu.schema">
-            <SimpleData name="OBJECTID">29</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Harawetu</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041207_05_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.35089748682</SimpleData>
-            <SimpleData name="Shape_Area">0.00522529052</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -119,7 +115,6 @@
       <Placemark id="Harawetu.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Harawetu.schema">
-            <SimpleData name="OBJECTID">179</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Harawetu</SimpleData>
@@ -127,8 +122,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041207_05_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.38217427175</SimpleData>
-            <SimpleData name="Shape_Area">0.00687411335</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -206,7 +200,6 @@
       <Placemark id="Harawetu.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Harawetu.schema">
-            <SimpleData name="OBJECTID">180</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Harawetu</SimpleData>
@@ -214,8 +207,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041207_05_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.38875786287</SimpleData>
-            <SimpleData name="Shape_Area">0.00636107421</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -312,7 +304,6 @@
       <Placemark id="Harawetu.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Harawetu.schema">
-            <SimpleData name="OBJECTID">181</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Harawetu</SimpleData>
@@ -320,8 +311,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041207_05_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.38263029600</SimpleData>
-            <SimpleData name="Shape_Area">0.00443140382</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -410,7 +400,6 @@
       <Placemark id="Harawetu.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Harawetu.schema">
-            <SimpleData name="OBJECTID">182</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Harawetu</SimpleData>
@@ -418,8 +407,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041207_05_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.25718006474</SimpleData>
-            <SimpleData name="Shape_Area">0.00335974946</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

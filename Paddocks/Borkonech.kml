@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Borkonech.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Borkonech">
       <name>Borkonech</name>
       <Placemark id="Borkonech.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Borkonech.schema">
-            <SimpleData name="OBJECTID">41</SimpleData>
             <SimpleData name="Woreda">Dassenach</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Borkonech</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET070706_02_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.11000490712</SimpleData>
-            <SimpleData name="Shape_Area">0.00039684110</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -141,7 +137,6 @@
       <Placemark id="Borkonech.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Borkonech.schema">
-            <SimpleData name="OBJECTID">121</SimpleData>
             <SimpleData name="Woreda">Dassenach</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Borkonech</SimpleData>
@@ -149,8 +144,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET070706_02_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.08994071587</SimpleData>
-            <SimpleData name="Shape_Area">0.00034708328</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -241,7 +235,6 @@
       <Placemark id="Borkonech.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Borkonech.schema">
-            <SimpleData name="OBJECTID">122</SimpleData>
             <SimpleData name="Woreda">Dassenach</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Borkonech</SimpleData>
@@ -249,8 +242,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET070706_02_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10855808604</SimpleData>
-            <SimpleData name="Shape_Area">0.00052621021</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -376,7 +368,6 @@
       <Placemark id="Borkonech.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Borkonech.schema">
-            <SimpleData name="OBJECTID">123</SimpleData>
             <SimpleData name="Woreda">Dassenach</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Borkonech</SimpleData>
@@ -384,8 +375,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET070706_02_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06822147354</SimpleData>
-            <SimpleData name="Shape_Area">0.00028285985</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -449,7 +439,6 @@
       <Placemark id="Borkonech.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Borkonech.schema">
-            <SimpleData name="OBJECTID">124</SimpleData>
             <SimpleData name="Woreda">Dassenach</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Borkonech</SimpleData>
@@ -457,8 +446,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET070706_02_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06477316502</SimpleData>
-            <SimpleData name="Shape_Area">0.00012543695</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

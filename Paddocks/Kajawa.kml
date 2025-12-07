@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Kajawa.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Kajawa">
       <name>Kajawa</name>
       <Placemark id="Kajawa.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Kajawa.schema">
-            <SimpleData name="OBJECTID">47</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kajawa</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET051103_06_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.23653230680</SimpleData>
-            <SimpleData name="Shape_Area">0.00326073916</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -78,7 +74,6 @@
       <Placemark id="Kajawa.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Kajawa.schema">
-            <SimpleData name="OBJECTID">223</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kajawa</SimpleData>
@@ -86,8 +81,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET051103_06_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.32292456410</SimpleData>
-            <SimpleData name="Shape_Area">0.00526880958</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -109,7 +103,6 @@
       <Placemark id="Kajawa.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Kajawa.schema">
-            <SimpleData name="OBJECTID">224</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kajawa</SimpleData>
@@ -117,8 +110,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET051103_06_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.36854547599</SimpleData>
-            <SimpleData name="Shape_Area">0.00850761658</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -152,7 +144,6 @@
       <Placemark id="Kajawa.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Kajawa.schema">
-            <SimpleData name="OBJECTID">225</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kajawa</SimpleData>
@@ -160,8 +151,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET051103_06_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.31586221706</SimpleData>
-            <SimpleData name="Shape_Area">0.00557030512</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -183,7 +173,6 @@
       <Placemark id="Kajawa.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Kajawa.schema">
-            <SimpleData name="OBJECTID">226</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kajawa</SimpleData>
@@ -191,8 +180,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET051103_06_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.25004661147</SimpleData>
-            <SimpleData name="Shape_Area">0.00314022613</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -225,7 +213,6 @@
       <Placemark id="Kajawa.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Kajawa.schema">
-            <SimpleData name="OBJECTID">227</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kajawa</SimpleData>
@@ -233,8 +220,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET051103_06_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.34131349057</SimpleData>
-            <SimpleData name="Shape_Area">0.00690531917</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -258,7 +244,6 @@
       <Placemark id="Kajawa.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Kajawa.schema">
-            <SimpleData name="OBJECTID">228</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kajawa</SimpleData>
@@ -266,8 +251,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET051103_06_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.30137677012</SimpleData>
-            <SimpleData name="Shape_Area">0.00482957070</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -310,7 +294,6 @@
       <Placemark id="Kajawa.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Kajawa.schema">
-            <SimpleData name="OBJECTID">229</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Kajawa</SimpleData>
@@ -318,8 +301,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET051103_06_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.23972140787</SimpleData>
-            <SimpleData name="Shape_Area">0.00298863779</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Malkahagar.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Malkahagar">
       <name>Malkahagar</name>
       <Placemark id="Malkahagar.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Malkahagar.schema">
-            <SimpleData name="OBJECTID">50</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Malkahagar</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P11</SimpleData>
             <SimpleData name="PadCode">ET050901_07_11</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.21552543915</SimpleData>
-            <SimpleData name="Shape_Area">0.00200927479</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -68,7 +64,6 @@
       <Placemark id="Malkahagar.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Malkahagar.schema">
-            <SimpleData name="OBJECTID">278</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Malkahagar</SimpleData>
@@ -76,8 +71,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET050901_07_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.47796263004</SimpleData>
-            <SimpleData name="Shape_Area">0.00706074741</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -379,7 +373,6 @@
       <Placemark id="Malkahagar.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Malkahagar.schema">
-            <SimpleData name="OBJECTID">279</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Malkahagar</SimpleData>
@@ -387,8 +380,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET050901_07_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.51004601693</SimpleData>
-            <SimpleData name="Shape_Area">0.00932242999</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -449,7 +441,6 @@
       <Placemark id="Malkahagar.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Malkahagar.schema">
-            <SimpleData name="OBJECTID">280</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Malkahagar</SimpleData>
@@ -457,8 +448,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET050901_07_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.35074166148</SimpleData>
-            <SimpleData name="Shape_Area">0.00313589230</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -530,7 +520,6 @@
       <Placemark id="Malkahagar.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Malkahagar.schema">
-            <SimpleData name="OBJECTID">281</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Malkahagar</SimpleData>
@@ -538,8 +527,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET050901_07_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.47421188312</SimpleData>
-            <SimpleData name="Shape_Area">0.00875705821</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -623,7 +611,6 @@
       <Placemark id="Malkahagar.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Malkahagar.schema">
-            <SimpleData name="OBJECTID">282</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Malkahagar</SimpleData>
@@ -631,8 +618,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET050901_07_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.27515985427</SimpleData>
-            <SimpleData name="Shape_Area">0.00326872795</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -672,7 +658,6 @@
       <Placemark id="Malkahagar.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Malkahagar.schema">
-            <SimpleData name="OBJECTID">283</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Malkahagar</SimpleData>
@@ -680,8 +665,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET050901_07_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.26075990339</SimpleData>
-            <SimpleData name="Shape_Area">0.00275996106</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -715,7 +699,6 @@
       <Placemark id="Malkahagar.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Malkahagar.schema">
-            <SimpleData name="OBJECTID">284</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Malkahagar</SimpleData>
@@ -723,8 +706,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET050901_07_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.38679987137</SimpleData>
-            <SimpleData name="Shape_Area">0.00705554236</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -758,7 +740,6 @@
       <Placemark id="Malkahagar.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Malkahagar.schema">
-            <SimpleData name="OBJECTID">285</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Malkahagar</SimpleData>
@@ -766,8 +747,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET050901_07_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.28809875315</SimpleData>
-            <SimpleData name="Shape_Area">0.00420761382</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -789,7 +769,6 @@
       <Placemark id="Malkahagar.10">
         <ExtendedData>
           <SchemaData schemaUrl="#Malkahagar.schema">
-            <SimpleData name="OBJECTID">286</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Malkahagar</SimpleData>
@@ -797,8 +776,7 @@
             <SimpleData name="PadName">P9</SimpleData>
             <SimpleData name="PadCode">ET050901_07_09</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.25372221866</SimpleData>
-            <SimpleData name="Shape_Area">0.00255294580</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -824,7 +802,6 @@
       <Placemark id="Malkahagar.11">
         <ExtendedData>
           <SchemaData schemaUrl="#Malkahagar.schema">
-            <SimpleData name="OBJECTID">287</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Malkahagar</SimpleData>
@@ -832,8 +809,7 @@
             <SimpleData name="PadName">P10</SimpleData>
             <SimpleData name="PadCode">ET050901_07_11</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.15746181706</SimpleData>
-            <SimpleData name="Shape_Area">0.00075797668</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

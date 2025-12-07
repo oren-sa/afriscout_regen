@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Kafara.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Kafara">
       <name>Kafara</name>
       <Placemark id="Kafara.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Kafara.schema">
-            <SimpleData name="OBJECTID">8</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Kafara</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041208_05_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.41674560542</SimpleData>
-            <SimpleData name="Shape_Area">0.00524310505</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -364,7 +360,6 @@
       <Placemark id="Kafara.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Kafara.schema">
-            <SimpleData name="OBJECTID">208</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Kafara</SimpleData>
@@ -372,8 +367,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041208_05_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.42957019264</SimpleData>
-            <SimpleData name="Shape_Area">0.00888517662</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <MultiGeometry>
@@ -608,7 +602,6 @@
       <Placemark id="Kafara.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Kafara.schema">
-            <SimpleData name="OBJECTID">209</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Kafara</SimpleData>
@@ -616,8 +609,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041208_05_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.33447292677</SimpleData>
-            <SimpleData name="Shape_Area">0.00263190503</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -822,7 +814,6 @@
       <Placemark id="Kafara.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Kafara.schema">
-            <SimpleData name="OBJECTID">210</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Kafara</SimpleData>
@@ -830,8 +821,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041208_05_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.20487293809</SimpleData>
-            <SimpleData name="Shape_Area">0.00141175177</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -918,7 +908,6 @@
       <Placemark id="Kafara.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Kafara.schema">
-            <SimpleData name="OBJECTID">211</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Kafara</SimpleData>
@@ -926,8 +915,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041208_05_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13362117279</SimpleData>
-            <SimpleData name="Shape_Area">0.00084339685</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

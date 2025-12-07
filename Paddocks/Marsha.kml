@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Marsha.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Marsha">
       <name>Marsha</name>
       <Placemark id="Marsha.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Marsha.schema">
-            <SimpleData name="OBJECTID">59</SimpleData>
             <SimpleData name="Woreda">Hudet</SimpleData>
             <SimpleData name="ADM3">ET051104</SimpleData>
             <SimpleData name="RGUName">Marsha</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET051104_01_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.23323425900</SimpleData>
-            <SimpleData name="Shape_Area">0.00136706270</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -237,7 +233,6 @@
       <Placemark id="Marsha.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Marsha.schema">
-            <SimpleData name="OBJECTID">293</SimpleData>
             <SimpleData name="Woreda">Hudet</SimpleData>
             <SimpleData name="ADM3">ET051104</SimpleData>
             <SimpleData name="RGUName">Marsha</SimpleData>
@@ -245,8 +240,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET051104_01_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.25306475098</SimpleData>
-            <SimpleData name="Shape_Area">0.00219245971</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -486,7 +480,6 @@
       <Placemark id="Marsha.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Marsha.schema">
-            <SimpleData name="OBJECTID">294</SimpleData>
             <SimpleData name="Woreda">Hudet</SimpleData>
             <SimpleData name="ADM3">ET051104</SimpleData>
             <SimpleData name="RGUName">Marsha</SimpleData>
@@ -494,8 +487,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET051104_01_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10669458549</SimpleData>
-            <SimpleData name="Shape_Area">0.00049681178</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -572,7 +564,6 @@
       <Placemark id="Marsha.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Marsha.schema">
-            <SimpleData name="OBJECTID">295</SimpleData>
             <SimpleData name="Woreda">Hudet</SimpleData>
             <SimpleData name="ADM3">ET051104</SimpleData>
             <SimpleData name="RGUName">Marsha</SimpleData>
@@ -580,8 +571,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET051104_01_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.07918585073</SimpleData>
-            <SimpleData name="Shape_Area">0.00021053455</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -666,7 +656,6 @@
       <Placemark id="Marsha.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Marsha.schema">
-            <SimpleData name="OBJECTID">296</SimpleData>
             <SimpleData name="Woreda">Hudet</SimpleData>
             <SimpleData name="ADM3">ET051104</SimpleData>
             <SimpleData name="RGUName">Marsha</SimpleData>
@@ -674,8 +663,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET051104_01_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.07258482235</SimpleData>
-            <SimpleData name="Shape_Area">0.00020622810</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

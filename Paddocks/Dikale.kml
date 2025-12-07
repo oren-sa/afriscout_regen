@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Dikale.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Dikale">
       <name>Dikale</name>
       <Placemark id="Dikale.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Dikale.schema">
-            <SimpleData name="OBJECTID">33</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dikale</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041207_04_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.28609905945</SimpleData>
-            <SimpleData name="Shape_Area">0.00373849063</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -116,7 +112,6 @@
       <Placemark id="Dikale.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Dikale.schema">
-            <SimpleData name="OBJECTID">153</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dikale</SimpleData>
@@ -124,8 +119,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041207_04_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.24941936541</SimpleData>
-            <SimpleData name="Shape_Area">0.00325138947</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -188,7 +182,6 @@
       <Placemark id="Dikale.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Dikale.schema">
-            <SimpleData name="OBJECTID">154</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dikale</SimpleData>
@@ -196,8 +189,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041207_04_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.26407741533</SimpleData>
-            <SimpleData name="Shape_Area">0.00216598457</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -267,7 +259,6 @@
       <Placemark id="Dikale.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Dikale.schema">
-            <SimpleData name="OBJECTID">155</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dikale</SimpleData>
@@ -275,8 +266,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041207_04_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.18989916638</SimpleData>
-            <SimpleData name="Shape_Area">0.00237811907</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -332,7 +322,6 @@
       <Placemark id="Dikale.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Dikale.schema">
-            <SimpleData name="OBJECTID">156</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dikale</SimpleData>
@@ -340,8 +329,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041207_04_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.14140088142</SimpleData>
-            <SimpleData name="Shape_Area">0.00088699746</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -407,7 +395,6 @@
       <Placemark id="Dikale.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Dikale.schema">
-            <SimpleData name="OBJECTID">157</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dikale</SimpleData>
@@ -415,8 +402,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET041207_04_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10236417158</SimpleData>
-            <SimpleData name="Shape_Area">0.00045849734</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -456,7 +442,6 @@
       <Placemark id="Dikale.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Dikale.schema">
-            <SimpleData name="OBJECTID">158</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dikale</SimpleData>
@@ -464,8 +449,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET041207_04_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12972146377</SimpleData>
-            <SimpleData name="Shape_Area">0.00095939305</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -497,7 +481,6 @@
       <Placemark id="Dikale.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Dikale.schema">
-            <SimpleData name="OBJECTID">159</SimpleData>
             <SimpleData name="Woreda">Yabello</SimpleData>
             <SimpleData name="ADM3">ET041207</SimpleData>
             <SimpleData name="RGUName">Dikale</SimpleData>
@@ -505,8 +488,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET041207_04_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.23464006622</SimpleData>
-            <SimpleData name="Shape_Area">0.00198495752</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

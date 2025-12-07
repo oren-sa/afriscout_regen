@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Web.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Web">
       <name>Web</name>
       <Placemark id="Web.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Web.schema">
-            <SimpleData name="OBJECTID">6</SimpleData>
             <SimpleData name="Woreda">Wacille</SimpleData>
             <SimpleData name="ADM3">ET041298</SimpleData>
             <SimpleData name="RGUName">Web</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET041298_04_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.54467237176</SimpleData>
-            <SimpleData name="Shape_Area">0.00703592997</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -72,7 +68,6 @@
       <Placemark id="Web.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Web.schema">
-            <SimpleData name="OBJECTID">348</SimpleData>
             <SimpleData name="Woreda">Wacille</SimpleData>
             <SimpleData name="ADM3">ET041298</SimpleData>
             <SimpleData name="RGUName">Web</SimpleData>
@@ -80,8 +75,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041298_04_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.48793878198</SimpleData>
-            <SimpleData name="Shape_Area">0.01367023010</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -134,7 +128,6 @@
       <Placemark id="Web.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Web.schema">
-            <SimpleData name="OBJECTID">349</SimpleData>
             <SimpleData name="Woreda">Wacille</SimpleData>
             <SimpleData name="ADM3">ET041298</SimpleData>
             <SimpleData name="RGUName">Web</SimpleData>
@@ -142,8 +135,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041298_04_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.33059502883</SimpleData>
-            <SimpleData name="Shape_Area">0.00578048316</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -173,7 +165,6 @@
       <Placemark id="Web.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Web.schema">
-            <SimpleData name="OBJECTID">350</SimpleData>
             <SimpleData name="Woreda">Wacille</SimpleData>
             <SimpleData name="ADM3">ET041298</SimpleData>
             <SimpleData name="RGUName">Web</SimpleData>
@@ -181,8 +172,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041298_04_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.40165644054</SimpleData>
-            <SimpleData name="Shape_Area">0.00649675836</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -229,7 +219,6 @@
       <Placemark id="Web.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Web.schema">
-            <SimpleData name="OBJECTID">351</SimpleData>
             <SimpleData name="Woreda">Wacille</SimpleData>
             <SimpleData name="ADM3">ET041298</SimpleData>
             <SimpleData name="RGUName">Web</SimpleData>
@@ -237,8 +226,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041298_04_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.45960939157</SimpleData>
-            <SimpleData name="Shape_Area">0.00850727809</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -388,7 +376,6 @@
       <Placemark id="Web.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Web.schema">
-            <SimpleData name="OBJECTID">352</SimpleData>
             <SimpleData name="Woreda">Wacille</SimpleData>
             <SimpleData name="ADM3">ET041298</SimpleData>
             <SimpleData name="RGUName">Web</SimpleData>
@@ -396,8 +383,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041298_04_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.34277673384</SimpleData>
-            <SimpleData name="Shape_Area">0.00444177645</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -457,7 +443,6 @@
       <Placemark id="Web.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Web.schema">
-            <SimpleData name="OBJECTID">353</SimpleData>
             <SimpleData name="Woreda">Wacille</SimpleData>
             <SimpleData name="ADM3">ET041298</SimpleData>
             <SimpleData name="RGUName">Web</SimpleData>
@@ -465,8 +450,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET041298_04_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.27808379927</SimpleData>
-            <SimpleData name="Shape_Area">0.00335107076</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -503,7 +487,6 @@
       <Placemark id="Web.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Web.schema">
-            <SimpleData name="OBJECTID">354</SimpleData>
             <SimpleData name="Woreda">Wacille</SimpleData>
             <SimpleData name="ADM3">ET041298</SimpleData>
             <SimpleData name="RGUName">Web</SimpleData>
@@ -511,8 +494,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET041298_04_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.21821582413</SimpleData>
-            <SimpleData name="Shape_Area">0.00228953632</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -538,7 +520,6 @@
       <Placemark id="Web.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Web.schema">
-            <SimpleData name="OBJECTID">355</SimpleData>
             <SimpleData name="Woreda">Wacille</SimpleData>
             <SimpleData name="ADM3">ET041298</SimpleData>
             <SimpleData name="RGUName">Web</SimpleData>
@@ -546,8 +527,7 @@
             <SimpleData name="PadName">P11</SimpleData>
             <SimpleData name="PadCode">ET041298_04_11</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.28009610097</SimpleData>
-            <SimpleData name="Shape_Area">0.00391153094</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -576,7 +556,6 @@
       <Placemark id="Web.10">
         <ExtendedData>
           <SchemaData schemaUrl="#Web.schema">
-            <SimpleData name="OBJECTID">356</SimpleData>
             <SimpleData name="Woreda">Wacille</SimpleData>
             <SimpleData name="ADM3">ET041298</SimpleData>
             <SimpleData name="RGUName">Web</SimpleData>
@@ -584,8 +563,7 @@
             <SimpleData name="PadName">P10</SimpleData>
             <SimpleData name="PadCode">ET041298_04_10</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.33276477389</SimpleData>
-            <SimpleData name="Shape_Area">0.00510609625</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -624,7 +602,6 @@
       <Placemark id="Web.11">
         <ExtendedData>
           <SchemaData schemaUrl="#Web.schema">
-            <SimpleData name="OBJECTID">357</SimpleData>
             <SimpleData name="Woreda">Wacille</SimpleData>
             <SimpleData name="ADM3">ET041298</SimpleData>
             <SimpleData name="RGUName">Web</SimpleData>
@@ -632,8 +609,7 @@
             <SimpleData name="PadName">P9</SimpleData>
             <SimpleData name="PadCode">ET041298_04_09</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.31848262711</SimpleData>
-            <SimpleData name="Shape_Area">0.00496055548</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

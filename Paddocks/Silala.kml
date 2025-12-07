@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Silala.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Silala">
       <name>Silala</name>
       <Placemark id="Silala.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Silala.schema">
-            <SimpleData name="OBJECTID">13</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Silala</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041208_07_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.19956229302</SimpleData>
-            <SimpleData name="Shape_Area">0.00203513748</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -142,7 +138,6 @@
       <Placemark id="Silala.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Silala.schema">
-            <SimpleData name="OBJECTID">321</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Silala</SimpleData>
@@ -150,8 +145,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041208_07_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.15683306726</SimpleData>
-            <SimpleData name="Shape_Area">0.00094510903</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -237,7 +231,6 @@
       <Placemark id="Silala.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Silala.schema">
-            <SimpleData name="OBJECTID">322</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Silala</SimpleData>
@@ -245,8 +238,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041208_07_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.17890055138</SimpleData>
-            <SimpleData name="Shape_Area">0.00102742483</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -331,7 +323,6 @@
       <Placemark id="Silala.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Silala.schema">
-            <SimpleData name="OBJECTID">323</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Silala</SimpleData>
@@ -339,8 +330,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041208_07_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.24011423945</SimpleData>
-            <SimpleData name="Shape_Area">0.00149538986</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -555,7 +545,6 @@
       <Placemark id="Silala.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Silala.schema">
-            <SimpleData name="OBJECTID">324</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Silala</SimpleData>
@@ -563,8 +552,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041208_07_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.18608289354</SimpleData>
-            <SimpleData name="Shape_Area">0.00139821264</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Shenkora.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Shenkora">
       <name>Shenkora</name>
       <Placemark id="Shenkora.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Shenkora.schema">
-            <SimpleData name="OBJECTID">316</SimpleData>
             <SimpleData name="Woreda">Nyngatom</SimpleData>
             <SimpleData name="ADM3">ET070708</SimpleData>
             <SimpleData name="RGUName">Shenkora</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET070708_05_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.81404396125</SimpleData>
-            <SimpleData name="Shape_Area">0.01363702182</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -321,7 +317,6 @@
       <Placemark id="Shenkora.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Shenkora.schema">
-            <SimpleData name="OBJECTID">317</SimpleData>
             <SimpleData name="Woreda">Nyngatom</SimpleData>
             <SimpleData name="ADM3">ET070708</SimpleData>
             <SimpleData name="RGUName">Shenkora</SimpleData>
@@ -329,8 +324,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET070708_05_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.49171167385</SimpleData>
-            <SimpleData name="Shape_Area">0.00670146622</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -480,7 +474,6 @@
       <Placemark id="Shenkora.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Shenkora.schema">
-            <SimpleData name="OBJECTID">318</SimpleData>
             <SimpleData name="Woreda">Nyngatom</SimpleData>
             <SimpleData name="ADM3">ET070708</SimpleData>
             <SimpleData name="RGUName">Shenkora</SimpleData>
@@ -488,8 +481,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET070708_05_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.61566612220</SimpleData>
-            <SimpleData name="Shape_Area">0.00781651177</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -697,7 +689,6 @@
       <Placemark id="Shenkora.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Shenkora.schema">
-            <SimpleData name="OBJECTID">319</SimpleData>
             <SimpleData name="Woreda">Nyngatom</SimpleData>
             <SimpleData name="ADM3">ET070708</SimpleData>
             <SimpleData name="RGUName">Shenkora</SimpleData>
@@ -705,8 +696,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET070708_05_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.50059926333</SimpleData>
-            <SimpleData name="Shape_Area">0.01051854287</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -903,7 +893,6 @@
       <Placemark id="Shenkora.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Shenkora.schema">
-            <SimpleData name="OBJECTID">320</SimpleData>
             <SimpleData name="Woreda">Nyngatom</SimpleData>
             <SimpleData name="ADM3">ET070708</SimpleData>
             <SimpleData name="RGUName">Shenkora</SimpleData>
@@ -911,8 +900,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET070708_05_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.46379721883</SimpleData>
-            <SimpleData name="Shape_Area">0.00708488448</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

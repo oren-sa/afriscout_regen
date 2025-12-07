@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Jimma.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Jimma">
       <name>Jimma</name>
       <Placemark id="Jimma.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Jimma.schema">
-            <SimpleData name="OBJECTID">58</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Jimma</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET051103_05_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.46434304599</SimpleData>
-            <SimpleData name="Shape_Area">0.01009293284</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -136,7 +132,6 @@
       <Placemark id="Jimma.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Jimma.schema">
-            <SimpleData name="OBJECTID">203</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Jimma</SimpleData>
@@ -144,8 +139,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET051103_05_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.33102186939</SimpleData>
-            <SimpleData name="Shape_Area">0.00469023103</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -233,7 +227,6 @@
       <Placemark id="Jimma.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Jimma.schema">
-            <SimpleData name="OBJECTID">204</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Jimma</SimpleData>
@@ -241,8 +234,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET051103_05_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.33453193959</SimpleData>
-            <SimpleData name="Shape_Area">0.00421534891</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -319,7 +311,6 @@
       <Placemark id="Jimma.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Jimma.schema">
-            <SimpleData name="OBJECTID">205</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Jimma</SimpleData>
@@ -327,8 +318,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET051103_05_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.30805582680</SimpleData>
-            <SimpleData name="Shape_Area">0.00219208603</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -433,7 +423,6 @@
       <Placemark id="Jimma.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Jimma.schema">
-            <SimpleData name="OBJECTID">206</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Jimma</SimpleData>
@@ -441,8 +430,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET051103_05_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.15439468858</SimpleData>
-            <SimpleData name="Shape_Area">0.00124613671</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -533,7 +521,6 @@
       <Placemark id="Jimma.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Jimma.schema">
-            <SimpleData name="OBJECTID">207</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET051103</SimpleData>
             <SimpleData name="RGUName">Jimma</SimpleData>
@@ -541,8 +528,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET051103_05_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.25592181406</SimpleData>
-            <SimpleData name="Shape_Area">0.00223237327</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

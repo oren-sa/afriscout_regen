@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Maddo.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Maddo">
       <name>Maddo</name>
       <Placemark id="Maddo.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Maddo.schema">
-            <SimpleData name="OBJECTID">20</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Maddo</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P10</SimpleData>
             <SimpleData name="PadCode">ET041210_04_10</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13463999982</SimpleData>
-            <SimpleData name="Shape_Area">0.00078944707</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -137,7 +133,6 @@
       <Placemark id="Maddo.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Maddo.schema">
-            <SimpleData name="OBJECTID">269</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Maddo</SimpleData>
@@ -145,8 +140,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041210_04_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.21583968131</SimpleData>
-            <SimpleData name="Shape_Area">0.00170023127</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -351,7 +345,6 @@
       <Placemark id="Maddo.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Maddo.schema">
-            <SimpleData name="OBJECTID">270</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Maddo</SimpleData>
@@ -359,8 +352,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041210_04_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.21354564164</SimpleData>
-            <SimpleData name="Shape_Area">0.00179204288</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -487,7 +479,6 @@
       <Placemark id="Maddo.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Maddo.schema">
-            <SimpleData name="OBJECTID">271</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Maddo</SimpleData>
@@ -495,8 +486,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041210_04_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.18562355174</SimpleData>
-            <SimpleData name="Shape_Area">0.00202393283</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -578,7 +568,6 @@
       <Placemark id="Maddo.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Maddo.schema">
-            <SimpleData name="OBJECTID">272</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Maddo</SimpleData>
@@ -586,8 +575,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041210_04_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.16854572834</SimpleData>
-            <SimpleData name="Shape_Area">0.00123762015</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -693,7 +681,6 @@
       <Placemark id="Maddo.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Maddo.schema">
-            <SimpleData name="OBJECTID">273</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Maddo</SimpleData>
@@ -701,8 +688,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041210_04_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.14837048299</SimpleData>
-            <SimpleData name="Shape_Area">0.00092340066</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -804,7 +790,6 @@
       <Placemark id="Maddo.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Maddo.schema">
-            <SimpleData name="OBJECTID">274</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Maddo</SimpleData>
@@ -812,8 +797,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET041210_04_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.15294772653</SimpleData>
-            <SimpleData name="Shape_Area">0.00111186927</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -904,7 +888,6 @@
       <Placemark id="Maddo.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Maddo.schema">
-            <SimpleData name="OBJECTID">275</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Maddo</SimpleData>
@@ -912,8 +895,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET041210_04_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.15344016077</SimpleData>
-            <SimpleData name="Shape_Area">0.00101043296</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1049,7 +1031,6 @@
       <Placemark id="Maddo.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Maddo.schema">
-            <SimpleData name="OBJECTID">276</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Maddo</SimpleData>
@@ -1057,8 +1038,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET041210_04_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.17719598847</SimpleData>
-            <SimpleData name="Shape_Area">0.00121573688</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1180,7 +1160,6 @@
       <Placemark id="Maddo.10">
         <ExtendedData>
           <SchemaData schemaUrl="#Maddo.schema">
-            <SimpleData name="OBJECTID">277</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Maddo</SimpleData>
@@ -1188,8 +1167,7 @@
             <SimpleData name="PadName">P9</SimpleData>
             <SimpleData name="PadCode">ET041210_04_09</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12354783240</SimpleData>
-            <SimpleData name="Shape_Area">0.00077146224</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

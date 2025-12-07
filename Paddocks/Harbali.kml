@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Harbali.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Harbali">
       <name>Harbali</name>
       <Placemark id="Harbali.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Harbali.schema">
-            <SimpleData name="OBJECTID">54</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Harbali</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET050901_04_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.32867289303</SimpleData>
-            <SimpleData name="Shape_Area">0.00273833524</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -235,7 +231,6 @@
       <Placemark id="Harbali.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Harbali.schema">
-            <SimpleData name="OBJECTID">183</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Harbali</SimpleData>
@@ -243,8 +238,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET050901_04_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.22102557103</SimpleData>
-            <SimpleData name="Shape_Area">0.00222605138</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -330,7 +324,6 @@
       <Placemark id="Harbali.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Harbali.schema">
-            <SimpleData name="OBJECTID">184</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Harbali</SimpleData>
@@ -338,8 +331,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET050901_04_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09201372616</SimpleData>
-            <SimpleData name="Shape_Area">0.00039877066</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -423,7 +415,6 @@
       <Placemark id="Harbali.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Harbali.schema">
-            <SimpleData name="OBJECTID">185</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Harbali</SimpleData>
@@ -431,8 +422,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET050901_04_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.07634849720</SimpleData>
-            <SimpleData name="Shape_Area">0.00018370954</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -524,7 +514,6 @@
       <Placemark id="Harbali.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Harbali.schema">
-            <SimpleData name="OBJECTID">186</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Harbali</SimpleData>
@@ -532,8 +521,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET050901_04_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09777145590</SimpleData>
-            <SimpleData name="Shape_Area">0.00031437283</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

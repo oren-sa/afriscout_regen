@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Lokoro.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Lokoro">
       <name>Lokoro</name>
       <Placemark id="Lokoro.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Lokoro.schema">
-            <SimpleData name="OBJECTID">66</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Lokoro</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET070706_05_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.56328863523</SimpleData>
-            <SimpleData name="Shape_Area">0.00645483200</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -202,7 +198,6 @@
       <Placemark id="Lokoro.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Lokoro.schema">
-            <SimpleData name="OBJECTID">262</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Lokoro</SimpleData>
@@ -210,8 +205,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET070706_05_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12118057263</SimpleData>
-            <SimpleData name="Shape_Area">0.00080892719</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -248,7 +242,6 @@
       <Placemark id="Lokoro.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Lokoro.schema">
-            <SimpleData name="OBJECTID">263</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Lokoro</SimpleData>
@@ -256,8 +249,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET070706_05_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.01964543988</SimpleData>
-            <SimpleData name="Shape_Area">0.00001724910</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -278,7 +270,6 @@
       <Placemark id="Lokoro.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Lokoro.schema">
-            <SimpleData name="OBJECTID">264</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Lokoro</SimpleData>
@@ -286,8 +277,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET070706_05_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.11127366702</SimpleData>
-            <SimpleData name="Shape_Area">0.00054006953</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -323,7 +313,6 @@
       <Placemark id="Lokoro.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Lokoro.schema">
-            <SimpleData name="OBJECTID">265</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Lokoro</SimpleData>
@@ -331,8 +320,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET070706_05_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.16015704575</SimpleData>
-            <SimpleData name="Shape_Area">0.00130134599</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -377,7 +365,6 @@
       <Placemark id="Lokoro.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Lokoro.schema">
-            <SimpleData name="OBJECTID">266</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Lokoro</SimpleData>
@@ -385,8 +372,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET070706_05_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13577724555</SimpleData>
-            <SimpleData name="Shape_Area">0.00079514065</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -432,7 +418,6 @@
       <Placemark id="Lokoro.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Lokoro.schema">
-            <SimpleData name="OBJECTID">267</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Lokoro</SimpleData>
@@ -440,8 +425,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET070706_05_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.26524036905</SimpleData>
-            <SimpleData name="Shape_Area">0.00381042615</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -495,7 +479,6 @@
       <Placemark id="Lokoro.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Lokoro.schema">
-            <SimpleData name="OBJECTID">268</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Lokoro</SimpleData>
@@ -503,8 +486,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET070706_05_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.24188573198</SimpleData>
-            <SimpleData name="Shape_Area">0.00215736279</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

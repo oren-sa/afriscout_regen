@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Gayo.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Gayo">
       <name>Gayo</name>
       <Placemark id="Gayo.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Gayo.schema">
-            <SimpleData name="OBJECTID">2</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Gayo</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P10</SimpleData>
             <SimpleData name="PadCode">ET041220_02_10</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.86487003984</SimpleData>
-            <SimpleData name="Shape_Area">0.03464979363</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -85,7 +81,6 @@
       <Placemark id="Gayo.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Gayo.schema">
-            <SimpleData name="OBJECTID">2</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Gayo</SimpleData>
@@ -93,8 +88,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041220_02_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.86487003984</SimpleData>
-            <SimpleData name="Shape_Area">0.03464979363</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -390,7 +384,6 @@
       <Placemark id="Gayo.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Gayo.schema">
-            <SimpleData name="OBJECTID">2</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Gayo</SimpleData>
@@ -398,8 +391,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041220_02_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.86487003984</SimpleData>
-            <SimpleData name="Shape_Area">0.03464979363</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -590,7 +582,6 @@
       <Placemark id="Gayo.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Gayo.schema">
-            <SimpleData name="OBJECTID">2</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Gayo</SimpleData>
@@ -598,8 +589,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041220_02_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.86487003984</SimpleData>
-            <SimpleData name="Shape_Area">0.03464979363</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -663,7 +653,6 @@
       <Placemark id="Gayo.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Gayo.schema">
-            <SimpleData name="OBJECTID">2</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Gayo</SimpleData>
@@ -671,8 +660,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041220_02_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.86487003984</SimpleData>
-            <SimpleData name="Shape_Area">0.03464979363</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -776,7 +764,6 @@
       <Placemark id="Gayo.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Gayo.schema">
-            <SimpleData name="OBJECTID">2</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Gayo</SimpleData>
@@ -784,8 +771,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041220_02_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.86487003984</SimpleData>
-            <SimpleData name="Shape_Area">0.03464979363</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -835,7 +821,6 @@
       <Placemark id="Gayo.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Gayo.schema">
-            <SimpleData name="OBJECTID">2</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Gayo</SimpleData>
@@ -843,8 +828,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET041220_02_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.86487003984</SimpleData>
-            <SimpleData name="Shape_Area">0.03464979363</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -894,7 +878,6 @@
       <Placemark id="Gayo.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Gayo.schema">
-            <SimpleData name="OBJECTID">2</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Gayo</SimpleData>
@@ -902,8 +885,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET041220_02_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.86487003984</SimpleData>
-            <SimpleData name="Shape_Area">0.03464979363</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -953,7 +935,6 @@
       <Placemark id="Gayo.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Gayo.schema">
-            <SimpleData name="OBJECTID">2</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Gayo</SimpleData>
@@ -961,8 +942,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET041220_02_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.86487003984</SimpleData>
-            <SimpleData name="Shape_Area">0.03464979363</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1060,7 +1040,6 @@
       <Placemark id="Gayo.10">
         <ExtendedData>
           <SchemaData schemaUrl="#Gayo.schema">
-            <SimpleData name="OBJECTID">2</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Gayo</SimpleData>
@@ -1068,8 +1047,7 @@
             <SimpleData name="PadName">P9</SimpleData>
             <SimpleData name="PadCode">ET041220_02_09</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.86487003984</SimpleData>
-            <SimpleData name="Shape_Area">0.03464979363</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

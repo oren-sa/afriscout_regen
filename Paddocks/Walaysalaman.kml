@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Walaysalaman.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Walaysalaman">
       <name>Walaysalaman</name>
       <Placemark id="Walaysalaman.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Walaysalaman.schema">
-            <SimpleData name="OBJECTID">44</SimpleData>
             <SimpleData name="Woreda">Liben</SimpleData>
             <SimpleData name="ADM3">ET041407</SimpleData>
             <SimpleData name="RGUName">Walaysalaman</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041407_01_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.19406417935</SimpleData>
-            <SimpleData name="Shape_Area">0.00098614190</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -65,7 +61,6 @@
       <Placemark id="Walaysalaman.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Walaysalaman.schema">
-            <SimpleData name="OBJECTID">339</SimpleData>
             <SimpleData name="Woreda">Liben</SimpleData>
             <SimpleData name="ADM3">ET041407</SimpleData>
             <SimpleData name="RGUName">Walaysalaman</SimpleData>
@@ -73,8 +68,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041407_01_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.16822652540</SimpleData>
-            <SimpleData name="Shape_Area">0.00078482569</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -116,7 +110,6 @@
       <Placemark id="Walaysalaman.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Walaysalaman.schema">
-            <SimpleData name="OBJECTID">340</SimpleData>
             <SimpleData name="Woreda">Liben</SimpleData>
             <SimpleData name="ADM3">ET041407</SimpleData>
             <SimpleData name="RGUName">Walaysalaman</SimpleData>
@@ -124,8 +117,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041407_01_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13631580598</SimpleData>
-            <SimpleData name="Shape_Area">0.00043992383</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -160,7 +152,6 @@
       <Placemark id="Walaysalaman.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Walaysalaman.schema">
-            <SimpleData name="OBJECTID">341</SimpleData>
             <SimpleData name="Woreda">Liben</SimpleData>
             <SimpleData name="ADM3">ET041407</SimpleData>
             <SimpleData name="RGUName">Walaysalaman</SimpleData>
@@ -168,8 +159,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041407_01_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10842150120</SimpleData>
-            <SimpleData name="Shape_Area">0.00046492459</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -198,7 +188,6 @@
       <Placemark id="Walaysalaman.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Walaysalaman.schema">
-            <SimpleData name="OBJECTID">342</SimpleData>
             <SimpleData name="Woreda">Liben</SimpleData>
             <SimpleData name="ADM3">ET041407</SimpleData>
             <SimpleData name="RGUName">Walaysalaman</SimpleData>
@@ -206,8 +195,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041407_01_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.18086006835</SimpleData>
-            <SimpleData name="Shape_Area">0.00089876067</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

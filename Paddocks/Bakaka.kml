@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Bakaka.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Bakaka">
       <name>Bakaka</name>
       <Placemark id="Bakaka.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Bakaka.schema">
-            <SimpleData name="OBJECTID">53</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Bakaka</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET050901_02_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.17297335462</SimpleData>
-            <SimpleData name="Shape_Area">0.00118299546</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -139,7 +135,6 @@
       <Placemark id="Bakaka.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Bakaka.schema">
-            <SimpleData name="OBJECTID">104</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Bakaka</SimpleData>
@@ -147,8 +142,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET050901_02_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.08248064382</SimpleData>
-            <SimpleData name="Shape_Area">0.00023271369</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -224,7 +218,6 @@
       <Placemark id="Bakaka.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Bakaka.schema">
-            <SimpleData name="OBJECTID">105</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Bakaka</SimpleData>
@@ -232,8 +225,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET050901_02_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.05176578474</SimpleData>
-            <SimpleData name="Shape_Area">0.00008661360</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -301,7 +293,6 @@
       <Placemark id="Bakaka.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Bakaka.schema">
-            <SimpleData name="OBJECTID">106</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Bakaka</SimpleData>
@@ -309,8 +300,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET050901_02_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.08054622234</SimpleData>
-            <SimpleData name="Shape_Area">0.00028325113</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -396,7 +386,6 @@
       <Placemark id="Bakaka.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Bakaka.schema">
-            <SimpleData name="OBJECTID">107</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Bakaka</SimpleData>
@@ -404,8 +393,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET050901_02_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13362431980</SimpleData>
-            <SimpleData name="Shape_Area">0.00070528980</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -506,7 +494,6 @@
       <Placemark id="Bakaka.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Bakaka.schema">
-            <SimpleData name="OBJECTID">108</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Bakaka</SimpleData>
@@ -514,8 +501,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET050901_02_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09554178825</SimpleData>
-            <SimpleData name="Shape_Area">0.00044666221</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -595,7 +581,6 @@
       <Placemark id="Bakaka.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Bakaka.schema">
-            <SimpleData name="OBJECTID">109</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Bakaka</SimpleData>
@@ -603,8 +588,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET050901_02_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.15463571735</SimpleData>
-            <SimpleData name="Shape_Area">0.00075111502</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Argane.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Argane">
       <name>Argane</name>
       <Placemark id="Argane.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Argane.schema">
-            <SimpleData name="OBJECTID">19</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Argane</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET041210_01_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.22061270548</SimpleData>
-            <SimpleData name="Shape_Area">0.00251748220</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -112,7 +108,6 @@
       <Placemark id="Argane.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Argane.schema">
-            <SimpleData name="OBJECTID">94</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Argane</SimpleData>
@@ -120,8 +115,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041210_01_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.11036319792</SimpleData>
-            <SimpleData name="Shape_Area">0.00067007369</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -178,7 +172,6 @@
       <Placemark id="Argane.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Argane.schema">
-            <SimpleData name="OBJECTID">95</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Argane</SimpleData>
@@ -186,8 +179,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041210_01_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10266238225</SimpleData>
-            <SimpleData name="Shape_Area">0.00053633589</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -252,7 +244,6 @@
       <Placemark id="Argane.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Argane.schema">
-            <SimpleData name="OBJECTID">96</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Argane</SimpleData>
@@ -260,8 +251,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041210_01_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12888332447</SimpleData>
-            <SimpleData name="Shape_Area">0.00080602039</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -337,7 +327,6 @@
       <Placemark id="Argane.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Argane.schema">
-            <SimpleData name="OBJECTID">97</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Argane</SimpleData>
@@ -345,8 +334,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041210_01_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.17421791657</SimpleData>
-            <SimpleData name="Shape_Area">0.00105035099</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -434,7 +422,6 @@
       <Placemark id="Argane.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Argane.schema">
-            <SimpleData name="OBJECTID">98</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Argane</SimpleData>
@@ -442,8 +429,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041210_01_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.17302936168</SimpleData>
-            <SimpleData name="Shape_Area">0.00174739697</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -518,7 +504,6 @@
       <Placemark id="Argane.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Argane.schema">
-            <SimpleData name="OBJECTID">99</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Argane</SimpleData>
@@ -526,8 +511,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET041210_01_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.19735252744</SimpleData>
-            <SimpleData name="Shape_Area">0.00194839835</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Liboma.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Liboma">
       <name>Liboma</name>
       <Placemark id="Liboma.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Liboma.schema">
-            <SimpleData name="OBJECTID">24</SimpleData>
             <SimpleData name="Woreda">Guchi</SimpleData>
             <SimpleData name="ADM3">ET041290</SimpleData>
             <SimpleData name="RGUName">Liboma</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041290_04_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.14767884681</SimpleData>
-            <SimpleData name="Shape_Area">0.00109799607</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -99,7 +95,6 @@
       <Placemark id="Liboma.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Liboma.schema">
-            <SimpleData name="OBJECTID">257</SimpleData>
             <SimpleData name="Woreda">Guchi</SimpleData>
             <SimpleData name="ADM3">ET041290</SimpleData>
             <SimpleData name="RGUName">Liboma</SimpleData>
@@ -107,8 +102,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041290_04_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12717717252</SimpleData>
-            <SimpleData name="Shape_Area">0.00068820602</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -155,7 +149,6 @@
       <Placemark id="Liboma.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Liboma.schema">
-            <SimpleData name="OBJECTID">258</SimpleData>
             <SimpleData name="Woreda">Guchi</SimpleData>
             <SimpleData name="ADM3">ET041290</SimpleData>
             <SimpleData name="RGUName">Liboma</SimpleData>
@@ -163,8 +156,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041290_04_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10430544374</SimpleData>
-            <SimpleData name="Shape_Area">0.00045651204</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -209,7 +201,6 @@
       <Placemark id="Liboma.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Liboma.schema">
-            <SimpleData name="OBJECTID">259</SimpleData>
             <SimpleData name="Woreda">Guchi</SimpleData>
             <SimpleData name="ADM3">ET041290</SimpleData>
             <SimpleData name="RGUName">Liboma</SimpleData>
@@ -217,8 +208,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041290_04_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12072358292</SimpleData>
-            <SimpleData name="Shape_Area">0.00050877123</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -278,7 +268,6 @@
       <Placemark id="Liboma.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Liboma.schema">
-            <SimpleData name="OBJECTID">260</SimpleData>
             <SimpleData name="Woreda">Guchi</SimpleData>
             <SimpleData name="ADM3">ET041290</SimpleData>
             <SimpleData name="RGUName">Liboma</SimpleData>
@@ -286,8 +275,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041290_04_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13781881787</SimpleData>
-            <SimpleData name="Shape_Area">0.00105884688</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -343,7 +331,6 @@
       <Placemark id="Liboma.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Liboma.schema">
-            <SimpleData name="OBJECTID">261</SimpleData>
             <SimpleData name="Woreda">Guchi</SimpleData>
             <SimpleData name="ADM3">ET041290</SimpleData>
             <SimpleData name="RGUName">Liboma</SimpleData>
@@ -351,8 +338,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET041290_04_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13959517009</SimpleData>
-            <SimpleData name="Shape_Area">0.00089513317</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Delerele.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Delerele">
       <name>Delerele</name>
       <Placemark id="Delerele.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Delerele.schema">
-            <SimpleData name="OBJECTID">34</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delerele</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET070706_03_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.20483892564</SimpleData>
-            <SimpleData name="Shape_Area">0.00203343182</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -98,7 +94,6 @@
       <Placemark id="Delerele.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Delerele.schema">
-            <SimpleData name="OBJECTID">145</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delerele</SimpleData>
@@ -106,8 +101,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET070706_03_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.18770824225</SimpleData>
-            <SimpleData name="Shape_Area">0.00128220647</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -169,7 +163,6 @@
       <Placemark id="Delerele.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Delerele.schema">
-            <SimpleData name="OBJECTID">146</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delerele</SimpleData>
@@ -177,8 +170,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET070706_03_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.19401155068</SimpleData>
-            <SimpleData name="Shape_Area">0.00197370983</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -255,7 +247,6 @@
       <Placemark id="Delerele.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Delerele.schema">
-            <SimpleData name="OBJECTID">147</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delerele</SimpleData>
@@ -263,8 +254,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET070706_03_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.11623532406</SimpleData>
-            <SimpleData name="Shape_Area">0.00065425598</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -319,7 +309,6 @@
       <Placemark id="Delerele.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Delerele.schema">
-            <SimpleData name="OBJECTID">148</SimpleData>
             <SimpleData name="Woreda">Dasenech</SimpleData>
             <SimpleData name="ADM3">ET070706</SimpleData>
             <SimpleData name="RGUName">Delerele</SimpleData>
@@ -327,8 +316,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET070706_03_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.11057795038</SimpleData>
-            <SimpleData name="Shape_Area">0.00056041802</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

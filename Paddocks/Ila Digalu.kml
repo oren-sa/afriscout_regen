@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Ila_Digalu.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Ila_Digalu">
       <name>Ila Digalu</name>
       <Placemark id="Ila_Digalu.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Ila_Digalu.schema">
-            <SimpleData name="OBJECTID">28</SimpleData>
             <SimpleData name="Woreda">Guchi</SimpleData>
             <SimpleData name="ADM3">ET041290</SimpleData>
             <SimpleData name="RGUName">Ila Digalu</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041290_02_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13634490285</SimpleData>
-            <SimpleData name="Shape_Area">0.00062238916</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -96,7 +92,6 @@
       <Placemark id="Ila_Digalu.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Ila_Digalu.schema">
-            <SimpleData name="OBJECTID">199</SimpleData>
             <SimpleData name="Woreda">Guchi</SimpleData>
             <SimpleData name="ADM3">ET041290</SimpleData>
             <SimpleData name="RGUName">Ila Digalu</SimpleData>
@@ -104,8 +99,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041290_02_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.11850941456</SimpleData>
-            <SimpleData name="Shape_Area">0.00087024414</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -159,7 +153,6 @@
       <Placemark id="Ila_Digalu.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Ila_Digalu.schema">
-            <SimpleData name="OBJECTID">200</SimpleData>
             <SimpleData name="Woreda">Guchi</SimpleData>
             <SimpleData name="ADM3">ET041290</SimpleData>
             <SimpleData name="RGUName">Ila Digalu</SimpleData>
@@ -167,8 +160,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041290_02_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.14631895070</SimpleData>
-            <SimpleData name="Shape_Area">0.00108828882</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -237,7 +229,6 @@
       <Placemark id="Ila_Digalu.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Ila_Digalu.schema">
-            <SimpleData name="OBJECTID">201</SimpleData>
             <SimpleData name="Woreda">Guchi</SimpleData>
             <SimpleData name="ADM3">ET041290</SimpleData>
             <SimpleData name="RGUName">Ila Digalu</SimpleData>
@@ -245,8 +236,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041290_02_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.14130078845</SimpleData>
-            <SimpleData name="Shape_Area">0.00094473611</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -317,7 +307,6 @@
       <Placemark id="Ila_Digalu.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Ila_Digalu.schema">
-            <SimpleData name="OBJECTID">202</SimpleData>
             <SimpleData name="Woreda">Guchi</SimpleData>
             <SimpleData name="ADM3">ET041290</SimpleData>
             <SimpleData name="RGUName">Ila Digalu</SimpleData>
@@ -325,8 +314,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041290_02_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.11118265508</SimpleData>
-            <SimpleData name="Shape_Area">0.00044357773</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

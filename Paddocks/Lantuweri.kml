@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Lantuweri.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Lantuweri">
       <name>Lantuweri</name>
       <Placemark id="Lantuweri.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Lantuweri.schema">
-            <SimpleData name="OBJECTID">49</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Lantuweri</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET050901_06_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.34663689888</SimpleData>
-            <SimpleData name="Shape_Area">0.00615454585</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -89,7 +85,6 @@
       <Placemark id="Lantuweri.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Lantuweri.schema">
-            <SimpleData name="OBJECTID">253</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Lantuweri</SimpleData>
@@ -97,8 +92,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET050901_06_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.14684058758</SimpleData>
-            <SimpleData name="Shape_Area">0.00071134850</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -139,7 +133,6 @@
       <Placemark id="Lantuweri.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Lantuweri.schema">
-            <SimpleData name="OBJECTID">254</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Lantuweri</SimpleData>
@@ -147,8 +140,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET050901_06_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.25509988706</SimpleData>
-            <SimpleData name="Shape_Area">0.00317233097</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -191,7 +183,6 @@
       <Placemark id="Lantuweri.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Lantuweri.schema">
-            <SimpleData name="OBJECTID">255</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Lantuweri</SimpleData>
@@ -199,8 +190,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET050901_06_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.23501109283</SimpleData>
-            <SimpleData name="Shape_Area">0.00246599230</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -254,7 +244,6 @@
       <Placemark id="Lantuweri.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Lantuweri.schema">
-            <SimpleData name="OBJECTID">256</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Lantuweri</SimpleData>
@@ -262,8 +251,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET050901_06_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.17026786191</SimpleData>
-            <SimpleData name="Shape_Area">0.00114365896</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

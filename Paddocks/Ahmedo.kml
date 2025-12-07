@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Ahmedo.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Ahmedo">
       <name>Ahmedo</name>
       <Placemark id="Ahmedo.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Ahmedo.schema">
-            <SimpleData name="OBJECTID">43</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Ahmedo</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET050901_01_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.45961785064</SimpleData>
-            <SimpleData name="Shape_Area">0.00488218538</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -75,7 +71,6 @@
       <Placemark id="Ahmedo.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Ahmedo.schema">
-            <SimpleData name="OBJECTID">73</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Ahmedo</SimpleData>
@@ -83,8 +78,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET050901_01_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.40303013452</SimpleData>
-            <SimpleData name="Shape_Area">0.00267676127</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -138,7 +132,6 @@
       <Placemark id="Ahmedo.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Ahmedo.schema">
-            <SimpleData name="OBJECTID">74</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Ahmedo</SimpleData>
@@ -146,8 +139,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET050901_01_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.28385160626</SimpleData>
-            <SimpleData name="Shape_Area">0.00221031670</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -181,7 +173,6 @@
       <Placemark id="Ahmedo.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Ahmedo.schema">
-            <SimpleData name="OBJECTID">75</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Ahmedo</SimpleData>
@@ -189,8 +180,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET050901_01_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.32926872661</SimpleData>
-            <SimpleData name="Shape_Area">0.00384045460</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

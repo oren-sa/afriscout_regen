@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Masajid.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Masajid">
       <name>Masajid</name>
       <Placemark id="Masajid.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Masajid.schema">
-            <SimpleData name="OBJECTID">51</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Masajid</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET050901_08_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.18844237895</SimpleData>
-            <SimpleData name="Shape_Area">0.00167154647</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -88,7 +84,6 @@
       <Placemark id="Masajid.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Masajid.schema">
-            <SimpleData name="OBJECTID">288</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Masajid</SimpleData>
@@ -96,8 +91,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET050901_08_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06774468513</SimpleData>
-            <SimpleData name="Shape_Area">0.00019247480</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -128,7 +122,6 @@
       <Placemark id="Masajid.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Masajid.schema">
-            <SimpleData name="OBJECTID">289</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Masajid</SimpleData>
@@ -136,8 +129,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET050901_08_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.12461923905</SimpleData>
-            <SimpleData name="Shape_Area">0.00071817143</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -185,7 +177,6 @@
       <Placemark id="Masajid.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Masajid.schema">
-            <SimpleData name="OBJECTID">290</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Masajid</SimpleData>
@@ -193,8 +184,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET050901_08_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.05151424815</SimpleData>
-            <SimpleData name="Shape_Area">0.00012710049</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -226,7 +216,6 @@
       <Placemark id="Masajid.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Masajid.schema">
-            <SimpleData name="OBJECTID">291</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Masajid</SimpleData>
@@ -234,8 +223,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET050901_08_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10602178386</SimpleData>
-            <SimpleData name="Shape_Area">0.00048733165</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -278,7 +266,6 @@
       <Placemark id="Masajid.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Masajid.schema">
-            <SimpleData name="OBJECTID">292</SimpleData>
             <SimpleData name="Woreda">Filtu</SimpleData>
             <SimpleData name="ADM3">ET050901</SimpleData>
             <SimpleData name="RGUName">Masajid</SimpleData>
@@ -286,8 +273,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET050901_08_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.15885135666</SimpleData>
-            <SimpleData name="Shape_Area">0.00078413072</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

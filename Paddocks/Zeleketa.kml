@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Zeleketa.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Zeleketa">
       <name>Zeleketa</name>
       <Placemark id="Zeleketa.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">67</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P14</SimpleData>
             <SimpleData name="PadCode">ET070704_05_14</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13923561584</SimpleData>
-            <SimpleData name="Shape_Area">0.00092881098</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -164,7 +160,6 @@
       <Placemark id="Zeleketa.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">368</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -172,8 +167,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET070704_05_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.25708268548</SimpleData>
-            <SimpleData name="Shape_Area">0.00244596934</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -443,7 +437,6 @@
       <Placemark id="Zeleketa.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">369</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -451,8 +444,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET070704_05_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09685583469</SimpleData>
-            <SimpleData name="Shape_Area">0.00044902162</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -492,7 +484,6 @@
       <Placemark id="Zeleketa.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">370</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -500,8 +491,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET070704_05_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.16452268395</SimpleData>
-            <SimpleData name="Shape_Area">0.00089727354</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -640,7 +630,6 @@
       <Placemark id="Zeleketa.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">371</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -648,8 +637,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET070704_05_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10588730231</SimpleData>
-            <SimpleData name="Shape_Area">0.00033638784</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -734,7 +722,6 @@
       <Placemark id="Zeleketa.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">372</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -742,8 +729,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET070704_05_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.04894373560</SimpleData>
-            <SimpleData name="Shape_Area">0.00016510231</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -820,7 +806,6 @@
       <Placemark id="Zeleketa.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">373</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -828,8 +813,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET070704_05_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.05624434517</SimpleData>
-            <SimpleData name="Shape_Area">0.00014261222</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -960,7 +944,6 @@
       <Placemark id="Zeleketa.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">374</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -968,8 +951,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET070704_05_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06032534991</SimpleData>
-            <SimpleData name="Shape_Area">0.00015677530</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1061,7 +1043,6 @@
       <Placemark id="Zeleketa.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">375</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -1069,8 +1050,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET070704_05_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.05288741672</SimpleData>
-            <SimpleData name="Shape_Area">0.00010312875</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1158,7 +1138,6 @@
       <Placemark id="Zeleketa.10">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">376</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -1166,8 +1145,7 @@
             <SimpleData name="PadName">P9</SimpleData>
             <SimpleData name="PadCode">ET070704_05_09</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.04085593634</SimpleData>
-            <SimpleData name="Shape_Area">0.00007728812</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1229,7 +1207,6 @@
       <Placemark id="Zeleketa.11">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">377</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -1237,8 +1214,7 @@
             <SimpleData name="PadName">P10</SimpleData>
             <SimpleData name="PadCode">ET070704_05_10</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.33044950394</SimpleData>
-            <SimpleData name="Shape_Area">0.00153307346</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1737,7 +1713,6 @@
       <Placemark id="Zeleketa.12">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">378</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -1745,8 +1720,7 @@
             <SimpleData name="PadName">P11</SimpleData>
             <SimpleData name="PadCode">ET070704_05_11</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.06315492522</SimpleData>
-            <SimpleData name="Shape_Area">0.00017056036</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1799,7 +1773,6 @@
       <Placemark id="Zeleketa.13">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">379</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -1807,8 +1780,7 @@
             <SimpleData name="PadName">P12</SimpleData>
             <SimpleData name="PadCode">ET070704_05_12</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10170322236</SimpleData>
-            <SimpleData name="Shape_Area">0.00042723346</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1848,7 +1820,6 @@
       <Placemark id="Zeleketa.14">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">380</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -1856,8 +1827,7 @@
             <SimpleData name="PadName">P13</SimpleData>
             <SimpleData name="PadCode">ET070704_05_13</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10755141601</SimpleData>
-            <SimpleData name="Shape_Area">0.00060443066</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1969,7 +1939,6 @@
       <Placemark id="Zeleketa.15">
         <ExtendedData>
           <SchemaData schemaUrl="#Zeleketa.schema">
-            <SimpleData name="OBJECTID">381</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Zeleketa</SimpleData>
@@ -1977,8 +1946,7 @@
             <SimpleData name="PadName">P15</SimpleData>
             <SimpleData name="PadCode">ET070704_05_15</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10568576596</SimpleData>
-            <SimpleData name="Shape_Area">0.00052666174</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

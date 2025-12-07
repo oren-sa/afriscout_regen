@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Roba.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Roba">
       <name>Roba</name>
       <Placemark id="Roba.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Roba.schema">
-            <SimpleData name="OBJECTID">60</SimpleData>
             <SimpleData name="Woreda">Hudet</SimpleData>
             <SimpleData name="ADM3">ET051104</SimpleData>
             <SimpleData name="RGUName">Roba</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET051104_02_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.21872628146</SimpleData>
-            <SimpleData name="Shape_Area">0.00206429363</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -149,7 +145,6 @@
       <Placemark id="Roba.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Roba.schema">
-            <SimpleData name="OBJECTID">312</SimpleData>
             <SimpleData name="Woreda">Hudet</SimpleData>
             <SimpleData name="ADM3">ET051104</SimpleData>
             <SimpleData name="RGUName">Roba</SimpleData>
@@ -157,8 +152,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET051104_02_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.20345819011</SimpleData>
-            <SimpleData name="Shape_Area">0.00090025081</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -267,7 +261,6 @@
       <Placemark id="Roba.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Roba.schema">
-            <SimpleData name="OBJECTID">313</SimpleData>
             <SimpleData name="Woreda">Hudet</SimpleData>
             <SimpleData name="ADM3">ET051104</SimpleData>
             <SimpleData name="RGUName">Roba</SimpleData>
@@ -275,8 +268,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET051104_02_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.30638840434</SimpleData>
-            <SimpleData name="Shape_Area">0.00338812090</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -423,7 +415,6 @@
       <Placemark id="Roba.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Roba.schema">
-            <SimpleData name="OBJECTID">314</SimpleData>
             <SimpleData name="Woreda">Hudet</SimpleData>
             <SimpleData name="ADM3">ET051104</SimpleData>
             <SimpleData name="RGUName">Roba</SimpleData>
@@ -431,8 +422,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET051104_02_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.21753023412</SimpleData>
-            <SimpleData name="Shape_Area">0.00137019361</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -567,7 +557,6 @@
       <Placemark id="Roba.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Roba.schema">
-            <SimpleData name="OBJECTID">315</SimpleData>
             <SimpleData name="Woreda">Hudet</SimpleData>
             <SimpleData name="ADM3">ET051104</SimpleData>
             <SimpleData name="RGUName">Roba</SimpleData>
@@ -575,8 +564,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET051104_02_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.18634753043</SimpleData>
-            <SimpleData name="Shape_Area">0.00177493321</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

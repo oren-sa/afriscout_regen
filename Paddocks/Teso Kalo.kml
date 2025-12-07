@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Teso_Kalo.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Teso_Kalo">
       <name>Teso Kalo</name>
       <Placemark id="Teso_Kalo.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Teso_Kalo.schema">
-            <SimpleData name="OBJECTID">11</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Teso Kalo</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041220_05_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.32874979462</SimpleData>
-            <SimpleData name="Shape_Area">0.00552198327</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -121,7 +117,6 @@
       <Placemark id="Teso_Kalo.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Teso_Kalo.schema">
-            <SimpleData name="OBJECTID">325</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Teso Kalo</SimpleData>
@@ -129,8 +124,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041220_05_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.17528004827</SimpleData>
-            <SimpleData name="Shape_Area">0.00193729123</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -218,7 +212,6 @@
       <Placemark id="Teso_Kalo.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Teso_Kalo.schema">
-            <SimpleData name="OBJECTID">326</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Teso Kalo</SimpleData>
@@ -226,8 +219,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041220_05_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.29852685350</SimpleData>
-            <SimpleData name="Shape_Area">0.00396852874</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -325,7 +317,6 @@
       <Placemark id="Teso_Kalo.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Teso_Kalo.schema">
-            <SimpleData name="OBJECTID">327</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Teso Kalo</SimpleData>
@@ -333,8 +324,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041220_05_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.14439083824</SimpleData>
-            <SimpleData name="Shape_Area">0.00110727134</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -385,7 +375,6 @@
       <Placemark id="Teso_Kalo.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Teso_Kalo.schema">
-            <SimpleData name="OBJECTID">328</SimpleData>
             <SimpleData name="Woreda">Dhas</SimpleData>
             <SimpleData name="ADM3">ET041220</SimpleData>
             <SimpleData name="RGUName">Teso Kalo</SimpleData>
@@ -393,8 +382,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041220_05_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.34279645538</SimpleData>
-            <SimpleData name="Shape_Area">0.00337431990</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

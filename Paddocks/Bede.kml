@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Bede.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Bede">
       <name>Bede</name>
       <Placemark id="Bede.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Bede.schema">
-            <SimpleData name="OBJECTID">25</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Bede</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041210_02_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13153582874</SimpleData>
-            <SimpleData name="Shape_Area">0.00091897655</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -116,7 +112,6 @@
       <Placemark id="Bede.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Bede.schema">
-            <SimpleData name="OBJECTID">110</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Bede</SimpleData>
@@ -124,8 +119,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041210_02_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.09041269591</SimpleData>
-            <SimpleData name="Shape_Area">0.00039592729</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -235,7 +229,6 @@
       <Placemark id="Bede.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Bede.schema">
-            <SimpleData name="OBJECTID">111</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Bede</SimpleData>
@@ -243,8 +236,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041210_02_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.10610176215</SimpleData>
-            <SimpleData name="Shape_Area">0.00046134747</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -337,7 +329,6 @@
       <Placemark id="Bede.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Bede.schema">
-            <SimpleData name="OBJECTID">112</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Bede</SimpleData>
@@ -345,8 +336,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041210_02_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.16852008495</SimpleData>
-            <SimpleData name="Shape_Area">0.00100654531</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -467,7 +457,6 @@
       <Placemark id="Bede.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Bede.schema">
-            <SimpleData name="OBJECTID">113</SimpleData>
             <SimpleData name="Woreda">Moyale</SimpleData>
             <SimpleData name="ADM3">ET041210</SimpleData>
             <SimpleData name="RGUName">Bede</SimpleData>
@@ -475,8 +464,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041210_02_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13538880349</SimpleData>
-            <SimpleData name="Shape_Area">0.00079314535</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

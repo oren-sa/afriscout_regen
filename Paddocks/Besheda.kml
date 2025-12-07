@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Besheda.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Besheda">
       <name>Besheda</name>
       <Placemark id="Besheda.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Besheda.schema">
-            <SimpleData name="OBJECTID">39</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Besheda</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET070704_02_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.53269171155</SimpleData>
-            <SimpleData name="Shape_Area">0.01046599966</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -367,7 +363,6 @@
       <Placemark id="Besheda.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Besheda.schema">
-            <SimpleData name="OBJECTID">114</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Besheda</SimpleData>
@@ -375,8 +370,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET070704_02_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.55022114366</SimpleData>
-            <SimpleData name="Shape_Area">0.00868446833</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -740,7 +734,6 @@
       <Placemark id="Besheda.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Besheda.schema">
-            <SimpleData name="OBJECTID">115</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Besheda</SimpleData>
@@ -748,8 +741,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET070704_02_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.54767337815</SimpleData>
-            <SimpleData name="Shape_Area">0.01222570192</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -965,7 +957,6 @@
       <Placemark id="Besheda.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Besheda.schema">
-            <SimpleData name="OBJECTID">116</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Besheda</SimpleData>
@@ -973,8 +964,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET070704_02_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.29360884546</SimpleData>
-            <SimpleData name="Shape_Area">0.00337563602</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1108,7 +1098,6 @@
       <Placemark id="Besheda.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Besheda.schema">
-            <SimpleData name="OBJECTID">117</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Besheda</SimpleData>
@@ -1116,8 +1105,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET070704_02_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.19431297105</SimpleData>
-            <SimpleData name="Shape_Area">0.00161327636</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1256,7 +1244,6 @@
       <Placemark id="Besheda.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Besheda.schema">
-            <SimpleData name="OBJECTID">118</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Besheda</SimpleData>
@@ -1264,8 +1251,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET070704_02_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.13100231835</SimpleData>
-            <SimpleData name="Shape_Area">0.00070864110</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1332,7 +1318,6 @@
       <Placemark id="Besheda.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Besheda.schema">
-            <SimpleData name="OBJECTID">119</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Besheda</SimpleData>
@@ -1340,8 +1325,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET070704_02_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.19404397900</SimpleData>
-            <SimpleData name="Shape_Area">0.00126635417</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1461,7 +1445,6 @@
       <Placemark id="Besheda.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Besheda.schema">
-            <SimpleData name="OBJECTID">120</SimpleData>
             <SimpleData name="Woreda">Hammer</SimpleData>
             <SimpleData name="ADM3">ET070704</SimpleData>
             <SimpleData name="RGUName">Besheda</SimpleData>
@@ -1469,8 +1452,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET070704_02_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.58916464093</SimpleData>
-            <SimpleData name="Shape_Area">0.00644274017</SimpleData>
+            <SimpleData name="Cohort">1</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

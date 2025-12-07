@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document id="root_doc">
     <Schema id="Gada.schema">
-      <SimpleField name="OBJECTID" type="float"/>
       <SimpleField name="Woreda" type="string"/>
       <SimpleField name="ADM3" type="string"/>
       <SimpleField name="RGUName" type="string"/>
@@ -11,15 +10,13 @@
       <SimpleField name="PadCode" type="string"/>
       <SimpleField name="Note" type="string"/>
       <SimpleField name="Date" type="string"/>
-      <SimpleField name="Shape_Leng" type="float"/>
-      <SimpleField name="Shape_Area" type="float"/>
+      <SimpleField name="Cohort" type="float"/>
     </Schema>
     <Document id="Gada">
       <name>Gada</name>
       <Placemark id="Gada.1">
         <ExtendedData>
           <SchemaData schemaUrl="#Gada.schema">
-            <SimpleData name="OBJECTID">1</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Gada</SimpleData>
@@ -27,8 +24,7 @@
             <SimpleData name="PadName">P9</SimpleData>
             <SimpleData name="PadCode">ET041208_02_09</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.46910245511</SimpleData>
-            <SimpleData name="Shape_Area">0.01122542877</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -165,7 +161,6 @@
       <Placemark id="Gada.2">
         <ExtendedData>
           <SchemaData schemaUrl="#Gada.schema">
-            <SimpleData name="OBJECTID">1</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Gada</SimpleData>
@@ -173,8 +168,7 @@
             <SimpleData name="PadName">P1</SimpleData>
             <SimpleData name="PadCode">ET041208_02_01</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.46910245511</SimpleData>
-            <SimpleData name="Shape_Area">0.01122542877</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -305,7 +299,6 @@
       <Placemark id="Gada.3">
         <ExtendedData>
           <SchemaData schemaUrl="#Gada.schema">
-            <SimpleData name="OBJECTID">1</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Gada</SimpleData>
@@ -313,8 +306,7 @@
             <SimpleData name="PadName">P2</SimpleData>
             <SimpleData name="PadCode">ET041208_02_02</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.46910245511</SimpleData>
-            <SimpleData name="Shape_Area">0.01122542877</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -385,7 +377,6 @@
       <Placemark id="Gada.4">
         <ExtendedData>
           <SchemaData schemaUrl="#Gada.schema">
-            <SimpleData name="OBJECTID">1</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Gada</SimpleData>
@@ -393,8 +384,7 @@
             <SimpleData name="PadName">P3</SimpleData>
             <SimpleData name="PadCode">ET041208_02_03</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.46910245511</SimpleData>
-            <SimpleData name="Shape_Area">0.01122542877</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -495,7 +485,6 @@
       <Placemark id="Gada.5">
         <ExtendedData>
           <SchemaData schemaUrl="#Gada.schema">
-            <SimpleData name="OBJECTID">1</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Gada</SimpleData>
@@ -503,8 +492,7 @@
             <SimpleData name="PadName">P4</SimpleData>
             <SimpleData name="PadCode">ET041208_02_04</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.46910245511</SimpleData>
-            <SimpleData name="Shape_Area">0.01122542877</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -611,7 +599,6 @@
       <Placemark id="Gada.6">
         <ExtendedData>
           <SchemaData schemaUrl="#Gada.schema">
-            <SimpleData name="OBJECTID">1</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Gada</SimpleData>
@@ -619,8 +606,7 @@
             <SimpleData name="PadName">P5</SimpleData>
             <SimpleData name="PadCode">ET041208_02_05</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.46910245511</SimpleData>
-            <SimpleData name="Shape_Area">0.01122542877</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -734,7 +720,6 @@
       <Placemark id="Gada.7">
         <ExtendedData>
           <SchemaData schemaUrl="#Gada.schema">
-            <SimpleData name="OBJECTID">1</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Gada</SimpleData>
@@ -742,8 +727,7 @@
             <SimpleData name="PadName">P6</SimpleData>
             <SimpleData name="PadCode">ET041208_02_06</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.46910245511</SimpleData>
-            <SimpleData name="Shape_Area">0.01122542877</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -855,7 +839,6 @@
       <Placemark id="Gada.8">
         <ExtendedData>
           <SchemaData schemaUrl="#Gada.schema">
-            <SimpleData name="OBJECTID">1</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Gada</SimpleData>
@@ -863,8 +846,7 @@
             <SimpleData name="PadName">P7</SimpleData>
             <SimpleData name="PadCode">ET041208_02_07</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.46910245511</SimpleData>
-            <SimpleData name="Shape_Area">0.01122542877</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
@@ -1012,7 +994,6 @@
       <Placemark id="Gada.9">
         <ExtendedData>
           <SchemaData schemaUrl="#Gada.schema">
-            <SimpleData name="OBJECTID">1</SimpleData>
             <SimpleData name="Woreda">Arero</SimpleData>
             <SimpleData name="ADM3">ET041208</SimpleData>
             <SimpleData name="RGUName">Gada</SimpleData>
@@ -1020,8 +1001,7 @@
             <SimpleData name="PadName">P8</SimpleData>
             <SimpleData name="PadCode">ET041208_02_08</SimpleData>
             <SimpleData name="Date">2025-10-19</SimpleData>
-            <SimpleData name="Shape_Leng">0.46910245511</SimpleData>
-            <SimpleData name="Shape_Area">0.01122542877</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>
