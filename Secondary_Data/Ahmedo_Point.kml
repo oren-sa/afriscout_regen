@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Ahmedo.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Ahmedo">
+      <name>Ahmedo</name>
+      <Placemark id="Ahmedo.1">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">260</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8059349071703,4.92273692097217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">261</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8065537954214,4.92167340430422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">262</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8085753355833,4.92321961139601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">263</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8089815575529,4.92107663487883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">264</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.811417374912,4.92392564485266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">265</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8124736439436,4.92180316478425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">266</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8059136975592,4.91968976876785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">267</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8388931877705,4.99626717499018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">268</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8372133423219,4.99386045339725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">269</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8358333695144,4.9931062531511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">270</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8423459692911,4.99523016763817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">271</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.843765513168,4.99447789553852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">272</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8377804952737,4.9982195123207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">273</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8453984032138,4.9938842368681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.15">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">274</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8418291621861,4.9925197081181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.16">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">275</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8627496538735,5.01936742816434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.17">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">276</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8641805840667,5.01967463387729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.18">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">277</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8639698207507,5.02168226062787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.19">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">278</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8658836724936,5.0212487559254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.20">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">279</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8659312664149,5.0191085673066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.21">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">280</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.9686301856346,5.08467916111442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.22">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">281</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.9662479705675,5.0832508227673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.23">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">282</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.967775263118,5.08274324990111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.24">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">283</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.9690768132444,5.08283356431758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.25">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">284</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.9698344749811,5.08475812788532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.26">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">285</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.9659162511342,5.08705077857064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.27">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">286</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.967175143718,5.08711759100407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.28">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">287</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.9682843702275,5.0876888844345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.29">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">288</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7998405308159,4.94113732432811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.30">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">289</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.803518650965,4.94178738398062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.31">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">290</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8066340005587,4.94267361279702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.32">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">291</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8098251656989,4.94082812931475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.33">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">292</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.895523799184,5.05721987419787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.34">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">293</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8970265933027,5.05741262679135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.35">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">294</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8980173224415,5.0586293483658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.36">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">295</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8996610619085,5.05959803871855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.37">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">296</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8988411967639,5.05625740985164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.38">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">670</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8113908215292,4.92266801401769,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.39">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">671</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8009789448225,4.9377398673011,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.40">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">672</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8408430798443,4.99415778095687,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.41">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">673</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8613496549627,5.01990081247254,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.42">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">674</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.899696720927,5.05741345326828,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.43">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">675</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.9561480372022,5.08617542165842,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.44">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">766</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8496603020813,5.00356581191272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Ahmedo.45">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">767</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8010263534835,4.93722655496157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Hara-Jarte.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Hara-Jarte">
+      <name>Hara-Jarte</name>
+      <Placemark id="Hara-Jarte.1">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Hara-Jarte.schema">
+            <SimpleData name="OBJECTID">603</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Hara-Jarte</SimpleData>
+            <SimpleData name="RGUCode">ET041298_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6025752998103,4.40762229962945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Hara-Jarte.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Hara-Jarte.schema">
+            <SimpleData name="OBJECTID">604</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Hara-Jarte</SimpleData>
+            <SimpleData name="RGUCode">ET041298_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5995080999189,4.40817599962276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Hara-Jarte.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Hara-Jarte.schema">
+            <SimpleData name="OBJECTID">608</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Hara-Jarte</SimpleData>
+            <SimpleData name="RGUCode">ET041298_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6270326002743,4.38491570039929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Hara-Jarte.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Hara-Jarte.schema">
+            <SimpleData name="OBJECTID">609</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Hara-Jarte</SimpleData>
+            <SimpleData name="RGUCode">ET041298_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6416352997293,4.38700059959803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Hara-Jarte.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Hara-Jarte.schema">
+            <SimpleData name="OBJECTID">610</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Hara-Jarte</SimpleData>
+            <SimpleData name="RGUCode">ET041298_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6765823995581,4.39536759963505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Dikale.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Dikale">
+      <name>Dikale</name>
+      <Placemark id="Dikale.1">
+        <name>kalloo Oollaa guyyoo jatan</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">39</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3302712996808,4.73460300002847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.2">
+        <name>qabxi dabmi dikale</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">42</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2857915003775,4.71382119998844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.3">
+        <name>qabxii B</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">45</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2780074004212,4.7026343001329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.4">
+        <name>qabxxii I</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">49</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2655695004322,4.71267930020957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">556</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3194110003175,4.69588580008963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">557</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3180492001105,4.69471139971137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">558</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3001139998613,4.70184440039878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">559</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.258943399918,4.71415129974275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">560</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3476544996555,4.71243860026124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">561</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.353154300031,4.71207630028107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">564</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2478761000021,4.71322730029971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">565</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2529773001623,4.72267069979301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dikale.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dikale.schema">
+            <SimpleData name="OBJECTID">566</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dikale</SimpleData>
+            <SimpleData name="RGUCode">ET041207_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2711284995806,4.71840160005382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

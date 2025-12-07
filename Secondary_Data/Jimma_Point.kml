@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Jimma.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Jimma">
+      <name>Jimma</name>
+      <Placemark id="Jimma.1">
+        <name>Qanta</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Jimma.schema">
+            <SimpleData name="OBJECTID">693</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Jimma</SimpleData>
+            <SimpleData name="RGUCode">ET051103_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3544812378189,4.06465054258854,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

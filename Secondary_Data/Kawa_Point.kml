@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Kawa.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Kawa">
+      <name>Kawa</name>
+      <Placemark id="Kawa.1">
+        <name>Animal H Post</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">1</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5336120000938,4.64571600009339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.2">
+        <name>Human Human Post</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">2</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5331100003263,4.64609499958459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.3">
+        <name>Kawa PTC</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">3</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5334915970596,4.64380222569218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.4">
+        <name>Kawa School</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">4</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5435555341606,4.65432981097206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.5">
+        <name>Kokiso School</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">5</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6097650018534,4.67216970197023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.6">
+        <name>Dambala Ammessa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">728</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4597163020657,4.55463115330514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.7">
+        <name>Ela Adi</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">729</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5832250001337,4.68926111061182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.8">
+        <name>Ela Arero</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">730</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5642636149739,4.65708401441577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.9">
+        <name>Ela Arero Xune</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">731</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5642636149739,4.65708401441577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.10">
+        <name>Ela Liban Jilo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">732</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5026383982436,4.62930770118953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.11">
+        <name>Ela Ummata</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">733</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5375416669144,4.65668815983076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.12">
+        <name>Eela Walabu</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">734</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4479765376871,4.53506048015709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.13">
+        <name>Hara Adii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">735</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4797818964174,4.66741291157666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.14">
+        <name>Hara Dhenge</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">736</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5445516241582,4.70343445303763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.15">
+        <name>Hara Dida Dhokata</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">737</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5113928990631,4.65221489959799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.16">
+        <name>Hara Dido Dhane</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">738</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4935444986797,4.62005960296835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.17">
+        <name>Hara Dima Wila</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">739</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.611652365864,4.65670468487338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.18">
+        <name>Hara Dulacha</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">740</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5565965806677,4.69116621285048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.19">
+        <name>Hara Guracha</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">741</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5462559653406,4.70312798656738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.20">
+        <name>Hara Hapacha Tika</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">742</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5304274782456,4.6282222608487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.21">
+        <name>Hara Hapicha Guda</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">743</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5298858939189,4.62919891379886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.22">
+        <name>Hara Wariyo Duba</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">744</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4868321001214,4.63694789702788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.23">
+        <name>Kawa Motorized Pump</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">745</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5281111106393,4.65568611092533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kawa.24">
+        <name>Motori Midanu</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kawa.schema">
+            <SimpleData name="OBJECTID">746</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kawa</SimpleData>
+            <SimpleData name="RGUCode">ET041208_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4793388885789,4.66979210672042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

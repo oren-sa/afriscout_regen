@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Kalkalcha.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Kalkalcha">
+      <name>Kalkalcha</name>
+      <Placemark id="Kalkalcha.1">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">322</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1729502373636,3.71327372620158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">323</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1729592305841,3.71288916080618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">324</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.176496422472,3.72122756599941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">325</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1784803376975,3.72132193815696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">326</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1792917654027,3.72310431441264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">327</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1734172786845,3.72161665228674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">328</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1599200097007,3.71473740970373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">329</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1622482195797,3.71590713270808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">330</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.161556693087,3.7126623787658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">331</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1644281420452,3.71628051953041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">332</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1575873158021,3.71377919465414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">333</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1872986454162,3.73158954741973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">334</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1869673540602,3.73445522003243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">335</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1858209468792,3.73368971800613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.15">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">336</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.187579785179,3.73372064389264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.16">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">337</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1868768858596,3.73099495165576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.17">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">338</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1880984044179,3.73082722809414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.18">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">339</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1880443443711,3.73660885891178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.19">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">340</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1875188480165,3.73829034652232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.20">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">341</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1882397391727,3.73831803395018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.21">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">776</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1746417038516,3.73150921367932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.22">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">777</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1177535499864,3.75473275311413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.23">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">778</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1340534050407,3.68505978488122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.24">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">887</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1746417038516,3.73150921367932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.25">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">888</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1177535499864,3.75473275311413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kalkalcha.26">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">889</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1340534050407,3.68505978488122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

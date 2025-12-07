@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Masajid.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Masajid">
+      <name>Masajid</name>
+      <Placemark id="Masajid.1">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">420</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7679493317963,5.14820731091874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">421</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7686148049294,5.14420576308555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">422</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7689492106376,5.14496486643549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">423</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7688864370595,5.14527918938313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">424</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7687736485851,5.14530633362045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">425</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7690640279826,5.1450052405994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">426</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7679137663073,5.14762476337216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">427</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7684410001521,5.14796463875712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">428</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7682558783062,5.14366968800573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">429</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7690060963543,5.14370629131236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">430</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7733657892998,5.14731652793546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">431</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7733562636807,5.14795032784542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">432</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7731738613846,5.14831361977775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">433</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7730175349313,5.14828802417304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.15">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">434</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.773296507328,5.14695227192988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.16">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">435</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7735884308614,5.14714751564537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.17">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">436</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7712166946948,5.14626941490161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.18">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">437</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7710139065666,5.14604686237283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.19">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">438</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7713931533714,5.14610610341401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.20">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">439</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7715472683918,5.14675196413191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.21">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">440</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.771352208138,5.14714224292021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.22">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">441</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7715590054438,5.14713716714658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.23">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">442</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7723579388679,5.1359661834926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.24">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">443</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7734615113397,5.13616100812408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.25">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">444</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.774513850334,5.13675671005416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.26">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">445</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7719781911406,5.13798654554267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.27">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">446</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7733939605629,5.13837949711615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.28">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">447</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7702565497,5.13586987509473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.29">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">448</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7614347571084,5.14631742341044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.30">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">449</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7631407008827,5.1468287887177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.31">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">450</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7644533225628,5.14765114138709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.32">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">451</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7605831944589,5.14815231197969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.33">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">452</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7620834947575,5.14879895151046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.34">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">453</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7633735191726,5.14931899437613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.35">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">454</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7940169007594,5.20259521279888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.36">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">455</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7956484463188,5.20408946335812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.37">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">456</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7965151985176,5.20630230101045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.38">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">457</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7963917764594,5.20130565962853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.39">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">458</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7978052508117,5.20173431158923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.40">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">791</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7739940772649,5.15153102983322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.41">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">792</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7739940772649,5.1512743408382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.42">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">793</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7744782866437,5.15083680267634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.43">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">794</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7735915425157,5.15067345431652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.44">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">795</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7725064466153,5.14983338050615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Masajid.45">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">796</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7842110816761,5.14992716450706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

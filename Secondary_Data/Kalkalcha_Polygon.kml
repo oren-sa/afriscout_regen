@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Kalkalcha.schema">
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Kalkalcha">
+      <name>Kalkalcha</name>
+      <Placemark id="Kalkalcha.1">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.140605894,3.72291460000002,0
+                39.1506948090001,3.72291460000002,0
+                39.1506948090001,3.71958335500005,0
+                39.140605894,3.71958335500005,0
+                39.140605894,3.72291460000002,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.2">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.130326622,3.72929155600002,0
+                39.1383511070001,3.72961253500006,0
+                39.138458605,3.72692507700003,0
+                39.1304341210001,3.72660409700006,0
+                39.130326622,3.72929155600002,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.3">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1562151580001,3.71120765200004,0
+                39.163926792,3.71099923000003,0
+                39.163854418,3.70832136600006,0
+                39.1561427830001,3.70852978800002,0
+                39.1562151580001,3.71120765200004,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.4">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1805342220001,3.72939106400003,0
+                39.186352265,3.72938051500006,0
+                39.186348652,3.72738798700004,0
+                39.1805306090001,3.72739853600007,0
+                39.1805342220001,3.72939106400003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.5">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.209857727,3.71682318000006,0
+                39.215116747,3.71662091000007,0
+                39.2150247270001,3.71422837800003,0
+                39.209765707,3.71443064800008,0
+                39.209857727,3.71682318000006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.6">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1737850980001,3.74036080800005,0
+                39.1813041950001,3.74036080800005,0
+                39.1813041950001,3.73826688300005,0
+                39.1737850980001,3.73826688300005,0
+                39.1737850980001,3.74036080800005,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.7">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1853968680001,3.74978347400003,0
+                39.1906689790001,3.75229400300003,0
+                39.191620764,3.75029525600007,0
+                39.186348652,3.74778472700007,0
+                39.1853968680001,3.74978347400003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.8">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.14609769,3.67193702800006,0
+                39.154158222,3.67471652100005,0
+                39.155110006,3.67195634700005,0
+                39.147049474,3.66917685300007,0
+                39.14609769,3.67193702800006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.9">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1406058943265,3.72291460023936,0
+                39.1506948084143,3.72291460064963,0
+                39.1506948088834,3.71958335443699,0
+                39.1406058937478,3.71958335472172,0
+                39.1406058943265,3.72291460023936,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.10">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1303266227895,3.72929155535241,0
+                39.1383511065807,3.72961253484751,0
+                39.1384586049192,3.72692507650437,0
+                39.1304341210448,3.72660409726884,0
+                39.1303266227895,3.72929155535241,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.11">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1562151580298,3.71120765175054,0
+                39.1639267927863,3.71099922934349,0
+                39.1638544174746,3.70832136594077,0
+                39.1561427838308,3.70852978861994,0
+                39.1562151580298,3.71120765175054,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.12">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1805342216456,3.72939106383518,0
+                39.1863522648225,3.72938051475296,0
+                39.1863486524831,3.72738798713353,0
+                39.1805306087316,3.72739853592441,0
+                39.1805342216456,3.72939106383518,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.13">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.2098577273051,3.7168231802804,0
+                39.2151167473746,3.71662090974411,0
+                39.2150247266304,3.714228378245,0
+                39.2097657069599,3.71443064777556,0
+                39.2098577273051,3.7168231802804,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.14">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1737850984478,3.74036080824386,0
+                39.1813041947718,3.74036080867093,0
+                39.181304194676,3.7382668823246,0
+                39.1737850983668,3.73826688263276,0
+                39.1737850984478,3.74036080824386,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.15">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1853968681532,3.74978347418237,0
+                39.1906689797754,3.75229400305562,0
+                39.1916207640241,3.75029525597775,0
+                39.1863486524668,3.74778472624317,0
+                39.1853968681532,3.74978347418237,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kalkalcha.16">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.1460976895833,3.67193702748258,0
+                39.1541582219139,3.67471652110538,0
+                39.1551100055348,3.67195634695941,0
+                39.1470494745003,3.66917685264538,0
+                39.1460976895833,3.67193702748258,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

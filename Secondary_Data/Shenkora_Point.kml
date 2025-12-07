@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Shenkora.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Shenkora">
+      <name>Shenkora</name>
+      <Placemark id="Shenkora.1">
+        <name>Service</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Shenkora.schema">
+            <SimpleData name="OBJECTID">169</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Shenkora</SimpleData>
+            <SimpleData name="RGUCode">ET070708_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0497980005773,5.13091399998115,375
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Shenkora.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Shenkora.schema">
+            <SimpleData name="OBJECTID">484</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Shenkora</SimpleData>
+            <SimpleData name="RGUCode">ET070708_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0981289999534,4.86160999970178,377
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Shenkora.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Shenkora.schema">
+            <SimpleData name="OBJECTID">485</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Shenkora</SimpleData>
+            <SimpleData name="RGUCode">ET070708_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0511920001107,5.13342299967172,378
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Shenkora.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Shenkora.schema">
+            <SimpleData name="OBJECTID">509</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Shenkora</SimpleData>
+            <SimpleData name="RGUCode">ET070708_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0981289999534,4.86160999970178,377
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Shenkora.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Shenkora.schema">
+            <SimpleData name="OBJECTID">510</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Shenkora</SimpleData>
+            <SimpleData name="RGUCode">ET070708_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0511920001107,5.13342299967172,378
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

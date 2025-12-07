@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Nawiapa.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Nawiapa">
+      <name>Nawiapa</name>
+      <Placemark id="Nawiapa.1">
+        <name>Service</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Nawiapa.schema">
+            <SimpleData name="OBJECTID">170</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Nawiapa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.8719269998312,5.29252099984433,428
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Nawiapa.2">
+        <name>Service</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Nawiapa.schema">
+            <SimpleData name="OBJECTID">171</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Nawiapa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.8698570006002,5.28667000071999,427
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Nawiapa.3">
+        <name>Service</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Nawiapa.schema">
+            <SimpleData name="OBJECTID">172</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Nawiapa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.8756980001626,5.29159299931752,432
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Nawiapa.4">
+        <name>Service</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Nawiapa.schema">
+            <SimpleData name="OBJECTID">173</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Nawiapa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.8708240002275,5.28675400009706,421
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Nawiapa.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Nawiapa.schema">
+            <SimpleData name="OBJECTID">486</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Nawiapa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.8757340000241,5.29220400051429,413
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Nawiapa.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Nawiapa.schema">
+            <SimpleData name="OBJECTID">511</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Nawiapa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.8757340000241,5.29220400051429,413
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

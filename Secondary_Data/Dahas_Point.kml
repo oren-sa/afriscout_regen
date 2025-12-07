@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Dahas.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Dahas">
+      <name>Dahas</name>
+      <Placemark id="Dahas.1">
+        <name>Irressa Huqaa Goolloo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dahas.schema">
+            <SimpleData name="OBJECTID">33</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dahas</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6133124999719,4.24612209965522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dahas.2">
+        <name>Irressaa Halake Qacalee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dahas.schema">
+            <SimpleData name="OBJECTID">34</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dahas</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6089567001916,4.23908330025415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dahas.3">
+        <name>Mana Guddaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dahas.schema">
+            <SimpleData name="OBJECTID">35</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dahas</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.719174500303,4.22726900006433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dahas.4">
+        <name>Mana Barumsa Dhakaa Diimaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dahas.schema">
+            <SimpleData name="OBJECTID">36</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dahas</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6450224001637,4.21814419979501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dahas.5">
+        <name>Kaloo Adee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dahas.schema">
+            <SimpleData name="OBJECTID">37</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dahas</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7333116998751,4.23063830021744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dahas.6">
+        <name>Tuulaa Dhaas</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dahas.schema">
+            <SimpleData name="OBJECTID">38</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dahas</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7243155997851,4.21780649987011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dahas.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dahas.schema">
+            <SimpleData name="OBJECTID">553</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dahas</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.678277199833,4.25583170027278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dahas.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dahas.schema">
+            <SimpleData name="OBJECTID">554</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dahas</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6643429997297,4.2759198001587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dahas.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dahas.schema">
+            <SimpleData name="OBJECTID">555</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dahas</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7203216997867,4.22027500039098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

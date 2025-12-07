@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Kola_Keja.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Kola_Keja">
+      <name>Kola_Keja</name>
+      <Placemark id="Kola_Keja.1">
+        <name>NA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="OBJECTID">164</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4647193002556,5.03067990035714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kola_Keja.2">
+        <name>NA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="OBJECTID">165</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4597931998963,5.00443029961866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kola_Keja.3">
+        <name>Arimba</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="OBJECTID">471</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4651664998341,5.03084899988147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kola_Keja.4">
+        <name>Logira</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="OBJECTID">472</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4596884000997,5.004280799919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kola_Keja.5">
+        <name>Arimba</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="OBJECTID">507</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4651664998341,5.03084899988147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kola_Keja.6">
+        <name>Logira</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="OBJECTID">508</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4596884000997,5.004280799919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kola_Keja.7">
+        <name>Logira hand dug well 1</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="OBJECTID">809</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4737730999486,5.04036499984494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kola_Keja.8">
+        <name>logira hand dug well 2</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="OBJECTID">810</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4723833002491,5.04060169960877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kola_Keja.9">
+        <name>Logira community pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="OBJECTID">813</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4561266000626,5.00784229958253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kola_Keja.10">
+        <name>Logira hand dug well 1</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="OBJECTID">814</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4613202001672,5.00843520012444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kola_Keja.11">
+        <name>logira hand dug well 2</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="OBJECTID">815</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4633211998135,5.00652000029783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

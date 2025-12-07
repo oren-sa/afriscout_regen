@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Zeleketa.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Zeleketa">
+      <name>Zeleketa</name>
+      <Placemark id="Zeleketa.1">
+        <name>Bita Village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">159</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5405691999087,4.933024100382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.2">
+        <name>Megelo village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">160</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5755602001432,4.96872900044309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.3">
+        <name>Dila bayno village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">161</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5545773000024,4.98278950043516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.4">
+        <name>Dila bayno village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">162</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.556010699734,4.9783443997743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.5">
+        <name>Bayda  village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">163</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5818271995657,4.98453990039616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.6">
+        <name>Bita</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">469</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5392710995816,4.93295519972276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.7">
+        <name>NA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">470</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5333633001762,4.97049829965687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.8">
+        <name>Bita</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">505</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5392710995816,4.93295519972276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.9">
+        <name>NA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">506</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5333633001762,4.97049829965687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.10">
+        <name>Megelo cistern</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">804</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5753310996506,4.96950929991431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.11">
+        <name>Dila bayno 1 hand dug well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">805</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5559118003893,4.98095989987951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.12">
+        <name>Dila bayno 2 hand dug well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">806</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5555199999481,4.98119330003084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.13">
+        <name>Bayda hand dug well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">807</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.582428300126,4.97984329982847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.14">
+        <name>Girba hand dug well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">808</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5808480995602,4.9856907996907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.15">
+        <name>Gebo Hand dug well 1</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">811</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5168176001522,4.96270069997735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Zeleketa.16">
+        <name>Gebo Hand dug well 1</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Zeleketa.schema">
+            <SimpleData name="OBJECTID">812</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Zeleketa</SimpleData>
+            <SimpleData name="RGUCode">ET070704_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.51662989995,4.96290020018415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

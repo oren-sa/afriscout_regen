@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Kalkalcha.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Kalkalcha">
+      <name>Kalkalcha</name>
+      <Placemark id="Kalkalcha.1">
+        <name>Lag Harele</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">279</SimpleData>
+            <SimpleData name="FeatureTyp">Stream</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            39.1307096348418,3.69035859757128,0
+            39.1311364647761,3.68875671435092,0
+            39.1318973865552,3.6869176538267,0
+            39.1330341943726,3.68511853938912,0
+            39.1334535716251,3.68405822430765,0
+            39.1340279092607,3.68300300028829,0
+            39.1345943166745,3.68203426496939,0
+            39.1350738064111,3.68108206908227,0
+            39.1357640864435,3.67946116250272,0
+            39.1361235481633,3.67887183496725,0
+            39.1368059807115,3.67810983220306,0
+            39.1384949704666,3.67702704306362,0
+            39.1397951221472,3.67693553794476,0
+            39.1412007409215,3.67635373863419,0
+            39.1426948260055,3.67537549927994,0
+            39.1439712175977,3.6740773036247,0
+            39.1447043952917,3.67295183535896,0
+            39.145203750153,3.67191787221208,0
+            39.1458912530789,3.66988926697616,0
+            39.1468437385478,3.66820022416107,0
+            39.1484247053359,3.66668317758661,0
+            39.150495240563,3.66453864344368,0
+            39.1530843887336,3.66257760157509,0
+            39.1546424605812,3.66101555832142,0
+            39.1557602621264,3.66003024130265,0
+            39.1574249459046,3.65834035942009,0
+            39.1581306448135,3.65737967123488,0
+            39.1585551473023,3.65690251433961,0
+            39.1588733697103,3.65603405073091,0
+            39.1593788183778,3.65541241055433,0
+            39.1597930245285,3.65494820479586,0
+            39.1607112206464,3.65379658604365,0
+            39.1614523888168,3.65295271169833,0
+            39.1618239724984,3.65211821548331,0
+            39.1624088393964,3.65129017460191,0
+            39.1635644817155,3.64965420078079,0
+            39.1641916275416,3.64899476929321,0
+            39.1648269050377,3.64819428274001,0
+            39.1652135973297,3.64696579353659,0
+            39.1657907921114,3.64589775507739,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Kalkalcha.2">
+        <name>Stream</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">286</SimpleData>
+            <SimpleData name="FeatureTyp">Stream</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            39.1181637217784,3.70397367144784,0
+            39.1216963172313,3.70704835459793,0
+            39.1261578062378,3.71168830327264,0
+            39.1338910549283,3.71888617295855,0
+            39.1361515431593,3.72108717463345,0
+            39.1402561128294,3.72792812498301,0
+            39.1472755228472,3.7333413979872,0
+            39.1630466583766,3.74594314725852,0
+            39.1664718244152,3.74931353019531,0
+            39.1724085801919,3.75451265303656,0
+            39.1762157179811,3.76046130504523,0
+            39.1845438313328,3.76809342677029,0
+            39.189696614807,3.77389817735906,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Kalkalcha.3">
+        <name>Stream</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">287</SimpleData>
+            <SimpleData name="FeatureTyp">Stream</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            39.1985941995627,3.73077199982799,0
+            39.1907636999848,3.73956859971116,0
+            39.1859097998974,3.7466005004128,0
+            39.1775701671295,3.7607749346156,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Kalkalcha.4">
+        <name>Stream</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">288</SimpleData>
+            <SimpleData name="FeatureTyp">Stream</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            39.1994737590068,3.73161391005397,0
+            39.1938582311725,3.73761015148733,0
+            39.1917643054784,3.73998961283041,0
+            39.1871524066583,3.74480032207725,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Kalkalcha.5">
+        <name>Stream</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kalkalcha.schema">
+            <SimpleData name="OBJECTID">289</SimpleData>
+            <SimpleData name="FeatureTyp">Stream</SimpleData>
+            <SimpleData name="RGUName">Kalkalcha</SimpleData>
+            <SimpleData name="RGUCode">ET051103_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            39.1137442014338,3.72937718281077,0
+            39.1174344003773,3.72995299983114,0
+            39.126424305937,3.73005298285892,0
+            39.1305169793752,3.73090958890646,0
+            39.1351807232119,3.73071923210694,0
+            39.142722959497,3.73107018983745,0
+            39.1443642492108,3.73109626388151,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

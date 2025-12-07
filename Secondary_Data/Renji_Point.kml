@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Renji.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Renji">
+      <name>Renji</name>
+      <Placemark id="Renji.1">
+        <name>Mana Barumsa Abbaa Gadaa Boruu Madhaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">15</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8183356997328,4.67553080030626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.2">
+        <name>Waajjira Bulchiinsa Gandaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">16</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8213664995644,4.67299950012688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.3">
+        <name>Mana Barumsa Adaamaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">17</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7937076998505,4.69783680012824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.4">
+        <name>Ollaa Duuba Jaatanii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">199</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8604313000645,4.64776119961971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.5">
+        <name>Ollaa Dheeraa Jaarsoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">200</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8508790996908,4.64821910023136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.6">
+        <name>Ollaa Yalaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">201</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8477071998275,4.64818740002852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.7">
+        <name>Ollaa Baqatee Boruu</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">202</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8497898003591,4.65557870039675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.8">
+        <name>NA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">203</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8416632997216,4.65758460044901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.9">
+        <name>NA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">204</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8209410995522,4.6636065004397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.10">
+        <name>NA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">205</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8238179003758,4.67028630037254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.11">
+        <name>NA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">206</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8223433000034,4.67210669996427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.12">
+        <name>Ollaa Areeroo Waariyoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">207</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8193777999456,4.67465209971471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.13">
+        <name>Ollaa Biqicha Guyyoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">208</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8105516996013,4.68517999975722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.14">
+        <name>NA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">209</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7897523996536,4.64864920010058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.15">
+        <name>Ollaa Shukkee Eedin</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">210</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7835599998941,4.66115170019089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.16">
+        <name>Ollaa Shukkee Eedin</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">211</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8007060999066,4.66641510027671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.17">
+        <name>Ollaa Warquu</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">212</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7993429003546,4.68902039987159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.18">
+        <name>Ollaa Dheeraa Jaarsoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">213</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7950897995547,4.69575740028387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.19">
+        <name>Ollaa Warquu</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">214</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7951132997391,4.69576000022386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.20">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">635</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8604313000645,4.64776119961971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.21">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">636</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8508790996908,4.64821910023136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.22">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">637</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8477071998275,4.64818740002852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.23">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">638</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8497898003591,4.65557870039675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.24">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">639</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8416632997216,4.65758460044901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.25">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">640</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8209410995522,4.6636065004397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.26">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">641</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8238179003758,4.67028630037254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.27">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">642</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8223433000034,4.67210669996427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.28">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">643</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8193777999456,4.67465209971471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.29">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">644</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8105516996013,4.68517999975722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.30">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">645</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7897523996536,4.64864920010058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.31">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">646</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7835599998941,4.66115170019089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.32">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">647</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8007060999066,4.66641510027671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.33">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">648</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7993429003546,4.68902039987159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.34">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">649</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7950897995547,4.69575740028387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.35">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">650</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7951132997391,4.69576000022386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.36">
+        <name>Haroo Afuura Xiqqaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">714</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8745031998628,4.57955410024158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.37">
+        <name>Haroo Maddoo Areeroo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">715</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.875745999978,4.66917319958355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.38">
+        <name>Haroo Xachee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">716</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8646655996378,4.66099339972567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.39">
+        <name>Haroo Reenjii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">717</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.82145979973,4.66225440032036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.40">
+        <name>Eela Sangootaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">718</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7919910001846,4.65606459960162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.41">
+        <name>Haroo Xachee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">719</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8067689001647,4.66599270040285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.42">
+        <name>Haroo Afuura Xiqqaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">720</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8067467004,4.66596000015392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.43">
+        <name>NA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">721</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8067154003955,4.66592689970668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.44">
+        <name>Eela Biirkaa Balii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">722</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8198396998423,4.68454660004562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.45">
+        <name>Haroo Maddoo Areeroo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">723</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8251974999647,4.67417389960582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.46">
+        <name>Haroo Daboo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">724</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7902407998731,4.69633940014324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.47">
+        <name>Eela Ramataa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">725</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8169898831766,4.74048117396705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.48">
+        <name>Eela Hidha Diimaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">726</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8312373998862,4.72909739992514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Renji.49">
+        <name>NA</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Renji.schema">
+            <SimpleData name="OBJECTID">727</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Renji</SimpleData>
+            <SimpleData name="RGUCode">ET041208_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8325932996411,4.72891469995346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

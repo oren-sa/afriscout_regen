@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Akodongole_Delegnmur.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Akodongole_Delegnmur">
+      <name>Akodongole+Delegnmur</name>
+      <Placemark id="Akodongole_Delegnmur.1">
+        <name>River</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Akodongole_Delegnmur.schema">
+            <SimpleData name="OBJECTID">79</SimpleData>
+            <SimpleData name="FeatureTyp">River</SimpleData>
+            <SimpleData name="RGUName">Akodongole+Delegnmur</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            36.0163349997605,4.78896100034996,0
+            36.0139450001617,4.78547599971768,0
+            36.0137429998396,4.78309000030333,0
+            36.0145769996289,4.78116899984951,0
+            36.0162569997608,4.77851499976748,0
+            36.0174089998255,4.7755760000324,0
+            36.0177460000779,4.77242200027513,0
+            36.0161039998997,4.77013700012253,0
+            36.0141970000915,4.76871100001267,0
+            36.0097599996244,4.76681499981242,0
+            36.007710999563,4.76583699967784,0
+            36.0061870003299,4.76417500037604,0
+            36.0058160003082,4.76186499996982,0
+            36.0067029998436,4.75890300007342,0
+            36.0078529998161,4.75598400036137,0
+            36.0077369998627,4.75290499956611,0
+            36.0062159998686,4.75022299999148,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Akodongole_Delegnmur.2">
+        <name>River</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Akodongole_Delegnmur.schema">
+            <SimpleData name="OBJECTID">97</SimpleData>
+            <SimpleData name="FeatureTyp">River</SimpleData>
+            <SimpleData name="RGUName">Akodongole+Delegnmur</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            36.0163349997605,4.78896100034996,0
+            36.0139450001617,4.78547599971768,0
+            36.0137429998396,4.78309000030333,0
+            36.0145769996289,4.78116899984951,0
+            36.0162569997608,4.77851499976748,0
+            36.0174089998255,4.7755760000324,0
+            36.0177460000779,4.77242200027513,0
+            36.0161039998997,4.77013700012253,0
+            36.0141970000915,4.76871100001267,0
+            36.0097599996244,4.76681499981242,0
+            36.007710999563,4.76583699967784,0
+            36.0061870003299,4.76417500037604,0
+            36.0058160003082,4.76186499996982,0
+            36.0067029998436,4.75890300007342,0
+            36.0078529998161,4.75598400036137,0
+            36.0077369998627,4.75290499956611,0
+            36.0062159998686,4.75022299999148,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

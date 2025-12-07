@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Gorile.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Gorile">
+      <name>Gorile</name>
+      <Placemark id="Gorile.1">
+        <name>other05</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">102</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5718642999975,4.07329849982597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.2">
+        <name>other04</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">103</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5725261002993,4.07324819984461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.3">
+        <name>other02</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">104</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5728176002521,4.07429890027407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.4">
+        <name>other07</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">105</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5720904003517,4.07141950040966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.5">
+        <name>other03</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">106</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5731400000111,4.07215829976576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.6">
+        <name>other01</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">107</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5744063003106,4.07194560020935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.7">
+        <name>other08</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">108</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4890567998315,4.07531569985969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.8">
+        <name>other06</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">109</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5682268004265,4.08054660024544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">590</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5564516998861,4.12374499963209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">591</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5664997999259,4.10906180006208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">592</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5335597000202,4.10437960033835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">593</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5112009001015,4.11096100005017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">594</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5731984001861,4.07112369989886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">595</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4751799998572,4.08560830038283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.15">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">596</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4854596996055,4.0786445997685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.16">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">597</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4949349998504,4.07395500042298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.17">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">598</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5293065002948,4.08952320033546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gorile.18">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gorile.schema">
+            <SimpleData name="OBJECTID">599</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gorile</SimpleData>
+            <SimpleData name="RGUCode">ET041220_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6034015996042,4.11125829973082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

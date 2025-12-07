@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Kajawa.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Kajawa">
+      <name>Kajawa</name>
+      <Placemark id="Kajawa.1">
+        <name>Kojowa Primary School</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">6</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3208311960029,4.06210021994923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.2">
+        <name>Kojowa Mosk</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">7</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3215800605714,4.06109507467801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.3">
+        <name>Kojowa Kebele Office</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">8</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3220528233791,4.06148591194534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.4">
+        <name>Human H Post</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">9</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3220279912988,4.06160981424159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">691</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3170274135843,3.98165051735754,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.6">
+        <name>Kojowa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">692</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3216053279236,4.06310093875737,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.7">
+        <name>Girribba</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">694</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3158424218903,4.09066970913983,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.8">
+        <name>Malat</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">695</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.2716888390687,4.09042156999948,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.9">
+        <name>Dambala Buke</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">890</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.2774204999562,4.08552959711324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.10">
+        <name>Fasho</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">891</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.1820436980583,4.13267389968075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.11">
+        <name>Giriba wells</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">892</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3376599171715,4.10005400698691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.12">
+        <name>Har Faar</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">893</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3198825020759,3.98172679965211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.13">
+        <name>Har jema</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">894</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.2573574021225,4.0250430956624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.14">
+        <name>Har Kojowa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">895</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3220684850726,4.06902664096674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.15">
+        <name>Haraddey</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">896</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.2558751611098,4.09969581061324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.16">
+        <name>Kojowa Birka</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">897</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3297221833321,4.08239404874638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.17">
+        <name>Kojowa Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">898</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3268339197497,4.06937747908745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.18">
+        <name>Shenical</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">899</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3312559986655,4.08752109812025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.19">
+        <name>war ade</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">900</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.2693893994013,4.20527190477463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.20">
+        <name>War adi</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">901</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3676116994204,4.11335170022085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajawa.21">
+        <name>Warta Banan</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajawa.schema">
+            <SimpleData name="OBJECTID">902</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajawa</SimpleData>
+            <SimpleData name="RGUCode">ET051103_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.3504231999707,4.20404680061938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

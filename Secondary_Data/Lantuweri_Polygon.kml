@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Lantuweri.schema">
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Lantuweri">
+      <name>Lantuweri</name>
+      <Placemark id="Lantuweri.1">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.7892789537742,5.13626524562429,0
+                40.7909547603368,5.13922255155105,0
+                40.7925501953086,5.13831847190596,0
+                40.7908743880738,5.1353611659919,0
+                40.7892789537742,5.13626524562429,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lantuweri.2">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.7912973793228,5.13525603328405,0
+                40.7930130323432,5.13829741808221,0
+                40.7943946184217,5.13751806176639,0
+                40.7926789654152,5.13447667662769,0
+                40.7912973793228,5.13525603328405,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lantuweri.3">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.7987446737642,5.1320543927987,0
+                40.8033678144842,5.13395501691756,0
+                40.8042779435706,5.13174118908369,0
+                40.7996548031999,5.12984056399699,0
+                40.7987446737642,5.1320543927987,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lantuweri.4">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.7938726122738,5.13389881603153,0
+                40.7956183771476,5.13667150178406,0
+                40.7977006607239,5.13536043472859,0
+                40.7959548949488,5.132587748892,0
+                40.7938726122738,5.13389881603153,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lantuweri.5">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.7516374493555,5.12320552609899,0
+                40.7585616804716,5.1232769104272,0
+                40.7585867600325,5.12084423077733,0
+                40.751662528175,5.12077284771518,0
+                40.7516374493555,5.12320552609899,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lantuweri.6">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.7415009447606,5.11792312302297,0
+                40.7478080989226,5.11750264634562,0
+                40.7476648776321,5.11535433544986,0
+                40.7413577248139,5.11577481181472,0
+                40.7415009447606,5.11792312302297,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

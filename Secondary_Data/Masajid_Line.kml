@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Masajid.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Masajid">
+      <name>Masajid</name>
+      <Placemark id="Masajid.1">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">196</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7698856009398,5.14619916076271,0
+            40.7708228995572,5.14791175502353,0
+            40.771682513837,5.15116171693973,0
+            40.7720394331733,5.15204211724995,0
+            40.7723606602163,5.15445346315687,0
+            40.771332733319,5.1619915958355,0
+            40.7727604097652,5.1659890904242,0
+            40.7744165149103,5.17398407960167,0
+            40.7763581548051,5.17758182464155,0
+            40.7808346004365,5.18677469999244,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.2">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">197</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7698856009398,5.14619916076271,0
+            40.7704677995494,5.14435455501877,0
+            40.7719430654202,5.14361692208331,0
+            40.7725855195062,5.14252236981156,0
+            40.7728710551551,5.14140402327712,0
+            40.7737514554653,5.14042844411745,0
+            40.7748935971618,5.13976219486943,0
+            40.7756312300972,5.13945286495778,0
+            40.7780852569291,5.13773329825318,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.3">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">198</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7698856009398,5.14619916076271,0
+            40.7708228995572,5.14791175502353,0
+            40.771682513837,5.15116171693973,0
+            40.7720394331733,5.15204211724995,0
+            40.7723606602163,5.15445346315687,0
+            40.771332733319,5.1619915958355,0
+            40.7727604097652,5.1659890904242,0
+            40.7744165149103,5.17398407960167,0
+            40.7763581548051,5.17758182464155,0
+            40.7808346004365,5.18677469999244,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.4">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">199</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7698856009398,5.14619916076271,0
+            40.7704677995494,5.14435455501877,0
+            40.7719430654202,5.14361692208331,0
+            40.7725855195062,5.14252236981156,0
+            40.7728710551551,5.14140402327712,0
+            40.7737514554653,5.14042844411745,0
+            40.7748935971618,5.13976219486943,0
+            40.7756312300972,5.13945286495778,0
+            40.7780852569291,5.13773329825318,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.5">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">200</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7698856009398,5.14619916076271,0
+            40.7708228995572,5.14791175502353,0
+            40.771682513837,5.15116171693973,0
+            40.7720394331733,5.15204211724995,0
+            40.7723606602163,5.15445346315687,0
+            40.771332733319,5.1619915958355,0
+            40.7727604097652,5.1659890904242,0
+            40.7744165149103,5.17398407960167,0
+            40.7763581548051,5.17758182464155,0
+            40.7808346004365,5.18677469999244,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.6">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">201</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7698856009398,5.14619916076271,0
+            40.7704677995494,5.14435455501877,0
+            40.7719430654202,5.14361692208331,0
+            40.7725855195062,5.14252236981156,0
+            40.7728710551551,5.14140402327712,0
+            40.7737514554653,5.14042844411745,0
+            40.7748935971618,5.13976219486943,0
+            40.7756312300972,5.13945286495778,0
+            40.7780852569291,5.13773329825318,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.7">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">202</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7949629003177,5.20833929961901,0
+            40.7808346004365,5.18677469999244,0
+            40.7863204361392,5.18859642788289,0
+            40.7892521360773,5.19103951086475,0
+            40.7914509110308,5.19103951086475,0
+            40.7947910003045,5.19269030011731,0
+            40.7974995163896,5.1926992825459,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.8">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">203</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7698856009398,5.14619916076271,0
+            40.7708228995572,5.14791175502353,0
+            40.771682513837,5.15116171693973,0
+            40.7720394331733,5.15204211724995,0
+            40.7723606602163,5.15445346315687,0
+            40.771332733319,5.1619915958355,0
+            40.7727604097652,5.1659890904242,0
+            40.7744165149103,5.17398407960167,0
+            40.7763581548051,5.17758182464155,0
+            40.7808346004365,5.18677469999244,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.9">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">204</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7698856009398,5.14619916076271,0
+            40.7704677995494,5.14435455501877,0
+            40.7719430654202,5.14361692208331,0
+            40.7725855195062,5.14252236981156,0
+            40.7728710551551,5.14140402327712,0
+            40.7737514554653,5.14042844411745,0
+            40.7748935971618,5.13976219486943,0
+            40.7756312300972,5.13945286495778,0
+            40.7780852569291,5.13773329825318,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.10">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">205</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7949629003177,5.20833929961901,0
+            40.7808346004365,5.18677469999244,0
+            40.7863204361392,5.18859642788289,0
+            40.7892521360773,5.19103951086475,0
+            40.7914509110308,5.19103951086475,0
+            40.7947910003045,5.19269030011731,0
+            40.7974995163896,5.1926992825459,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.11">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">206</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7698856009398,5.14619916076271,0
+            40.7708228995572,5.14791175502353,0
+            40.771682513837,5.15116171693973,0
+            40.7720394331733,5.15204211724995,0
+            40.7723606602163,5.15445346315687,0
+            40.771332733319,5.1619915958355,0
+            40.7727604097652,5.1659890904242,0
+            40.7744165149103,5.17398407960167,0
+            40.7763581548051,5.17758182464155,0
+            40.7808346004365,5.18677469999244,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.12">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">207</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7698856009398,5.14619916076271,0
+            40.7704677995494,5.14435455501877,0
+            40.7719430654202,5.14361692208331,0
+            40.7725855195062,5.14252236981156,0
+            40.7728710551551,5.14140402327712,0
+            40.7737514554653,5.14042844411745,0
+            40.7748935971618,5.13976219486943,0
+            40.7756312300972,5.13945286495778,0
+            40.7780852569291,5.13773329825318,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.13">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">208</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.770782281677,5.14759872620033,0
+            40.7716343857184,5.14698258627737,0
+            40.7746197841757,5.14750346641188,0
+            40.7757618521278,5.14922638848708,0
+            40.7773447164855,5.15102944645184,0
+            40.7802900429512,5.15153029238911,0
+            40.7866540180685,5.15335282337412,0
+            40.7884996274559,5.15348252989486,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.14">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">250</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.770760849034,5.14758344761805,0
+            40.7667636889931,5.14736879743208,0
+            40.7583628168906,5.14297314959123,0
+            40.749023228839,5.13982065979565,0
+            40.744918567438,5.13779830574725,0
+            40.7414682761401,5.13815519720464,0
+            40.735771087166,5.13710077627985,0
+            40.731848830759,5.13695867889999,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.15">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">251</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.770760849034,5.14758344761805,0
+            40.7716129539747,5.14696730679583,0
+            40.7745983542307,5.14748818693033,0
+            40.7757404221828,5.14921110990485,0
+            40.7773232874398,5.15101416876894,0
+            40.7802686148048,5.15151501560553,0
+            40.7866325944187,5.15333754748985,0
+            40.7884782047054,5.15346725401059,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.16">
+        <name>Stream</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">295</SimpleData>
+            <SimpleData name="FeatureTyp">Stream</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7675651863843,5.19567137733225,0
+            40.7678864152259,5.19228095120496,0
+            40.7676663079538,5.19044298425638,0
+            40.7642445656343,5.18610800288207,0
+            40.7638162482213,5.18204663124709,0
+            40.7637210621774,5.17828742282637,0
+            40.7622219660709,5.17493268809312,0
+            40.7619364241267,5.1742284316968,0
+            40.7616746683513,5.16756654356118,0
+            40.7612463473411,5.16107834059301,0
+            40.7616746557608,5.15829462229902,0
+            40.7630309728012,5.15575834437215,0
+            40.764910783406,5.15380736052134,0
+            40.7650773486408,5.15333151124031,0
+            40.7652915024009,5.15197534078942,0
+            40.7713830467902,5.15045261409693,0
+            40.7733080699115,5.14937243389073,0
+            40.7749499261982,5.14551805381518,0
+            40.7747500464775,5.14443787630699,0
+            40.7756066678135,5.14324825220513,0
+            40.7770581673007,5.14129726835432,0
+            40.7792244371581,5.13936836016177,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Masajid.17">
+        <name>Stream</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="OBJECTID">296</SimpleData>
+            <SimpleData name="FeatureTyp">Stream</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7355887019571,5.19254452271161,0
+            40.7371871587604,5.19100690864195,0
+            40.7399235951978,5.19055484822769,0
+            40.7429217766187,5.18948418374811,0
+            40.7455630333074,5.18905591579795,0
+            40.7478544959882,5.1849350585062,0
+            40.7495201492355,5.18246064044627,0
+            40.7521138138015,5.1809855040778,0
+            40.75278007564,5.18020035186481,0
+            40.7585652488872,5.17163803256921,0
+            40.758565237196,5.16360807775061,0
+            40.7601874621817,5.15879712119022,0
+            40.7621459580695,5.15653556546403,0
+            40.7635632734264,5.15520588993991,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

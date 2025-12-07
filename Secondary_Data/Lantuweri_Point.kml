@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Lantuweri.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Lantuweri">
+      <name>Lantuweri</name>
+      <Placemark id="Lantuweri.1">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">383</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8017569968879,5.12874864743219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">384</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8019749107136,5.12811493655511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">385</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7975937140787,5.12687638753533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">386</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7972601933033,5.12648376781169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">387</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7980423354854,5.12650779320012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">388</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8044822124842,5.12726840021656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">389</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8040832021781,5.12667979753468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">390</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.805058812814,5.12665176476719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">391</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.804067432566,5.12408405913209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">392</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8055283380624,5.12398424607613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">393</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8047109865229,5.1216830949989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">394</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8061084124733,5.1219957191272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">395</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8069656300598,5.12372446790994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">396</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8077060922624,5.12153163207921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.15">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">397</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8087126629591,5.12365353748083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.16">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">398</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8434926147924,5.1670116105974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.17">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">399</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8447368673126,5.16719766144297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.18">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">400</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.841420916742,5.16591341427272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.19">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">401</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8448695038246,5.16449249982907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.20">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">402</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8418707063681,5.16286590593688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.21">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">403</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8480599935739,5.16366345080763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.22">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">404</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8449113447828,5.16153513683713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.23">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">405</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8469203825696,5.16133794249208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.24">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">406</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.749841232387,5.11091855634635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.25">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">407</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7525096360109,5.11146997206163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.26">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">408</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7556485073728,5.11179858343792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.27">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">409</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7454607965785,5.11059536158672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.28">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">410</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.747458157568,5.11060817242924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.29">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">411</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7520245839675,5.10729820594747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.30">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">412</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7550226430806,5.1079208506668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.31">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">413</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.748083848291,5.1068109109948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.32">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">414</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8008919165288,5.07887083122392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.33">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">415</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8037211953769,5.07932968601625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.34">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">416</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8057734042193,5.07935635631083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.35">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">417</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8022068521645,5.07413354352826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.36">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">418</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8045473422861,5.07460080698172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.37">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">419</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8078429124205,5.07478257885299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.38">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">787</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8016204069563,5.1265962586105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.39">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">788</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8069456408287,5.12656770513553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.40">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">789</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8980028541484,5.12543984017651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lantuweri.41">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">790</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7564915498452,5.11444673073208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

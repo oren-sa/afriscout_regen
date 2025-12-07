@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Akodongole.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Akodongole">
+      <name>Akodongole</name>
+      <Placemark id="Akodongole.1">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Akodongole.schema">
+            <SimpleData name="OBJECTID">502</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Akodongole</SimpleData>
+            <SimpleData name="RGUCode">ET070706_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9793629999025,4.77862299935197,376
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Akodongole.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Akodongole.schema">
+            <SimpleData name="OBJECTID">503</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Akodongole</SimpleData>
+            <SimpleData name="RGUCode">ET070706_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0055749999863,4.78133999964132,371
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Akodongole.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Akodongole.schema">
+            <SimpleData name="OBJECTID">504</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Akodongole</SimpleData>
+            <SimpleData name="RGUCode">ET070706_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9802379997839,4.78040799982938,378
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Akodongole.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Akodongole.schema">
+            <SimpleData name="OBJECTID">527</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Akodongole</SimpleData>
+            <SimpleData name="RGUCode">ET070706_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9793629999025,4.77862299935197,376
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Akodongole.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Akodongole.schema">
+            <SimpleData name="OBJECTID">528</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Akodongole</SimpleData>
+            <SimpleData name="RGUCode">ET070706_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0055749999863,4.78133999964132,371
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Akodongole.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Akodongole.schema">
+            <SimpleData name="OBJECTID">529</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Akodongole</SimpleData>
+            <SimpleData name="RGUCode">ET070706_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9802379997839,4.78040799982938,378
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Akodongole.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Akodongole.schema">
+            <SimpleData name="OBJECTID">676</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Akodongole</SimpleData>
+            <SimpleData name="RGUCode">ET070706_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9800076375425,4.78013718518298,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Akodongole.8">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Akodongole.schema">
+            <SimpleData name="OBJECTID">863</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Akodongole</SimpleData>
+            <SimpleData name="RGUCode">ET070706_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0009450005114,4.76310299950387,371
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

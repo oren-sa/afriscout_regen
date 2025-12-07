@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Ahmedo.schema">
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Ahmedo">
+      <name>Ahmedo</name>
+      <Placemark id="Ahmedo.1">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.8003491050001,4.92431633400003,0
+                40.8017022350001,4.92548282600006,0
+                40.8039012740001,4.92293194100006,0
+                40.8025481440001,4.92176544900002,0
+                40.8003491050001,4.92431633400003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

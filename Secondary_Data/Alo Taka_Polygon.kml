@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Alo_Taka.schema">
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Alo_Taka">
+      <name>Alo Taka</name>
+      <Placemark id="Alo_Taka.1">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0183575570838,3.67349909761021,0
+                39.0249426863608,3.67402590768797,0
+                39.0250854545561,3.67224131219494,0
+                39.0185003246032,3.67171450136563,0
+                39.0183575570838,3.67349909761021,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alo_Taka.2">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0227119705422,3.66728870436101,0
+                39.0295637270586,3.66753340970404,0
+                39.0296351103671,3.66553466281572,0
+                39.0227833544884,3.66528995733303,0
+                39.0227119705422,3.66728870436101,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alo_Taka.3">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0299217372351,3.68303597694978,0
+                39.0330310582203,3.68371477971568,0
+                39.0334393239439,3.6818446811509,0
+                39.0303300029995,3.68116587748726,0
+                39.0299217372351,3.68303597694978,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Alo_Taka.4">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0410960194662,3.66819610694394,0
+                39.0404929681693,3.6648793286489,0
+                39.0331055986188,3.66427627777362,0
+                39.0328040731265,3.66804534458812,0
+                39.0349147504057,3.67060830951647,0
+                39.039161732469,3.6712932658403,0
+                39.0410960194662,3.66819610694394,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

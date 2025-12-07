@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Elgof.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Elgof">
+      <name>Elgof</name>
+      <Placemark id="Elgof.1">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">297</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0616060894495,3.85288120170617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">298</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0626869279594,3.85273887859643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">299</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0607452898633,3.85171932798465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">300</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0619023495138,3.85136368568561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">301</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0629124725326,3.85106279950861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">302</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0640080113607,3.85261173784147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">303</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0635695729775,3.8550928414615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">304</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0638960124911,3.85603516638986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">305</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0632592529122,3.85478307178141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">306</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0640870051113,3.85479173944725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">307</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0639325771268,3.85868357538675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">308</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0638238697758,3.85843754965322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">309</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0609471633809,3.85954772224966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">310</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0615016745627,3.85971162998777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.15">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">311</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0617725440677,3.85865976583557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.16">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">312</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0604453218941,3.86028695417963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.17">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">313</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0691738359039,3.85695074548056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.18">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">314</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0686431927292,3.85652418624227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.19">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">315</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0697094082626,3.85644229847333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.20">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">316</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0698295900636,3.85797607693445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.21">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">317</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0694909827228,3.85879767777067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.22">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">318</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0697858947033,3.85884213845395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.23">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">319</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0611171946029,3.85584847073039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.24">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">320</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0602153922266,3.85600234203451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.25">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">321</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0607388893883,3.85482549999688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.26">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">768</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.129771754363,4.0311791834726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.27">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">769</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0802742065894,3.87003732556218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.28">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">770</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0617849565106,3.85748550215425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.29">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">771</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0628387065411,3.85815072797379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.30">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">772</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0577347625493,3.85617577539176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.31">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">773</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0649339902116,3.85443540646889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.32">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">774</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.110411347206,4.07518897728954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Elgof.33">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="OBJECTID">775</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0592040695122,4.02963212202485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

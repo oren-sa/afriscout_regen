@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Delegnmur.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Delegnmur">
+      <name>Delegnmur</name>
+      <Placemark id="Delegnmur.1">
+        <name>Chelkogne village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">149</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0116234002998,4.7372091004197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Delegnmur.2">
+        <name>Silassie church</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">150</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0112727996001,4.73867160041408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Delegnmur.3">
+        <name>Kapusia village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">151</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0073890000024,4.74505390011745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Delegnmur.4">
+        <name>Kebele office</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">152</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0069144997045,4.74617210006244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Delegnmur.5">
+        <name>Health post</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">153</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.006184199841,4.74742360021901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Delegnmur.6">
+        <name>Mekeneyesus</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">154</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0059814998464,4.74740429986861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Delegnmur.7">
+        <name>chetekogne silasse sefer</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">459</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0112775003564,4.73872000012796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Delegnmur.8">
+        <name>Chetekogne</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">460</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.011680000032,4.73889850026563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Delegnmur.9">
+        <name>Kuluma village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">461</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.012844999797,4.73993610027088,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Delegnmur.10">
+        <name>Koro sub village under kuluma village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">462</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0141333002117,4.74094939969507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Delegnmur.11">
+        <name>Malboron</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">463</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0016622997754,4.73082610014444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Delegnmur.12">
+        <name>Delekore</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="OBJECTID">464</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0154132000592,4.75764520016588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

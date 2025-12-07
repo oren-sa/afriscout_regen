@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Web.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Web">
+      <name>Web</name>
+      <Placemark id="Web.1">
+        <name>buufata Fayyaa beeyladaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">110</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5710437001067,4.42036370012471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.2">
+        <name>Buufata fayyaa Nama</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">111</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5702449996071,4.42033669977894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.3">
+        <name>mana barumsaa 1-8</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">112</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.570237199787,4.42165039974623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.4">
+        <name>charchi</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">113</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5710422998623,4.42417070031763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.5">
+        <name>Mana barumsaa 1-3</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">114</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5960771656287,4.41809837893709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.6">
+        <name>Webi cooperative association store</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">137</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6575459003231,4.49323190023205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.7">
+        <name>Web warehouse</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">138</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6555694000078,4.49070889989588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.8">
+        <name>Web Secondary School</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">139</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6597541892045,4.49097229423603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.9">
+        <name>Web Primary School</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">140</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6583244829886,4.49515697101742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.10">
+        <name>Web livestock health post</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">141</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6589408000779,4.49414319944913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.11">
+        <name>Web human health post</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">142</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6579465986567,4.49259310009154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.12">
+        <name>Tula web high school</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">143</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6598595996409,4.49105160005132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.13">
+        <name>Teso Kelo Primary School</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">144</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7240252950314,4.4603922950684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.14">
+        <name>Nana Primary School</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">145</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7149903316385,4.56142502594423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.15">
+        <name>Murqo Primary School</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">146</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5599698630188,4.55163871405546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.16">
+        <name>Cira Primary School</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">147</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6203385047183,4.56525956337822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.17">
+        <name><![CDATA[Arda Ya'a High School]]></name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">148</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6552603003227,4.48886180033185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.18">
+        <name>Abduba Halake Village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">216</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5701267207716,4.56280219466561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.19">
+        <name>Aga Huka village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">217</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7142926888566,4.56316581215253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.20">
+        <name>Bonaya Molu Village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">218</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7229283002009,4.46373830008253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.21">
+        <name>Boru Dida village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">219</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7058856995654,4.56536759983493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.22">
+        <name>Boru Halake Village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">220</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7223383979987,4.4542050987863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.23">
+        <name>Duba Godana Village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">221</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5600487002873,4.56209169967224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.24">
+        <name>Guyo Dida Village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">222</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6237167998905,4.42632920093195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.25">
+        <name>Jaldesa Xache Village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">223</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7228093001092,4.45901649961183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.26">
+        <name>Jilo Dimala Village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">224</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5511349996805,4.47637419930987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.27">
+        <name>Jirma Malicha village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">225</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7230186002283,4.55339900026371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.28">
+        <name>kuse Dhadacha Village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">226</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7192471007731,4.44621650019138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.29">
+        <name>Malicha Fayo Village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">227</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5624422998723,4.55343900030965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.30">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">600</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5601838000424,4.44754479975273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.31">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">601</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5596133996387,4.45063189984234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.32">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">602</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5562078001499,4.45717519977569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.33">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">605</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.596375000406,4.41408000029185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.34">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">606</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5664833000643,4.4319383004123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.35">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">607</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5682496998638,4.41338430004544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.36">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">611</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6815424996867,4.42178870018842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.37">
+        <name>Web sadet dika traditional water well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">747</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6612400400958,4.49854945119625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.38">
+        <name>Web motorized water point</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">748</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6607739997204,4.498189100047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.39">
+        <name>Web hand pump water point</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">749</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6642067002791,4.49718890014765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.40">
+        <name>Ruya pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">750</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5589966697606,4.55242500031358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.41">
+        <name>Malicha nura pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">751</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7292777998306,4.53874430020932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.42">
+        <name>Jirma boru pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">752</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7277131998044,4.55610740033632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.43">
+        <name>Ilman galgalo pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">753</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7552783000535,4.56470750015109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.44">
+        <name>Guyo dida pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">754</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6212674000705,4.42538299992555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.45">
+        <name>Dida iya pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">755</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5530016999685,4.54393829961288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.46">
+        <name>Cira cistern</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">756</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6081066996645,4.41346029995293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.47">
+        <name>Boru halake pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">757</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7284417001244,4.46070669985437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Web.48">
+        <name>Arero bute pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Web.schema">
+            <SimpleData name="OBJECTID">758</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Web</SimpleData>
+            <SimpleData name="RGUCode">ET041298_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5521898001192,4.55535349956438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

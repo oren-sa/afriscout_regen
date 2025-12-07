@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Haro_Dimtu.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Haro_Dimtu">
+      <name>Haro Dimtu</name>
+      <Placemark id="Haro_Dimtu.1">
+        <name>Ollaa Jaatan Oobruu</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Haro_Dimtu.schema">
+            <SimpleData name="OBJECTID">215</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Haro Dimtu</SimpleData>
+            <SimpleData name="RGUCode">ET041208_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7812574998338,4.69967540019962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Haro_Dimtu.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Haro_Dimtu.schema">
+            <SimpleData name="OBJECTID">651</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Haro Dimtu</SimpleData>
+            <SimpleData name="RGUCode">ET041208_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7812574998338,4.69967540019962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

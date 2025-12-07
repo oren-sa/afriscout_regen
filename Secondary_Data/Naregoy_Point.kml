@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Naregoy.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Naregoy">
+      <name>Naregoy</name>
+      <Placemark id="Naregoy.1">
+        <name>Service</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Naregoy.schema">
+            <SimpleData name="OBJECTID">174</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Naregoy</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.078960000004,5.22072700035085,414
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Naregoy.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Naregoy.schema">
+            <SimpleData name="OBJECTID">487</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Naregoy</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0599739995005,5.20723699968784,421
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Naregoy.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Naregoy.schema">
+            <SimpleData name="OBJECTID">488</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Naregoy</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0660390003996,5.1980620001612,403
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Naregoy.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Naregoy.schema">
+            <SimpleData name="OBJECTID">489</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Naregoy</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.078027000146,5.22081900009681,425
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Naregoy.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Naregoy.schema">
+            <SimpleData name="OBJECTID">490</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Naregoy</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0830820003341,5.22861099969793,428
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Naregoy.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Naregoy.schema">
+            <SimpleData name="OBJECTID">512</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Naregoy</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0599739995005,5.20723699968784,421
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Naregoy.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Naregoy.schema">
+            <SimpleData name="OBJECTID">513</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Naregoy</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0660390003996,5.1980620001612,403
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Naregoy.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Naregoy.schema">
+            <SimpleData name="OBJECTID">514</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Naregoy</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.078027000146,5.22081900009681,425
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Naregoy.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Naregoy.schema">
+            <SimpleData name="OBJECTID">515</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Naregoy</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0830820003341,5.22861099969793,428
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Naregoy.10">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Naregoy.schema">
+            <SimpleData name="OBJECTID">834</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Naregoy</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0792780002795,5.22060700021296,416
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Naregoy.11">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Naregoy.schema">
+            <SimpleData name="OBJECTID">903</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Naregoy</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0792780002795,5.22060700021296,416
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

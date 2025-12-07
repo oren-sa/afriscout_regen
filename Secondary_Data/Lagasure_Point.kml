@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Lagasure.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Lagasure">
+      <name>Lagasure</name>
+      <Placemark id="Lagasure.1">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">348</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0432698338358,3.67794726445476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">349</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0454762737111,3.67933228066028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">350</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0477609312221,3.67967035740111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">351</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0500698524418,3.67971446195293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">352</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.033478956089,3.62849357032206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">353</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0341237484123,3.62859345982037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">354</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0346450179533,3.62868922772572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">355</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0351687489386,3.62887704663842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">356</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0335011153842,3.62966078871449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">357</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0340674247719,3.62980377192656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">358</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0364083285816,3.63614676855855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">359</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0363488717031,3.6357057095509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">360</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0368449557302,3.63691224810179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">361</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0368610490982,3.63726440822592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.15">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">362</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0355652591294,3.63838446167364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.16">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">363</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0354238893011,3.63813981460083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.17">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">364</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0374092065697,3.63896229947062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.18">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">365</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0375250815173,3.63874154828386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.19">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">366</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0398685277104,3.63695427881697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.20">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">367</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.039070288563,3.63642804681695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.21">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">368</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0400362404802,3.63631087055029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.22">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">369</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0411800117482,3.63640132885831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.23">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">370</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0390912337735,3.63623560988555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.24">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">371</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0388865363846,3.64243383095658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.25">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">372</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0398222953627,3.64260526152367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.26">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">373</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0406858387805,3.64262614647953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.27">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">374</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0404077755984,3.64089215554861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.28">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">375</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0403966006227,3.64110654313248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.29">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">376</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0412267764946,3.64129035736414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.30">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">779</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0320382673522,3.67589545311273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.31">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">780</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0385877285409,3.66196379629224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.32">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">783</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0284333843932,3.64276145847458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.33">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">784</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0511484381499,3.64371195554236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.34">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">785</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0967239147769,3.67665093129551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lagasure.35">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="OBJECTID">786</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0533879811704,3.70882719292064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

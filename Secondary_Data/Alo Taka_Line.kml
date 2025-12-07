@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Alo_Taka.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Alo_Taka">
+      <name>Alo Taka</name>
+      <Placemark id="Alo_Taka.1">
+        <name>Stream</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">290</SimpleData>
+            <SimpleData name="FeatureTyp">Stream</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            39.0050378999791,3.68419729996549,0
+            39.0113708646737,3.68564303389894,0
+            39.0211266544716,3.68237127511429,0
+            39.0324642995878,3.68003779970473,0
+            39.0419725375027,3.68553675561685,0
+            39.0509888903251,3.69182963213188,0
+            39.0656582673153,3.69670752703081,0
+            39.0752123382788,3.7008209990899,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

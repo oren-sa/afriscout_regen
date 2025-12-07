@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Harawetu.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Harawetu">
+      <name>Harawetu</name>
+      <Placemark id="Harawetu.1">
+        <name>kalloo haraawaxxuu</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Harawetu.schema">
+            <SimpleData name="OBJECTID">40</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Harawetu</SimpleData>
+            <SimpleData name="RGUCode">ET041207_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3825042002087,4.7398589995932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Harawetu.2">
+        <name>kalloo harawaaxxuu gama karaayyuutiin</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Harawetu.schema">
+            <SimpleData name="OBJECTID">46</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Harawetu</SimpleData>
+            <SimpleData name="RGUCode">ET041207_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3824839996369,4.73985750042334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Harawetu.3">
+        <name>qabxii k</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Harawetu.schema">
+            <SimpleData name="OBJECTID">47</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Harawetu</SimpleData>
+            <SimpleData name="RGUCode">ET041207_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.375641800129,4.74388680043552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Harawetu.4">
+        <name>qabxxii J</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Harawetu.schema">
+            <SimpleData name="OBJECTID">48</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Harawetu</SimpleData>
+            <SimpleData name="RGUCode">ET041207_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3720817996354,4.747316199583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Harawetu.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Harawetu.schema">
+            <SimpleData name="OBJECTID">562</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Harawetu</SimpleData>
+            <SimpleData name="RGUCode">ET041207_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3796756003487,4.69898720029909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Harawetu.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Harawetu.schema">
+            <SimpleData name="OBJECTID">563</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Harawetu</SimpleData>
+            <SimpleData name="RGUCode">ET041207_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3811833002691,4.7305900002284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

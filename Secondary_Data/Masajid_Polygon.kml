@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Masajid.schema">
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Masajid">
+      <name>Masajid</name>
+      <Placemark id="Masajid.1">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.776702937,5.14913296600002,0
+                40.77932022,5.14913296300006,0
+                40.7793202180001,5.14796366900003,0
+                40.776702936,5.14796367200006,0
+                40.776702937,5.14913296600002,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Masajid.2">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.78126926,5.14918864100002,0
+                40.783942229,5.14918863700007,0
+                40.7839422280001,5.14788014100003,0
+                40.7812692580001,5.14788014500004,0
+                40.78126926,5.14918864100002,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

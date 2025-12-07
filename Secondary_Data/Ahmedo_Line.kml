@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Ahmedo.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Ahmedo">
+      <name>Ahmedo</name>
+      <Placemark id="Ahmedo.1">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Ahmedo.schema">
+            <SimpleData name="OBJECTID">265</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Ahmedo</SimpleData>
+            <SimpleData name="RGUCode">ET050901_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.8602671383179,5.01773007568249,0
+            40.851787912782,5.01150499995583,0
+            40.8488135957709,5.00748965922043,0
+            40.8461367097414,5.00421789953646,0
+            40.8418239497155,4.99826924662847,0
+            40.8396498980244,4.99358837250543,0
+            40.8384034853327,4.98973293033055,0
+            40.8360240329828,4.98318941276125,0
+            40.8025266609767,4.93628643607019,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

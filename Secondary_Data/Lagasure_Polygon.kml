@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Lagasure.schema">
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Lagasure">
+      <name>Lagasure</name>
+      <Placemark id="Lagasure.1">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0547633100192,3.66143522994328,0
+                39.0635090600978,3.66194968645717,0
+                39.0636518275509,3.65952263605718,0
+                39.0549060780038,3.65900818034788,0
+                39.0547633100192,3.66143522994328,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lagasure.2">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0387733322487,3.65579590769223,0
+                39.0456975637239,3.65579590737653,0
+                39.0456975637061,3.65358300882332,0
+                39.0387733322363,3.65358300904541,0
+                39.0387733322487,3.65579590769223,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lagasure.3">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0912047556009,3.68275044158476,0
+                39.09712961284,3.68275044197027,0
+                39.0971296136411,3.67996647223803,0
+                39.0912047552995,3.67996647223768,0
+                39.0912047556009,3.68275044158476,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

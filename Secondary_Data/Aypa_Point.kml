@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Aypa.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Aypa">
+      <name>Aypa</name>
+      <Placemark id="Aypa.1">
+        <name>Service</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">178</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1251290004031,5.19326900036413,406
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.2">
+        <name>Service</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">179</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1235340005937,5.18791299978517,415
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">498</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1239320000618,5.20941899958723,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">499</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1287439998358,5.19712799935775,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">500</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1247630006121,5.19239199949124,415
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">501</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1085930004667,5.19384700003906,405
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">523</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1239320000618,5.20941899958723,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">524</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1287439998358,5.19712799935775,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">525</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1247630006121,5.19239199949124,415
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">526</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1085930004667,5.19384700003906,405
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">677</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.0938512990982,5.17882476774889,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">678</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1074980120237,5.19674754386409,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">679</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1248774600268,5.19244325545191,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">680</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1236355673276,5.18806134835262,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.15">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">681</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1241824234801,5.20925820710062,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.16">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">682</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1883657213011,5.21411287970568,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.17">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">841</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1274199999331,5.18890499966602,403
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Aypa.18">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Aypa.schema">
+            <SimpleData name="OBJECTID">864</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Aypa</SimpleData>
+            <SimpleData name="RGUCode">ET070708_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1275129997252,5.18920199987247,415
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

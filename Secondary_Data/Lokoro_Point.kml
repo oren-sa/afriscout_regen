@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Lokoro.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Lokoro">
+      <name>Lokoro</name>
+      <Placemark id="Lokoro.1">
+        <name>Three village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">155</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1808570998753,4.68685870036876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.2">
+        <name>Three village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">156</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1808428995802,4.68686290020275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.3">
+        <name>Health post</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">157</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1776029003536,4.68720639985554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.4">
+        <name>Kebele office</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">158</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1787741000447,4.68553320039695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.5">
+        <name>Three village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">465</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.180843100129,4.6868265001429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.6">
+        <name>Lokorekem village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">466</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1869764000409,4.69962439964638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.7">
+        <name>Awraja village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">467</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1729041000442,4.68879319964651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.8">
+        <name>Ashewa mender village</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">468</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1884998003256,4.66633360011559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.9">
+        <name>Solar Hand dug well near keske river</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">797</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1783073995669,4.69133970016708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.10">
+        <name>Three village hand dug well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">798</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1808550997831,4.68681649968175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.11">
+        <name>Three village hand dug well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">799</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1808556996309,4.68682199993538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.12">
+        <name>Golo village hand dug well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">800</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1839702002646,4.68746039987758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.13">
+        <name>Golo village community pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">801</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.184039299674,4.68749999972528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.14">
+        <name>Ashewa mender hand dug well 1</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">802</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1918215002621,4.66400359968645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Lokoro.15">
+        <name>ashewa mender hand dug well 2</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lokoro.schema">
+            <SimpleData name="OBJECTID">803</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Lokoro</SimpleData>
+            <SimpleData name="RGUCode">ET070706_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.1928413998108,4.66134370005176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

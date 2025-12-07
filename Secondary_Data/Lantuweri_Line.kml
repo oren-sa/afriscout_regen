@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Lantuweri.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Lantuweri">
+      <name>Lantuweri</name>
+      <Placemark id="Lantuweri.1">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">252</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7365672911476,5.11326938327545,0
+            40.7418420883417,5.11341682352764,0
+            40.74978830009,5.11487000025033,0
+            40.7671658550203,5.11828220256166,0
+            40.7840245407,5.12224214415966,0
+            40.7983354605132,5.12550232687096,0
+            40.805974024082,5.12558437381983,0
+            40.8225556969879,5.12833704661745,0
+            40.857302545676,5.12919853778232,0
+            40.8572973808695,5.1291877090456,0
+            40.8572940965454,5.1291761644485,0
+            40.8572927844345,5.12916423314289,0
+            40.8572934805098,5.1291522487773,0
+            40.8572961667847,5.12914055039613,0
+            40.857300766817,5.12912946805056,0
+            40.8573071502049,5.12911931290603,0
+            40.8573151379833,5.12911037094693,0
+            40.8573245062211,5.12910289488275,0
+            40.8573349878195,5.12909709605418,0
+            40.857346290499,5.12909313633924,0
+            40.8573580941008,5.12909112905243,0
+            40.8573700676745,5.12909112815311,0
+            40.8573818712764,5.12909313633924,0
+            40.8573931739559,5.12909709605418,0
+            40.8574036564536,5.12910289578207,0
+            40.857413023792,5.12911037094693,0
+            40.8574210115705,5.12911931200671,0
+            40.8574273958577,5.12912946805056,0
+            40.85743199589,5.12914055039613,0
+            40.8574346812656,5.12915224967662,0
+            40.8574353782402,5.12916423314289,0
+            40.85743406523,5.1291761644485,0
+            40.8574307809059,5.12918770814628,0
+            40.8574256160994,5.12919853868164,0
+            40.8866125950952,5.12983308412959,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Lantuweri.2">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">253</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7852963502464,5.13810277212531,0
+            40.7868735138017,5.13637763951652,0
+            40.7899502707884,5.1348187492859,0
+            40.7927808878277,5.13252143741443,0
+            40.796267879559,5.13149585145243,0
+            40.7989754270744,5.12969082037512,0
+            40.801108645048,5.12616280427005,0
+            40.801683953052,5.12553829345751,0
+            40.8023803718567,5.12390651497373,0
+            40.8078991317396,5.10636281928873,0
+            40.8180118408738,5.08375793967724,0
+            40.8287982996019,5.06695569994565,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Lantuweri.3">
+        <name>Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">254</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.8866125950952,5.12983308412959,0
+            40.8868823098708,5.12953832413439,0
+            40.9141410722527,5.14102347785126,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Lantuweri.4">
+        <name>Stream</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">292</SimpleData>
+            <SimpleData name="FeatureTyp">Stream</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.8448319993973,5.1697240890955,0
+            40.8457837833949,5.16853435887361,0
+            40.847116281891,5.16696391415337,0
+            40.8480442716259,5.16605971958046,0
+            40.849471948072,5.16515552410817,0
+            40.8503047598568,5.16448927486022,0
+            40.8620545381864,5.15326773671671,0
+            40.8855885973359,5.13047725951799,0
+            40.8886212200933,5.12835359054583,0
+            40.8937132669537,5.12711627089925,0
+            40.9005470784849,5.12562196907868,0
+            40.9248080632416,5.11170212215524,0
+            40.9265212753367,5.11075033815763,0
+            40.9317085001472,5.11103587290728,0
+            40.9373818732749,5.11361617804425,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Lantuweri.5">
+        <name>Stream</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">293</SimpleData>
+            <SimpleData name="FeatureTyp">Stream</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.8094851059529,5.15347593966294,0
+            40.8114927003279,5.1524599998292,0
+            40.8182891117531,5.15076335414551,0
+            40.824380532036,5.14947844507424,0
+            40.8372296209503,5.14997337347245,0
+            40.8395614928687,5.15011614084727,0
+            40.8523344397826,5.1462614136334,0
+            40.8579499676169,5.14031276162467,0
+            40.8641841552746,5.13631526703597,0
+            40.8694665589346,5.13274607547106,0
+            40.884490475655,5.12496999656815,0
+            40.9265212753367,5.11075033815763,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark id="Lantuweri.6">
+        <name>Stream</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lantuweri.schema">
+            <SimpleData name="OBJECTID">294</SimpleData>
+            <SimpleData name="FeatureTyp">Stream</SimpleData>
+            <SimpleData name="RGUName">Lantuweri</SimpleData>
+            <SimpleData name="RGUCode">ET050901_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            40.7897235966667,5.1407091495077,0
+            40.7978657221254,5.13602021386185,0
+            40.8033480001102,5.13419278786694,0
+            40.8177275588798,5.12502710441737,0
+            40.8307479695432,5.1233138923223,0
+            40.8385716369715,5.12097250287877,0
+            40.884490475655,5.12496999656815,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Malkahagar.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Malkahagar">
+      <name>Malkahagar</name>
+      <Placemark id="Malkahagar.1">
+        <name>M Hagar Primary School</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">10</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7336799178939,5.35171171042714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.2">
+        <name>Human Health Post</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">11</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7346070325885,5.3524531708772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.3">
+        <name>Hagar Mosque</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">12</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7352240988131,5.35329256030349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.4">
+        <name>Bardow Primary School</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">13</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8415279108845,5.31395780221084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.5">
+        <name>Animal Health Post</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">14</SimpleData>
+            <SimpleData name="FeatureTyp">Infrastructure</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7352237013128,5.35399232728412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.6">
+        <name>Aden Werdher Wel</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">904</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.6993619370039,5.34442663707966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.7">
+        <name>Aden Werther</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">905</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7305774861621,5.31577581140465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.8">
+        <name>Ceel jiq shiri isack</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">906</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8270829003556,5.2971015995592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.9">
+        <name>Ceelasha bardow</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">907</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8394562991689,5.30449280010271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.10">
+        <name>Dagab Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">908</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8059124169246,5.4724563089116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.11">
+        <name>Elweyni Natural Water</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">909</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7968793996646,5.29525030106061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.12">
+        <name>Hager Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">910</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7259437122326,5.36187854975532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.13">
+        <name>Hamur Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">911</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.8063467184264,5.46142701794258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.14">
+        <name>Washaka Danan Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">912</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7729772938671,5.39559120686874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.15">
+        <name>Wells of bardow</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">913</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.83811101681,5.30318191321476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Malkahagar.16">
+        <name>Yaaca sabad cade</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Malkahagar.schema">
+            <SimpleData name="OBJECTID">914</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Malkahagar</SimpleData>
+            <SimpleData name="RGUCode">ET050901_07</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            40.7805863003176,5.3080254000522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

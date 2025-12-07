@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Alo_Taka.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Alo_Taka">
+      <name>Alo Taka</name>
+      <Placemark id="Alo_Taka.1">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">342</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0315259100927,3.69653909480343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">343</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.03405095189,3.69745506150196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">344</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0362942585732,3.69790805091588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">345</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0313670097797,3.70071469202946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">346</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0336927744021,3.70191646597215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">347</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0361704426119,3.70222979786695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">377</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0461218196663,3.70488701212594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">378</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.047882704823,3.70500484939436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">379</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0493200058137,3.70515156119563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">380</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0461405057798,3.70120663827578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">381</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0480553998369,3.70157563011128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">382</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0499568418348,3.7020440626834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.13">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">781</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0096975438067,3.68124526815467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Alo_Taka.14">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Alo_Taka.schema">
+            <SimpleData name="OBJECTID">782</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Alo Taka</SimpleData>
+            <SimpleData name="RGUCode">ET041290_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.006125937562,3.68564529389522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Dambi.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Dambi">
+      <name>Dambi</name>
+      <Placemark id="Dambi.1">
+        <name>Buufata fayyaa namaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">29</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2354033998471,4.84944399984079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.2">
+        <name>Dildila oobru boru huqa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">30</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3051300998742,4.8246629002727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.3">
+        <name>mana barumsa Dambi</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">31</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2740448004272,4.83105790020198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.4">
+        <name>Buufata fayyaa beeyladaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">32</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.300804199854,4.82932950035621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">530</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2700399997462,4.83077429989407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">531</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2682663999744,4.82657400009009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">532</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3008518998953,4.82934040013942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">533</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2973761002269,4.81393759994035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">534</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.257104700022,4.84432140031242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">535</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2393739003853,4.84963239971552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">536</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2371728996097,4.8482360997163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">537</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2278281998116,4.84407370004129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">538</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2955487003123,4.88196710030149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">539</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.296951100413,4.88448349961385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.15">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">540</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3012212001983,4.87360599981707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.16">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">541</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3215626004337,4.87756010031842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.17">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">542</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2716008001369,4.88420750037591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.18">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">543</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2682356998178,4.82662949995154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.19">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">544</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3007736004214,4.82932779973822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.20">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">545</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2644777999106,4.78668680015573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.21">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">546</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2644363996202,4.78670720037707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.22">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">547</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2700256996264,4.83076950021234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.23">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">548</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.3051760003722,4.82471659969138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dambi.24">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambi.schema">
+            <SimpleData name="OBJECTID">549</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dambi</SimpleData>
+            <SimpleData name="RGUCode">ET041207_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.227748599918,4.84408829963536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

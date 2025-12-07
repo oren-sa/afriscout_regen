@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Hidha.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Hidha">
+      <name>Hidha</name>
+      <Placemark id="Hidha.1">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Hidha.schema">
+            <SimpleData name="OBJECTID">550</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Hidha</SimpleData>
+            <SimpleData name="RGUCode">ET041220_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.6639250002386,4.16941500040201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Hidha.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Hidha.schema">
+            <SimpleData name="OBJECTID">551</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Hidha</SimpleData>
+            <SimpleData name="RGUCode">ET041220_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7034347996763,4.20894119987651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Hidha.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Hidha.schema">
+            <SimpleData name="OBJECTID">552</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Hidha</SimpleData>
+            <SimpleData name="RGUCode">ET041220_04</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.7151833000693,4.19599699956194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Elgof.schema">
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Elgof">
+      <name>Elgof</name>
+      <Placemark id="Elgof.1">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0794033240001,3.84823670400004,0
+                39.0877841720001,3.84683989600006,0
+                39.0873558690001,3.84427007800002,0
+                39.0789750210001,3.84566688600006,0
+                39.0794033240001,3.84823670400004,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Elgof.2">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.080634767,3.83678974400004,0
+                39.08876939,3.83678974400004,0
+                39.08876939,3.83415458500002,0
+                39.080634767,3.83415458500002,0
+                39.080634767,3.83678974400004,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Elgof.3">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0794033239323,3.84823670399646,0
+                39.0877841715005,3.84683989527743,0
+                39.0873558686481,3.84427007765493,0
+                39.0789750211296,3.84566688582877,0
+                39.0794033239323,3.84823670399646,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Elgof.4">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Elgof.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Elgof</SimpleData>
+            <SimpleData name="RGUCode">ET051103_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0806347664964,3.8367897446101,0
+                39.0887693898826,3.83678974469363,0
+                39.0887693906903,3.83415458486264,0
+                39.0806347671383,3.83415458474794,0
+                39.0806347664964,3.8367897446101,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

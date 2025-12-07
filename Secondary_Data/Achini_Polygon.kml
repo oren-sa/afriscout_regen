@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Achini.schema">
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Achini">
+      <name>Achini</name>
+      <Placemark id="Achini.1">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Achini.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Achini</SimpleData>
+            <SimpleData name="RGUCode">ET051103_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.267682065,3.81436920500005,0
+                39.273367663,3.81436920500005,0
+                39.273367663,3.81169199300007,0
+                39.267682065,3.81169199300007,0
+                39.267682065,3.81436920500005,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Achini.2">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Achini.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Achini</SimpleData>
+            <SimpleData name="RGUCode">ET051103_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.268098471,3.81972299200004,0
+                39.2743445560001,3.81972299200004,0
+                39.2743445560001,3.81692712600005,0
+                39.268098471,3.81692712600005,0
+                39.268098471,3.81972299200004,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Achini.3">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Achini.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Achini</SimpleData>
+            <SimpleData name="RGUCode">ET051103_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.2445729350001,3.78879339100007,0
+                39.2466008800001,3.79117356500007,0
+                39.2477959720001,3.79015532800003,0
+                39.2457680270001,3.78777515400003,0
+                39.2445729350001,3.78879339100007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Achini.4">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Achini.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Achini</SimpleData>
+            <SimpleData name="RGUCode">ET051103_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.311178612,3.83080533200007,0
+                39.3179005900001,3.83080533200007,0
+                39.3179005900001,3.82830689800005,0
+                39.311178612,3.82830689800005,0
+                39.311178612,3.83080533200007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Achini.5">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Achini.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Achini</SimpleData>
+            <SimpleData name="RGUCode">ET051103_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.2676820652575,3.81436920467242,0
+                39.2733676632344,3.81436920513489,0
+                39.2733676633072,3.81169199286772,0
+                39.2676820650339,3.8116919933991,0
+                39.2676820652575,3.81436920467242,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Achini.6">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Achini.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Achini</SimpleData>
+            <SimpleData name="RGUCode">ET051103_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.2680984706565,3.81972299222389,0
+                39.2743445558011,3.8197229919151,0
+                39.274344555858,3.81692712581839,0
+                39.2680984706397,3.81692712547904,0
+                39.2680984706565,3.81972299222389,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Achini.7">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Achini.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Achini</SimpleData>
+            <SimpleData name="RGUCode">ET051103_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.244572935324,3.78879339072572,0
+                39.2466008800786,3.79117356495928,0
+                39.2477959724874,3.79015532862673,0
+                39.2457680277589,3.78777515392366,0
+                39.244572935324,3.78879339072572,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Achini.8">
+        <name>Farmland</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Achini.schema">
+            <SimpleData name="FeatureTyp">Farmland</SimpleData>
+            <SimpleData name="RGUName">Achini</SimpleData>
+            <SimpleData name="RGUCode">ET051103_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.3111786124851,3.83080533171044,0
+                39.3179005894611,3.83080533154636,0
+                39.3179005893183,3.82830689746107,0
+                39.3111786123429,3.82830689786022,0
+                39.3111786124851,3.83080533171044,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

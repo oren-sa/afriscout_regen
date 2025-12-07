@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Dhidhile.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Dhidhile">
+      <name>Dhidhile</name>
+      <Placemark id="Dhidhile.1">
+        <name>kallo ollaa Tokkone</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">71</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5885613001639,4.90650849996734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.2">
+        <name>Labbu bahit ganda</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">74</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5925613002639,4.88166040000749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.3">
+        <name>Labbu bahit ganda</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">75</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5925455998996,4.88159560025679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.4">
+        <name>Labbu bahiti Ganda</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">76</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5925520003746,4.88154089989268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.5">
+        <name>Qawwa Hullaga</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">85</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.587391999841,4.88840410036897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.6">
+        <name>Rasaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">86</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.594709800417,4.88865849969005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.7">
+        <name>Rasaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">87</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.594728099822,4.88872159972209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.8">
+        <name>Rasaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">88</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5947071995777,4.88874769984653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.9">
+        <name>sululaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">89</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4712903996323,4.86543130001451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.10">
+        <name>Ollaa Halakee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">181</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5814167998455,4.89527619963695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.11">
+        <name>Ollaa Godaanaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">182</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5907725999755,4.90013850029158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">570</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5814167998455,4.89527619963695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">577</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5813459998181,4.89327439959391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">579</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5907725999755,4.90013850029158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dhidhile.15">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dhidhile.schema">
+            <SimpleData name="OBJECTID">580</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dhidhile</SimpleData>
+            <SimpleData name="RGUCode">ET041208_01</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5912125995819,4.89875019976193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

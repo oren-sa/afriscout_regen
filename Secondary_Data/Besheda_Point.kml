@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Besheda.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Besheda">
+      <name>Besheda</name>
+      <Placemark id="Besheda.1">
+        <name>Animal Health Post (AHP)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">166</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4919806445911,5.15038438702987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.2">
+        <name>Livestock Marketing Cooperative Office</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">167</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5133173820915,5.13478511014478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.3">
+        <name>Pastoralist Training Center (PTC)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">168</SimpleData>
+            <SimpleData name="FeatureTyp">Service</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4908130260004,5.14875126136167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.4">
+        <name>Settlement in Argude Village (Gempela Sub Village)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">473</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5091834756369,5.14534909908173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.5">
+        <name>Settlement (Argude Village-2)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">474</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4880445808927,5.15428298407249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.6">
+        <name>Settlment (Argude Village-3)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">475</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4928084561454,5.15620130454664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.7">
+        <name>Settlement (Argude Village-1)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">476</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5036026499424,5.14332049564439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.8">
+        <name>Settlement (Argude Village)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">477</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5003640041955,5.13986553146913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.9">
+        <name>Settlement (Gune Village 1)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">478</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4748942109991,5.18127589156921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.10">
+        <name>Settlement (Gune Village 2)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">479</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4815148085616,5.17970801261475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.11">
+        <name>Settlement (Gune Village)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">480</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4753437973784,5.17549151512139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.12">
+        <name>Settlement (Gune Village)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">481</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4753437973784,5.17549151512139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.13">
+        <name>Settlement (Mega Village)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">482</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4119326178961,5.14785811675875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.14">
+        <name>Settlement (Syilbiya- Dide Sub Village)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">483</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4395497322344,5.15722782400491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.15">
+        <name>Syilbiya</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">683</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4489801877855,5.14480763886149,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.16">
+        <name>Syilbiya Dide</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">684</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4394731387744,5.15741416353285,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.17">
+        <name>Mega</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">685</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4123129816588,5.14924326786257,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.18">
+        <name>Gune</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">686</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4770344247989,5.17854921727263,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.19">
+        <name>Argude</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">687</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4941014150483,5.14918366259599,-100000
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.20">
+        <name>Boro Water Point</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">816</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4878723850026,5.09047272773427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.21">
+        <name>Chillo Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">817</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4558334021898,5.15398245042979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.22">
+        <name>Water Point (Cistern)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">818</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4489422076168,5.14700175892409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.23">
+        <name>Dacho Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">819</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5012365354378,5.1534165969984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.24">
+        <name>Genbela Shallow Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">820</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5084348421943,5.13549002574416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.25">
+        <name>Guyillo Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">821</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4894439781571,5.14249389457763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.26">
+        <name>Guyillo Hand Dug Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">822</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4877769759267,5.14749147305309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.27">
+        <name>Konsona Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">823</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4834703996393,5.17001009958648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.28">
+        <name>Lomach Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">824</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5010630966846,5.1540645657272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.29">
+        <name>Lomacha Ciroshe</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">825</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5000000917309,5.14999709039347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.30">
+        <name>makle Shallow well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">826</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5058397054381,5.14188480893682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.31">
+        <name>Water Point (Pond- Mekone Pula)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">827</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4829035047929,5.17173578707695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.32">
+        <name>Mokone Pulla Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">828</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4866753289033,5.17615083059638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.33">
+        <name>Muda Hand Dug Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">829</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4844454230179,5.15333579561053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.34">
+        <name>Oto Noko Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">830</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4411381292213,5.13619231082652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.35">
+        <name>Sakna Kana Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">831</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5041914369853,5.14745888432009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.36">
+        <name>Water Point Susila Wonbn Bayta</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">832</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5041097983286,5.14763540325129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.37">
+        <name>Water Point or Pond(Werle Pulo)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">833</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4349401033032,5.14408061612755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.38">
+        <name>Boro Water Point</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">845</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4878723850026,5.09047272773427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.39">
+        <name>Chillo Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">846</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4558334021898,5.15398245042979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.40">
+        <name>Water Point (Cistern)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">847</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4489422076168,5.14700175892409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.41">
+        <name>Dacho Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">848</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5012365354378,5.1534165969984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.42">
+        <name>Genbela Shallow Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">849</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5084348421943,5.13549002574416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.43">
+        <name>Guyillo Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">850</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4894439781571,5.14249389457763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.44">
+        <name>Guyillo Hand Dug Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">851</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4877769759267,5.14749147305309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.45">
+        <name>Konsona Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">852</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4834703996393,5.17001009958648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.46">
+        <name>Lomach Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">853</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5010630966846,5.1540645657272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.47">
+        <name>Lomacha Ciroshe</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">854</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5000000917309,5.14999709039347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.48">
+        <name>makle Shallow well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">855</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5058397054381,5.14188480893682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.49">
+        <name>Water Point (Pond- Mekone Pula)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">856</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4829035047929,5.17173578707695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.50">
+        <name>Mokone Pulla Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">857</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4866753289033,5.17615083059638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.51">
+        <name>Muda Hand Dug Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">858</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4844454230179,5.15333579561053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.52">
+        <name>Oto Noko Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">859</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4411381292213,5.13619231082652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.53">
+        <name>Sakna Kana Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">860</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5041914369853,5.14745888432009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.54">
+        <name>Water Point Susila Wonbn Bayta</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">861</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5041097983286,5.14763540325129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.55">
+        <name>Water Point or Pond(Werle Pulo)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">862</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4349401033032,5.14408061612755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.56">
+        <name>Boro Water Point</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">865</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4878723850026,5.09047272773427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.57">
+        <name>Chillo Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">866</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4558334021898,5.15398245042979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.58">
+        <name>Water Point (Cistern)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">867</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4489422076168,5.14700175892409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.59">
+        <name>Dacho Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">868</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5012365354378,5.1534165969984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.60">
+        <name>Genbela Shallow Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">869</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5084348421943,5.13549002574416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.61">
+        <name>Guyillo Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">870</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4894439781571,5.14249389457763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.62">
+        <name>Guyillo Hand Dug Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">871</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4877769759267,5.14749147305309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.63">
+        <name>Konsona Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">872</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4834703996393,5.17001009958648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.64">
+        <name>Lomach Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">873</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5010630966846,5.1540645657272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.65">
+        <name>Lomacha Ciroshe</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">874</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5000000917309,5.14999709039347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.66">
+        <name>makle Shallow well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">875</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5058397054381,5.14188480893682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.67">
+        <name>Water Point (Pond- Mekone Pula)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">876</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4829035047929,5.17173578707695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.68">
+        <name>Mokone Pulla Pond</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">877</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4866753289033,5.17615083059638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.69">
+        <name>Muda Hand Dug Well</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">878</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4844454230179,5.15333579561053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.70">
+        <name>Oto Noko Chirosh (Tulla)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">879</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4411381292213,5.13619231082652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.71">
+        <name>Sakna Kana Chirosh</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">880</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5041914369853,5.14745888432009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.72">
+        <name>Water Point Susila Wonbn Bayta</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">881</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.5041097983286,5.14763540325129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Besheda.73">
+        <name>Water Point or Pond(Werle Pulo)</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Besheda.schema">
+            <SimpleData name="OBJECTID">882</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Besheda</SimpleData>
+            <SimpleData name="RGUCode">ET070704_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            36.4349401033032,5.14408061612755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

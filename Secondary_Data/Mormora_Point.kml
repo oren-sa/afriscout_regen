@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Mormora.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Mormora">
+      <name>Mormora</name>
+      <Placemark id="Mormora.1">
+        <name>Cillaqo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">122</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8439603004276,3.67896090022543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.2">
+        <name>Tele Area</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">123</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8388252003228,3.71269759981442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.3">
+        <name>Tele Area</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">124</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.838351700071,3.71216720035608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.4">
+        <name>kebele office</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">125</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8547419001187,3.70817199993792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.5">
+        <name>mana Barmusa mormora</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">126</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.852530100284,3.69363560030274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.6">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">626</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.839369899901,3.71118529986177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.7">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">627</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8460573000044,3.71375579969043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.8">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">628</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8480078998447,3.67625469989451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.9">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">629</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8487591997773,3.67947069981301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.10">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">630</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8516825998722,3.69418870044819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">631</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8628201997925,3.69950820024332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">632</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8635850003475,3.70005000040726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">633</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8698190998716,3.69531809965065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Mormora.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Mormora.schema">
+            <SimpleData name="OBJECTID">634</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Mormora</SimpleData>
+            <SimpleData name="RGUCode">ET041210_05</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.8724487004472,3.69438840030449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

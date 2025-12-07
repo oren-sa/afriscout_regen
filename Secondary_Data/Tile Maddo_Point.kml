@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Tile_Maddo.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Tile_Maddo">
+      <name>Tile Maddo</name>
+      <Placemark id="Tile_Maddo.1">
+        <name>other01</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">127</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.016180000107,3.61117829973881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.2">
+        <name>other02</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">128</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0161566995721,3.61122670035201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.3">
+        <name>other04</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">129</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0178715996946,3.61242689958181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.4">
+        <name>other05</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">130</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0178766997499,3.61242669993231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.5">
+        <name>other03</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">131</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0178766997499,3.61242669993231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.6">
+        <name>Shoba Guyo Mineral Rock site</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">132</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0106001996396,3.61459909956886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.7">
+        <name>Okotu Adi Mineral Rock site</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">133</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0105900004282,3.6146217004312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.8">
+        <name>Guyo Godana Buriel site</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">134</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0106056000685,3.61459710037593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.9">
+        <name>IOM compound</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">135</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0106016997087,3.61461329986395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.10">
+        <name>Tille maddo Green Area</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">136</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0106095004281,3.61458559984561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.11">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">652</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0105216996168,3.61647420042408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.12">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">653</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.012199500007,3.61352220008951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.13">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">654</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0133847003437,3.61408870013344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.14">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">655</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.013748500393,3.61393969955753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.15">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">656</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0141616003776,3.6131327999388,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.16">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">657</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0140182997048,3.61081830022442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.17">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">658</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0137205998259,3.61123579969245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.18">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">659</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0147651003292,3.61150440020793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.19">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">660</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0148383995725,3.61191840041391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.20">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">661</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0149817002453,3.6120599995694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.21">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">662</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0161349998305,3.61158829976029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.22">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">663</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0167450999065,3.61183469961173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.23">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">664</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0176333000368,3.61213999966128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.24">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">665</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0158754995547,3.61025600001443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.25">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">666</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0155001000496,3.60959509993398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.26">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">667</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0161117001949,3.60810330002732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.27">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">668</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0168593003165,3.6077615000932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Tile_Maddo.28">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Tile_Maddo.schema">
+            <SimpleData name="OBJECTID">669</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Tile Maddo</SimpleData>
+            <SimpleData name="RGUCode">ET041210_06</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            39.0168500004272,3.60777830032833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

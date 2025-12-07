@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Dharito.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Dharito">
+      <name>Dharito</name>
+      <Placemark id="Dharito.1">
+        <name>Doofi</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dharito.schema">
+            <SimpleData name="OBJECTID">41</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dharito</SimpleData>
+            <SimpleData name="RGUCode">ET041207_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2327364998896,4.67367530017503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dharito.2">
+        <name>dandii Asibaltii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dharito.schema">
+            <SimpleData name="OBJECTID">43</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dharito</SimpleData>
+            <SimpleData name="RGUCode">ET041207_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2241354998535,4.68903429979315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dharito.3">
+        <name>Doofi</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dharito.schema">
+            <SimpleData name="OBJECTID">44</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dharito</SimpleData>
+            <SimpleData name="RGUCode">ET041207_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2327000998298,4.67368929992131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dharito.4">
+        <name>Doofi</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dharito.schema">
+            <SimpleData name="OBJECTID">50</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Dharito</SimpleData>
+            <SimpleData name="RGUCode">ET041207_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2327198003786,4.67366519988911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Dharito.5">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dharito.schema">
+            <SimpleData name="OBJECTID">567</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Dharito</SimpleData>
+            <SimpleData name="RGUCode">ET041207_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.2370003997487,4.66200949963877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Gayo.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Gayo">
+      <name>Gayo</name>
+      <Placemark id="Gayo.1">
+        <name>Masjiida Gaayoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">18</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5394482997992,4.22008330000432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.2">
+        <name>Mana Barumsa Haayskuulii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">19</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5396782996139,4.21910999972675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.3">
+        <name>Buufata Fayyaa Namaa Gaayoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">20</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5374582997608,4.21967999993211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.4">
+        <name>PTC Gaayoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">21</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5348266999923,4.21889830021644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.5">
+        <name>Charchii Gaayoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">22</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5330300002344,4.2196149996326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.6">
+        <name>PTC Gaayoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">23</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5332032995926,4.21999829968183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.7">
+        <name>Mana Barumsa Koorichaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">24</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4810600003188,4.17076670032299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.8">
+        <name>Mana Barumsa Ulaagaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">25</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4824082999032,4.22476000037375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.9">
+        <name>Mana Barumsa Bakkee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">26</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5760726999952,4.26845569967082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.10">
+        <name>other02</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">93</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5394482997992,4.22008330000432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.11">
+        <name>other01</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">94</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5396782996139,4.21910999972675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.12">
+        <name>other04</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">95</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5374582997608,4.21967999993211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.13">
+        <name>other06</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">96</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5348266999923,4.21889830021644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.14">
+        <name>other05</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">97</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5330300002344,4.2196149996326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.15">
+        <name>other06</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">98</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5332032995926,4.21999829968183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.16">
+        <name>other07</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">99</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4810600003188,4.17076670032299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.17">
+        <name>other08</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">100</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4824082999032,4.22476000037375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.18">
+        <name>other09</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">101</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5760726999952,4.26845569967082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.19">
+        <name>Ollaa Waariyoo Jiloo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">190</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.542881500381,4.17171339955377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.20">
+        <name>Ollaa Jiloo Aagaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">191</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5332208003996,4.17818369971803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.21">
+        <name>Ollaa Elemaa Godaanaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">192</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4900839002519,4.15746430003747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.22">
+        <name>Ollaa Bulee Dhaddachaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">193</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4720082996434,4.16198500040747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.23">
+        <name>Ollaa Waaqoo Jaldeessaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">194</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4788556999306,4.17236099956051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.24">
+        <name>Ollaa Waaqoo Bonayyaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">195</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4783076998405,4.2211178000465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.25">
+        <name>Ollaa Duuba Kaarruu</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">196</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4726883004247,4.22640330007226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.26">
+        <name>Ollaa Liiban Guyyoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">197</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5670717003987,4.27442169960182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.27">
+        <name>Ollaa Abkunuu Haroo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">198</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5494002002591,4.29823030018827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.28">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">581</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.542881500381,4.17171339955377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.29">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">582</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5332208003996,4.17818369971803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.30">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">583</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4900839002519,4.15746430003747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.31">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">584</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4720082996434,4.16198500040747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.32">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">585</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4788556999306,4.17236099956051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.33">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">586</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4783076998405,4.2211178000465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.34">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">587</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4726883004247,4.22640330007226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.35">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">588</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5670717003987,4.27442169960182,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.36">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">589</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5494002002591,4.29823030018827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.37">
+        <name>Eela Gaayyoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">704</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.535804499578,4.22343300033276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.38">
+        <name>Haandi Paampii Ollaa Jiloo Aagaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">705</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5428472002382,4.16062489991924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.39">
+        <name>Haroo Halakee Guyyoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">706</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.488204100439,4.15518819957578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.40">
+        <name>Haroo Dheengee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">707</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4763832999494,4.16487000035028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.41">
+        <name>Haroo Halakee Guyyoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">708</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4480465004457,4.21329770022874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.42">
+        <name>Haandi Paampii Ollaa Dullacha Kaarruu</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">709</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4871933002307,4.22473330040157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.43">
+        <name>Karbatte</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">710</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4904242999415,4.22418559978564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.44">
+        <name>Haandi Paampii Ollaa Liiban Guyyoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">711</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5670648997254,4.27448960021491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.45">
+        <name>Haandi Paampii Ollaa Abkunuu Haroo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">712</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.54793760044,4.29613560017788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gayo.46">
+        <name>Haroo Seefii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gayo.schema">
+            <SimpleData name="OBJECTID">713</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gayo</SimpleData>
+            <SimpleData name="RGUCode">ET041220_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5650333995718,4.21852020004724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

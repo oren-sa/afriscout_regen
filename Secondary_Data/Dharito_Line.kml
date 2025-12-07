@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Dharito.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Dharito">
+      <name>Dharito</name>
+      <Placemark id="Dharito.1">
+        <name>Addis Ababa to Moyale Main Road</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dharito.schema">
+            <SimpleData name="OBJECTID">130</SimpleData>
+            <SimpleData name="FeatureTyp">Road</SimpleData>
+            <SimpleData name="RGUName">Dharito</SimpleData>
+            <SimpleData name="RGUCode">ET041207_03</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <LineString>
+          <coordinates>
+            38.2383059806365,4.65522264980547,0
+            38.2373697666015,4.65906928761757,0
+            38.2373790583969,4.66022301797796,0
+            38.2367213643995,4.66281496573811,0
+            38.2363022902186,4.66682806356431,0
+            38.2357980844141,4.66835671768843,0
+            38.2336429598548,4.67190111044795,0
+            38.232281067917,4.67506826998471,0
+            38.2301406463738,4.67843033329331,0
+            38.2281897749382,4.68217989198848,0
+            38.2266413033535,4.68516077135257,0
+            38.2249037016446,4.68862223043163,0
+            38.22267595683,4.6906439180824,0
+            38.2204542770433,4.69295285998652,0
+            38.2179240317687,4.69497944984181,0
+            38.2166600688072,4.69632945184276,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

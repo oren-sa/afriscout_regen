@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Gada.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Gada">
+      <name>Gada</name>
+      <Placemark id="Gada.1">
+        <name>Waajjira Bulchinsaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">27</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4924450001367,4.86689279996278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.2">
+        <name>Mana Barumsa Kubii Annoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">28</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4905411002916,4.8681509002439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.3">
+        <name>Angee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">51</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4622176997871,4.89460229985627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.4">
+        <name>Angee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">52</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4621462999119,4.89467490032644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.5">
+        <name>Angee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">53</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4621615002531,4.89471030034014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.6">
+        <name>Bulee weeni</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">54</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5016215995572,4.83514129983115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.7">
+        <name>bulee weeni</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">55</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.501644400069,4.83513579957753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.8">
+        <name>bulee weeni</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">56</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5016352000046,4.83514699973432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.9">
+        <name>burotaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">57</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4623188995976,4.89305779967776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.10">
+        <name>burotaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">58</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4624777000859,4.89299500001931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.11">
+        <name>Danbala Adii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">59</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5597630000624,4.85285470028424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.12">
+        <name>Danbala Adii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">60</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5598034003067,4.8528625999291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.13">
+        <name>Danbala Adii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">61</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5597573001593,4.85287740007203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.14">
+        <name>Danbala badana</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">62</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.576929600121,4.92449359999966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.15">
+        <name>Danbala badana</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">63</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5769156003747,4.92445230043336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.16">
+        <name>Danbala badanaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">64</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5769474004023,4.92448790009655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.17">
+        <name>Danbala buyyo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">65</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4610923996946,4.85746609998057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.18">
+        <name>Danbala buyyo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">66</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4610536002435,4.85745260025732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.19">
+        <name>Danbala buyyoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">67</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4610269002713,4.8574455001098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.20">
+        <name>Didaa Xayyara</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">68</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5785773002023,4.92311110009723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.21">
+        <name>Didaa Xayyara</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">69</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5786047996718,4.9231246996452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.22">
+        <name>Didaa xayyaraa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">70</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5785179998059,4.92309820022183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.23">
+        <name>karaa qoraa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">72</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5016910002395,4.83523350012598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.24">
+        <name>karaa qoraa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">73</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5016624998245,4.83514980022318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.25">
+        <name>labbu seena gandaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">77</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4566633995963,4.85485500025811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.26">
+        <name>labbu seena gandaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">78</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4566383004173,4.85485710017508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.27">
+        <name>labbu seena gandaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">79</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4566467000852,4.854872299617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.28">
+        <name>mana barumsa kubii Annoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">80</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5512699996108,4.89810500004575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.29">
+        <name>mana barumsaa gadda</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">81</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4905411002916,4.8681509002439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.30">
+        <name>Qaba burii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">82</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5031115000957,4.91540130032979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.31">
+        <name>Qaba burii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">83</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5030864998421,4.91563690022281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.32">
+        <name>Qaba burii</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">84</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5029328003085,4.91556310005706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.33">
+        <name>Wajjira bulchinsa ganda</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">90</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4924450001367,4.86689279996278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.34">
+        <name>wajjira bulchinsaa ganda</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">91</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4923762002015,4.8668162002075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.35">
+        <name>walqixe qabaa buriif irressa awuxa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">92</SimpleData>
+            <SimpleData name="FeatureTyp">Other Feature</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5290889003325,4.90713960011249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.36">
+        <name>Ollaa Huqaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">180</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5498858998145,4.89649579994125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.37">
+        <name>Ollaa ilma Abbee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">183</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5725735997918,4.90006789991372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.38">
+        <name>Ollaa Jardoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">184</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.556714800148,4.89743470025127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.39">
+        <name>Ollaa Jardoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">185</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5360237003335,4.89906529972387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.40">
+        <name>Ollaa Dooyyoo</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">186</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4911078998098,4.8787915995527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.41">
+        <name>Ollaa Jaldeessaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">187</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4915239999327,4.86704269986075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.42">
+        <name>Ollaa Tokkone</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">188</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4844310001906,4.86333479956141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.43">
+        <name>Ollaa Diida innee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">189</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4641646996412,4.86150390038472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.44">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">568</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4641646996412,4.86150390038472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.45">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">569</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4915239999327,4.86704269986075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.46">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">571</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5725735997918,4.90006789991372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.47">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">572</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.556714800148,4.89743470025127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.48">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">573</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4911078998098,4.8787915995527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.49">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">574</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4844310001906,4.86333479956141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.50">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">575</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5360237003335,4.89906529972387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.51">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">576</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5359758995681,4.89909530020799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.52">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">578</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5498858998145,4.89649579994125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.53">
+        <name>Haroo Bulee</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">696</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5640996002164,4.8896431997739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.54">
+        <name>Ealota Zoonii 1ffaa keeysaa isa guddinaan 1ffaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">697</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.564044100355,4.88959249959424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.55">
+        <name>Ealota Zoonii 1ffaa keeysaa isa guddinaan 2ffaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">698</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5639944002214,4.88960419977406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.56">
+        <name>Eela Biirkaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">699</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5639647999356,4.88961129992163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.57">
+        <name>Eelota Zoonii 3ffaa keeysaa isa guddinaan 1ffaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">700</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.5628235998293,4.89003750033044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.58">
+        <name>Eelota Zoonii 3ffaa keeysaa isa guddinaan 2ffaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">701</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4711245997206,4.8644887997184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.59">
+        <name>Eelota Zoonii 3ffaa keeysaa isa guddinaan 4ffaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">702</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4958047998517,4.861515300191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Gada.60">
+        <name>Eelota Zoonii 3ffaa keeysaa isa guddinaan 5ffaa</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Gada.schema">
+            <SimpleData name="OBJECTID">703</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Gada</SimpleData>
+            <SimpleData name="RGUCode">ET041208_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            38.4782952001634,4.82230519982517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

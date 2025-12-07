@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Kajamakin.schema">
+      <SimpleField name="OBJECTID" type="float"/>
+      <SimpleField name="FeatureTyp" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+    </Schema>
+    <Document id="Kajamakin">
+      <name>Kajamakin</name>
+      <Placemark id="Kajamakin.1">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">491</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9473520003946,5.15997799938521,419
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.2">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">492</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.854368000383,5.22124700004906,408
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.3">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">516</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9473520003946,5.15997799938521,419
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.4">
+        <name>Settlement</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">517</SimpleData>
+            <SimpleData name="FeatureTyp">Settlement</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.854368000383,5.22124700004906,408
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.5">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">835</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9500109998078,5.12980400005461,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.6">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">836</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9244600005287,5.07824799944569,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.7">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">837</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9279569999157,5.08827499959159,417
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.8">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">838</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9500109998078,5.12980400005461,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.9">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">839</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9244600005287,5.07824799944569,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.10">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">840</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9279569999157,5.08827499959159,417
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.11">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">842</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9500109998078,5.12980400005461,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.12">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">843</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9244600005287,5.07824799944569,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.13">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">844</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9279569999157,5.08827499959159,417
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.14">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">884</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9500109998078,5.12980400005461,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.15">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">885</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9244600005287,5.07824799944569,418
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Kajamakin.16">
+        <name>WaterPoint</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kajamakin.schema">
+            <SimpleData name="OBJECTID">886</SimpleData>
+            <SimpleData name="FeatureTyp">WaterPoint</SimpleData>
+            <SimpleData name="RGUName">Kajamakin</SimpleData>
+            <SimpleData name="RGUCode">ET070708_02</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            35.9279569999157,5.08827499959159,417
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
