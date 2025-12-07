@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Kola_Keja.schema">
+      <SimpleField name="Woreda" type="string"/>
+      <SimpleField name="ADM3" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+      <SimpleField name="PadName" type="string"/>
+      <SimpleField name="PadCode" type="string"/>
+      <SimpleField name="Note" type="string"/>
+      <SimpleField name="Date" type="string"/>
+      <SimpleField name="Cohort" type="float"/>
+    </Schema>
+    <Document id="Kola_Keja">
+      <name>Kola_Keja</name>
+      <Placemark id="Kola_Keja.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P15</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_15</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.453684261,5.05609454000006,0
+                36.4710816910001,5.05789698200005,0
+                36.473373397,5.05490011500007,0
+                36.475132208,5.05268131300005,0
+                36.4749308680001,5.05174969200004,0
+                36.474593482,5.05019882700003,0
+                36.4741660670001,5.04849870500004,0
+                36.4737264950001,5.04652467400007,0
+                36.4732410510001,5.04652910700003,0
+                36.4552370000001,5.04659500000002,0
+                36.453684261,5.05609454000006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P1</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_01</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.3689203810001,5.02520541500007,0
+                36.3689600000001,5.02517500000005,0
+                36.3587630000001,5.01278200000007,0
+                36.3564713810001,5.01465384700003,0
+                36.3522597360001,5.01808027200002,0
+                36.348916839,5.02069258700004,0
+                36.346670896,5.02244768600002,0
+                36.348405009,5.02557557300003,0
+                36.349599815,5.02797219800004,0
+                36.351474513,5.03157181600005,0
+                36.352781011,5.03397210400004,0
+                36.353657642,5.03558264500003,0
+                36.3536846120001,5.03563219400007,0
+                36.354431,5.03632900000002,0
+                36.3689203810001,5.02520541500007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P2</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_02</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.3688450000001,5.00471500000003,0
+                36.3671789570001,5.00594502100006,0
+                36.364252219,5.00830068600004,0
+                36.36178749,5.01031285300007,0
+                36.3587630000001,5.01278200000007,0
+                36.3689600000001,5.02517500000005,0
+                36.3689203810001,5.02520541500007,0
+                36.3813210000001,5.01731300000006,0
+                36.3688450000001,5.00471500000003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P3</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_03</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.3816101030001,5.01709267800004,0
+                36.403716,5.00024600000006,0
+                36.3967818310001,4.99839974900004,0
+                36.392270373,4.99731471500007,0
+                36.3849606690001,4.99543018200006,0
+                36.381713688,4.99463180400005,0
+                36.380287181,4.99575720400003,0
+                36.378964427,4.99680075100002,0
+                36.3760519670001,4.99914214100005,0
+                36.374132704,5.00065721500005,0
+                36.3718831510001,5.00239724400006,0
+                36.3688450000001,5.00471500000003,0
+                36.3813210000001,5.01731300000006,0
+                36.3816101030001,5.01709267800004,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P4</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_04</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.3861010000001,5.04116500000003,0
+                36.3929901600001,5.03768584000005,0
+                36.392820176,5.03738716100003,0
+                36.3816758230001,5.01780544300004,0
+                36.3816101030001,5.01709267800004,0
+                36.3813210000001,5.01731300000006,0
+                36.3689203810001,5.02520541500007,0
+                36.354431,5.03632900000002,0
+                36.3553351890001,5.03722184500003,0
+                36.3559029400001,5.03771576000003,0
+                36.3564773300001,5.03825691000003,0
+                36.3575123960001,5.03932766800006,0
+                36.3600108300001,5.04171902600007,0
+                36.3622951130001,5.04389623400004,0
+                36.364686471,5.04614482400007,0
+                36.366306824,5.04755118500003,0
+                36.368587597,5.04878483600004,0
+                36.3731762400001,5.04700516400004,0
+                36.3861010000001,5.04116500000003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P5</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_05</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.406862,5.03133600000007,0
+                36.4104418920001,5.02993853600003,0
+                36.414706,5.02604500000007,0
+                36.418178277,5.02103979700007,0
+                36.4214857280001,5.01616190200002,0
+                36.42415515,5.01194840000005,0
+                36.4254686130001,5.00777958400005,0
+                36.4254000350001,5.00657184800002,0
+                36.4233799580001,5.00567565200004,0
+                36.4198150130001,5.00469580300006,0
+                36.4157120360001,5.00358236900007,0
+                36.409478635,5.00184044900004,0
+                36.403716,5.00024600000006,0
+                36.3816101030001,5.01709267800004,0
+                36.3816758230001,5.01780544300004,0
+                36.392820176,5.03738716100003,0
+                36.3935457640001,5.03747525700004,0
+                36.406862,5.03133600000007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P6</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_06</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.3861010000001,5.04116500000003,0
+                36.3731762400001,5.04700516400004,0
+                36.368587597,5.04878483600004,0
+                36.3693490250001,5.04978420900005,0
+                36.3713239780001,5.05192572400006,0
+                36.3728944220001,5.05330581200008,0
+                36.3750597310001,5.05566147900004,0
+                36.377724728,5.05844544700005,0
+                36.3791754420001,5.05974010700004,0
+                36.3794479320001,5.05978671600008,0
+                36.3828048770001,5.06036091300007,0
+                36.3862120000001,5.06064000000003,0
+                36.3861010000001,5.04116500000003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P7</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_007</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.406862,5.03133600000007,0
+                36.3935457640001,5.03747525700004,0
+                36.392820176,5.03738716100003,0
+                36.3929901600001,5.03768584000005,0
+                36.3861010000001,5.04116500000003,0
+                36.3862120000001,5.06064000000003,0
+                36.390668996,5.06123120000007,0
+                36.3939931030001,5.06134839000003,0
+                36.3984005730001,5.06168742600005,0
+                36.4029738130001,5.06214660800003,0
+                36.407292779,5.06264483800004,0
+                36.4096223830001,5.06283923300003,0
+                36.410804898,5.06296259800007,0
+                36.410806,5.06293800000003,0
+                36.406862,5.03133600000007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P8</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_08</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.453684261,5.05609454000006,0
+                36.4552370000001,5.04659500000002,0
+                36.4563230840001,5.03586912100008,0
+                36.4568640000001,5.03248500000007,0
+                36.414706,5.02604500000007,0
+                36.4104418920001,5.02993853600003,0
+                36.406862,5.03133600000007,0
+                36.410806,5.06293800000003,0
+                36.410804898,5.06296259800007,0
+                36.4113275610001,5.06301712400005,0
+                36.413810115,5.06319682600002,0
+                36.418006039,5.06359240900002,0
+                36.420428857,5.06385742400005,0
+                36.425145285,5.06441882200005,0
+                36.43208473,5.06526335400002,0
+                36.4386646340001,5.06610379100005,0
+                36.4447826970001,5.06676642200006,0
+                36.4490329430001,5.06690881500003,0
+                36.4494184590001,5.06694652200002,0
+                36.4506367450001,5.06706589500004,0
+                36.450813442,5.06656297900003,0
+                36.453684261,5.05609454000006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P9</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_09</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.45781192,5.02540654900002,0
+                36.457867354,5.02499260500002,0
+                36.4588135230001,5.02072451800007,0
+                36.459494905,5.01669780400005,0
+                36.4605910000001,5.00921900000003,0
+                36.460562501,5.00920372300004,0
+                36.435141,4.99557600000003,0
+                36.43116021,5.00017835500006,0
+                36.4280589890001,5.00403260000007,0
+                36.425617935,5.00666851800003,0
+                36.4254000350001,5.00657184800002,0
+                36.4254686130001,5.00777958400005,0
+                36.42415515,5.01194840000005,0
+                36.4214857280001,5.01616190200002,0
+                36.418178277,5.02103979700007,0
+                36.414706,5.02604500000007,0
+                36.4568640000001,5.03248500000007,0
+                36.45781192,5.02540654900002,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P10</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_10</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.4624834540001,4.99170953300006,0
+                36.4624611420001,4.98994411500007,0
+                36.4600669750001,4.99068868000006,0
+                36.458054142,4.98960407100003,0
+                36.456019702,4.98849762200007,0
+                36.4536997280001,4.98710563700007,0
+                36.451736673,4.98599918800005,0
+                36.4492165840001,4.98450976900006,0
+                36.4464899610001,4.98564227000003,0
+                36.4440629110001,4.98678441000004,0
+                36.441803507,4.98779797700007,0
+                36.4405294110001,4.98924715300006,0
+                36.4382867680001,4.99242968100003,0
+                36.435141,4.99557600000003,0
+                36.460562501,5.00920372300004,0
+                36.4610433390001,5.00624185700002,0
+                36.462334792,4.99227144700006,0
+                36.4624834540001,4.99170953300006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P11</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_11</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.4610433390001,5.00624185700002,0
+                36.470569595,5.00645209600003,0
+                36.470781877,5.00513243500006,0
+                36.4715908950001,4.99969536500004,0
+                36.47284921,4.99784636800007,0
+                36.4739010550001,4.99734628400006,0
+                36.472721139,4.99436537300005,0
+                36.4722542740001,4.99329809700004,0
+                36.471245873,4.99299718300006,0
+                36.470529528,4.99464622300007,0
+                36.4688069260001,4.99380619900006,0
+                36.4670580210001,4.99308046400006,0
+                36.4652496320001,4.99255698200005,0
+                36.462483908,4.99174546000006,0
+                36.4624834540001,4.99170953300006,0
+                36.462334792,4.99227144700006,0
+                36.4610433390001,5.00624185700002,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P12</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_12</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.45781192,5.02540654900002,0
+                36.4724340000001,5.02623600000004,0
+                36.471801477,5.02417882900005,0
+                36.470302417,5.01922479200005,0
+                36.469262476,5.01619536200008,0
+                36.4696885160001,5.01192936400003,0
+                36.470569595,5.00645209600003,0
+                36.4610433390001,5.00624185700002,0
+                36.460562501,5.00920372300004,0
+                36.4605910000001,5.00921900000003,0
+                36.459494905,5.01669780400005,0
+                36.4588135230001,5.02072451800007,0
+                36.457867354,5.02499260500002,0
+                36.45781192,5.02540654900002,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P13</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_13</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.4737264950001,5.04652467400007,0
+                36.473355068,5.04485666600004,0
+                36.4727651590001,5.04243643400002,0
+                36.47240824,5.04100875700004,0
+                36.472297154,5.04059340800006,0
+                36.472548359,5.03815364300004,0
+                36.4725652830001,5.03521714900006,0
+                36.472536731,5.03213336800007,0
+                36.472793713,5.02897820200008,0
+                36.4724340000001,5.02623600000004,0
+                36.45781192,5.02540654900002,0
+                36.4568640000001,5.03248500000007,0
+                36.4563230840001,5.03586912100008,0
+                36.4552370000001,5.04659500000002,0
+                36.4732410510001,5.04652910700003,0
+                36.4737264950001,5.04652467400007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Kola_Keja.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Kola_Keja.schema">
+            <SimpleData name="Woreda">Hammer</SimpleData>
+            <SimpleData name="ADM3">ET070704</SimpleData>
+            <SimpleData name="RGUName">Kola_Keja</SimpleData>
+            <SimpleData name="RGUCode">ET070704_04</SimpleData>
+            <SimpleData name="PadName">P14</SimpleData>
+            <SimpleData name="PadCode">ET070704_04_14</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.4710816910001,5.05789698200005,0
+                36.453684261,5.05609454000006,0
+                36.450813442,5.06656297900003,0
+                36.4506367450001,5.06706589500004,0
+                36.4555209010001,5.06754446300005,0
+                36.4568645890001,5.06786889500006,0
+                36.4586610850001,5.06835189200007,0
+                36.4606596510001,5.06856886400004,0
+                36.4615519490001,5.06856886400004,0
+                36.462357954,5.06854885700005,0
+                36.4624925430001,5.06854551600003,0
+                36.4630780430001,5.06794487400003,0
+                36.4649783720001,5.06528520800003,0
+                36.46604913,5.06396460700006,0
+                36.4680254670001,5.06142175900004,0
+                36.46958263,5.05961019400007,0
+                36.4710816910001,5.05789698200005,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

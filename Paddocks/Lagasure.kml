@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Lagasure.schema">
+      <SimpleField name="Woreda" type="string"/>
+      <SimpleField name="ADM3" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+      <SimpleField name="PadName" type="string"/>
+      <SimpleField name="PadCode" type="string"/>
+      <SimpleField name="Note" type="string"/>
+      <SimpleField name="Date" type="string"/>
+      <SimpleField name="Cohort" type="float"/>
+    </Schema>
+    <Document id="Lagasure">
+      <name>Lagasure</name>
+      <Placemark id="Lagasure.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+            <SimpleData name="PadName">P8</SimpleData>
+            <SimpleData name="PadCode">ET051103_09_08</SimpleData>
+            <SimpleData name="Date">2025-08-11</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0423310032219,3.68393954288621,0
+                39.0437775565332,3.68436197925973,0
+                39.0485564072471,3.68746609583548,0
+                39.05289302493,3.69028295864177,0
+                39.0587219666504,3.69227423902112,0
+                39.0629985714077,3.6935027591922,0
+                39.0699953947185,3.69641007098386,0
+                39.0746297247479,3.70056989253578,0
+                39.0751810804405,3.70074384233243,0
+                39.0758121710001,3.69901886200012,0
+                39.0819187640002,3.6951804310001,0
+                39.0878508850002,3.69308674100023,0
+                39.0997151240001,3.68069907900019,0
+                39.1004130210002,3.67982670900017,0
+                39.1007619690001,3.67738407100018,0
+                39.1005874950003,3.67459248600022,0
+                39.0995614674495,3.67356645823173,0
+                39.0987273767279,3.67387062722253,0
+                39.0927155265296,3.67448137159403,0
+                39.0848467239069,3.67397813391301,0
+                39.0787007425239,3.67276816609285,0
+                39.0716015308258,3.67101527358221,0
+                39.0665065896571,3.67129731056656,0
+                39.0384381838148,3.6728510730685,0
+                39.0386298272216,3.67565284249508,0
+                39.0418420983,3.68195841417628,0
+                39.0423310032219,3.68393954288621,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lagasure.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+            <SimpleData name="PadName">P1</SimpleData>
+            <SimpleData name="PadCode">ET051103_09_01</SimpleData>
+            <SimpleData name="Date">2025-08-11</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0562710690001,3.64229732600012,0
+                39.053557655711,3.63996000796146,0
+                39.0483525847608,3.63698568170418,0
+                39.0453782585035,3.63505236963692,0
+                39.0422552159333,3.63475493701117,0
+                39.0403219038662,3.63445750438547,0
+                39.0386860244246,3.63386263913401,0
+                39.036157847106,3.63356520650825,0
+                39.0336296697874,3.63430878807259,0
+                39.0331759638493,3.63497625858969,0
+                39.0332760426777,3.63582066541716,0
+                39.0349498735133,3.6405664759784,0
+                39.0394343335564,3.63945281370968,0
+                39.0416041531357,3.63891396484672,0
+                39.046137269472,3.64141257616262,0
+                39.0488911755338,3.64227709309552,0
+                39.0515761674911,3.64311997624367,0
+                39.0561558606016,3.64287541072281,0
+                39.0562710690001,3.64229732600012,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lagasure.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+            <SimpleData name="PadName">P2</SimpleData>
+            <SimpleData name="PadCode">ET051103_09_02</SimpleData>
+            <SimpleData name="Date">2025-08-11</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0210990770001,3.6644187500001,0
+                39.0276962081306,3.66134038444795,0
+                39.0319179772313,3.6516119570602,0
+                39.0331689667159,3.64872924129043,0
+                39.0349498735133,3.6405664759784,0
+                39.0332760426777,3.63582066541716,0
+                39.0331759638493,3.63497625858969,0
+                39.0316936860002,3.63715691500016,0
+                39.0298809850922,3.6398273329209,0
+                39.0279179030002,3.64271928800019,0
+                39.0275484760003,3.64326351800014,0
+                39.0274768770001,3.64362460400014,0
+                39.0274765600001,3.64362620200012,0
+                39.0274593290002,3.6437131030001,0
+                39.0270966270003,3.6455422630001,0
+                39.0261659820002,3.64661525200017,0
+                39.0252089060001,3.64808369800016,0
+                39.0251952960002,3.64924100200017,0
+                39.0252795850002,3.65108756200016,0
+                39.0252775340001,3.65127282000003,0
+                39.0252589160002,3.6529547890002,0
+                39.0239918030002,3.65486540400013,0
+                39.0229776350001,3.65664482400007,0
+                39.0222774190001,3.65839740700022,0
+                39.0215257520002,3.65973209100019,0
+                39.0214166200003,3.66164411700009,0
+                39.0212013060002,3.66333084200016,0
+                39.0209461140002,3.66445444400023,0
+                39.0210905950001,3.66442072900014,0
+                39.0210010960001,3.66439056000024,0
+                39.0211593970002,3.66437352300017,0
+                39.0210990770001,3.6644187500001,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lagasure.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+            <SimpleData name="PadName">P3</SimpleData>
+            <SimpleData name="PadCode">ET051103_09_03</SimpleData>
+            <SimpleData name="Date">2025-08-11</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0995614674495,3.67356645823173,0
+                39.0958766940001,3.66988168400019,0
+                39.0894211520002,3.66203035000018,0
+                39.0869748764193,3.65994770991472,0
+                39.0840451792719,3.65745350821248,0
+                39.0793789164749,3.65348087895228,0
+                39.0765100670003,3.65103848000018,0
+                39.0726716360002,3.64859584100014,0
+                39.0637734560001,3.64491443700018,0
+                39.0576668620002,3.64491443700018,0
+                39.0562710690001,3.64229732600012,0
+                39.0561558606016,3.64287541072281,0
+                39.0515761674911,3.64311997624367,0
+                39.0488911755338,3.64227709309552,0
+                39.046137269472,3.64141257616262,0
+                39.0416041531357,3.63891396484672,0
+                39.0394343335564,3.63945281370968,0
+                39.0349498735133,3.6405664759784,0
+                39.0358434595678,3.64612814410714,0
+                39.0368321448599,3.65228170866811,0
+                39.0378086327812,3.6608113835959,0
+                39.0384381838148,3.6728510730685,0
+                39.0665065896571,3.67129731056656,0
+                39.0716015308258,3.67101527358221,0
+                39.0787007425239,3.67276816609285,0
+                39.0848467239069,3.67397813391301,0
+                39.0927155265296,3.67448137159403,0
+                39.0987273767279,3.67387062722253,0
+                39.0995614674495,3.67356645823173,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lagasure.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+            <SimpleData name="PadName">P5</SimpleData>
+            <SimpleData name="PadCode">ET051103_09_05</SimpleData>
+            <SimpleData name="Date">2025-08-11</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0384381838148,3.6728510730685,0
+                39.0378086327812,3.6608113835959,0
+                39.0368321448599,3.65228170866811,0
+                39.0358434595678,3.64612814410714,0
+                39.0349498735133,3.6405664759784,0
+                39.0331689667159,3.64872924129043,0
+                39.0319179772313,3.6516119570602,0
+                39.0276962081306,3.66134038444795,0
+                39.0210990770001,3.6644187500001,0
+                39.0190108720001,3.66756232200015,0
+                39.0178979620002,3.67094040200021,0
+                39.0159104060001,3.67697334100012,0
+                39.0150582563028,3.6778521753194,0
+                39.0153996650002,3.67823889500005,0
+                39.0169376149836,3.68063643580024,0
+                39.0215343274069,3.67924289130855,0
+                39.0247090342644,3.67860152079362,0
+                39.0281745982588,3.67804384369214,0
+                39.0327951141081,3.67998479064875,0
+                39.0391326753286,3.68261312284915,0
+                39.0423310032219,3.68393954288621,0
+                39.0418420983,3.68195841417628,0
+                39.0386298272216,3.67565284249508,0
+                39.0384381838148,3.6728510730685,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lagasure.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+            <SimpleData name="PadName">P6</SimpleData>
+            <SimpleData name="PadCode">ET051103_09_06</SimpleData>
+            <SimpleData name="Date">2025-08-11</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0327951141081,3.67998479064875,0
+                39.0281745982588,3.67804384369214,0
+                39.0247090342644,3.67860152079362,0
+                39.0215343274069,3.67924289130855,0
+                39.0169376149836,3.68063643580024,0
+                39.0213170857762,3.68516714040783,0
+                39.0327951141081,3.67998479064875,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lagasure.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+            <SimpleData name="PadName">P4</SimpleData>
+            <SimpleData name="PadCode">ET051103_09_04</SimpleData>
+            <SimpleData name="Date">2025-08-11</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0423310032219,3.68393954288621,0
+                39.0391326753286,3.68261312284915,0
+                39.0327951141081,3.67998479064875,0
+                39.0213170857762,3.68516714040783,0
+                39.0227329757003,3.68541123477513,0
+                39.024022664,3.68584622200001,0
+                39.0248744906056,3.68769551734073,0
+                39.025873864228,3.69162162800023,0
+                39.0252602140001,3.69915904000004,0
+                39.0264906540001,3.70070004000013,0
+                39.0278489528192,3.70168997240307,0
+                39.0304308020335,3.70368211366582,0
+                39.0328027242815,3.70497356510549,0
+                39.0374958119953,3.70752883220581,0
+                39.0396576363161,3.70824587610457,0
+                39.042674908821,3.70865001785609,0
+                39.0433899225607,3.7037919024695,0
+                39.04310935275,3.69558650314718,0
+                39.0428820060223,3.68893763853362,0
+                39.0423310032219,3.68393954288621,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Lagasure.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Lagasure.schema">
+            <SimpleData name="Woreda">Moyale</SimpleData>
+            <SimpleData name="ADM3">ET051103</SimpleData>
+            <SimpleData name="RGUName">Lagasure</SimpleData>
+            <SimpleData name="RGUCode">ET051103_09</SimpleData>
+            <SimpleData name="PadName">P7</SimpleData>
+            <SimpleData name="PadCode">ET051103_09_07</SimpleData>
+            <SimpleData name="Date">2025-08-11</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                39.0751810804405,3.70074384233243,0
+                39.0746297247479,3.70056989253578,0
+                39.0699953947185,3.69641007098386,0
+                39.0629985714077,3.6935027591922,0
+                39.0587219666504,3.69227423902112,0
+                39.05289302493,3.69028295864177,0
+                39.0485564072471,3.68746609583548,0
+                39.0437775565332,3.68436197925973,0
+                39.0423310032219,3.68393954288621,0
+                39.0428820060223,3.68893763853362,0
+                39.04310935275,3.69558650314718,0
+                39.0433899225607,3.7037919024695,0
+                39.042674908821,3.70865001785609,0
+                39.0442735276262,3.70919101595786,0
+                39.0481608023262,3.71074987293593,0
+                39.0504492156792,3.71166756190786,0
+                39.050707909,3.71247501900018,0
+                39.0510973040002,3.71309779000012,0
+                39.0525722180002,3.7136572400002,0
+                39.0562361740002,3.71470408500022,0
+                39.0564106480002,3.71470408400012,0
+                39.0564106480002,3.71487855900011,0
+                39.0578638560002,3.71504418200021,0
+                39.0611563440001,3.71541942900024,0
+                39.0634245080002,3.71367468700015,0
+                39.0731950580002,3.70617230200014,0
+                39.0751810804405,3.70074384233243,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

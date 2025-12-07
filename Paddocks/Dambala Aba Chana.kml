@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Dambala_Aba_Chana.schema">
+      <SimpleField name="Woreda" type="string"/>
+      <SimpleField name="ADM3" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+      <SimpleField name="PadName" type="string"/>
+      <SimpleField name="PadCode" type="string"/>
+      <SimpleField name="Note" type="string"/>
+      <SimpleField name="Date" type="string"/>
+      <SimpleField name="Cohort" type="float"/>
+    </Schema>
+    <Document id="Dambala_Aba_Chana">
+      <name>Dambala Aba Chana</name>
+      <Placemark id="Dambala_Aba_Chana.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambala_Aba_Chana.schema">
+            <SimpleData name="Woreda">Yabello</SimpleData>
+            <SimpleData name="ADM3">ET041207</SimpleData>
+            <SimpleData name="RGUName">Dambala Aba Chana</SimpleData>
+            <SimpleData name="RGUCode">ET041207_01</SimpleData>
+            <SimpleData name="PadName">P5</SimpleData>
+            <SimpleData name="PadCode">ET041207_01_05</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.405635816392,4.86659772099097,0
+                38.3988633540002,4.86741718100018,0
+                38.3907806570002,4.86870278800006,0
+                38.3859788280001,4.86911076000007,0
+                38.3806472710002,4.86859692400014,0
+                38.3758724130001,4.86463099800011,0
+                38.3727737780002,4.86291337200009,0
+                38.3699222390001,4.85983931300007,0
+                38.3655217780002,4.86162759100006,0
+                38.357097406,4.85865827200013,0
+                38.3495231350001,4.85530951600015,0
+                38.3448615870001,4.85014642400017,0
+                38.3443592754461,4.84993141053286,0
+                38.3340617100001,4.87815087200016,0
+                38.3295509690001,4.90619394900011,0
+                38.3251191870001,4.93374613200012,0
+                38.3329561070001,4.93602958500014,0
+                38.3372926250001,4.93883795700015,0
+                38.3411956960001,4.94101516400008,0
+                38.3457953070001,4.94330887800015,0
+                38.3543788000001,4.94523455600012,0
+                38.3593112930001,4.94731255300019,0
+                38.3686884530001,4.94463793100005,0
+                38.3744378470001,4.93870937600008,0
+                38.378650092,4.93194596500012,0
+                38.3815997230001,4.92598450500014,0
+                38.3886195810001,4.91584263700014,0
+                38.4046494740001,4.91017343200014,0
+                38.4058031880001,4.91004420299998,0
+                38.4117078970001,4.90767711800015,0
+                38.4198048940001,4.89990391800006,0
+                38.4218774580002,4.89177153600008,0
+                38.4127800680001,4.86841599300004,0
+                38.405635816392,4.86659772099097,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Dambala_Aba_Chana.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambala_Aba_Chana.schema">
+            <SimpleData name="Woreda">Yabello</SimpleData>
+            <SimpleData name="ADM3">ET041207</SimpleData>
+            <SimpleData name="RGUName">Dambala Aba Chana</SimpleData>
+            <SimpleData name="RGUCode">ET041207_01</SimpleData>
+            <SimpleData name="PadName">P1</SimpleData>
+            <SimpleData name="PadCode">ET041207_01_01</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.3275004445566,4.77124385001457,0
+                38.287984258,4.77048834700014,0
+                38.287776118,4.77089578000016,0
+                38.2805693430001,4.78500297199997,0
+                38.296255031,4.78760870900004,0
+                38.306182807,4.78925793000013,0
+                38.3137439420001,4.79887507200004,0
+                38.3256640810001,4.81403650700014,0
+                38.3258502830002,4.81438021300016,0
+                38.3370632200001,4.8074182900001,0
+                38.334545247,4.80421636200003,0
+                38.3381241860001,4.79684991500011,0
+                38.3353619020002,4.78870547200012,0
+                38.3356644810001,4.78346101100004,0
+                38.3309411160001,4.77853304000007,0
+                38.3285428350001,4.77318462500011,0
+                38.3275004445566,4.77124385001457,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Dambala_Aba_Chana.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambala_Aba_Chana.schema">
+            <SimpleData name="Woreda">Yabello</SimpleData>
+            <SimpleData name="ADM3">ET041207</SimpleData>
+            <SimpleData name="RGUName">Dambala Aba Chana</SimpleData>
+            <SimpleData name="RGUCode">ET041207_01</SimpleData>
+            <SimpleData name="PadName">P2</SimpleData>
+            <SimpleData name="PadCode">ET041207_01_02</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.3767663791108,4.77489233567326,0
+                38.351108046,4.73487818000007,0
+                38.3366479680002,4.75600100800006,0
+                38.3329186760002,4.76144864000014,0
+                38.3285494100002,4.77126390500018,0
+                38.3275004445566,4.77124385001457,0
+                38.3285428350001,4.77318462500011,0
+                38.3309411160001,4.77853304000007,0
+                38.3356644810001,4.78346101100004,0
+                38.3401279200002,4.78420687400001,0
+                38.3459279690002,4.78290589600005,0
+                38.3498098600001,4.78315186500004,0
+                38.3563680270001,4.78682141200017,0
+                38.3591821690001,4.78397394400014,0
+                38.3621189780002,4.77974472300002,0
+                38.3658711740001,4.77759040200004,0
+                38.369638921,4.7768602810001,0
+                38.376015377,4.77551786300006,0
+                38.3767663791108,4.77489233567326,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Dambala_Aba_Chana.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambala_Aba_Chana.schema">
+            <SimpleData name="Woreda">Yabello</SimpleData>
+            <SimpleData name="ADM3">ET041207</SimpleData>
+            <SimpleData name="RGUName">Dambala Aba Chana</SimpleData>
+            <SimpleData name="RGUCode">ET041207_01</SimpleData>
+            <SimpleData name="PadName">P3</SimpleData>
+            <SimpleData name="PadCode">ET041207_01_03</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.3917180715819,4.81253998352224,0
+                38.3903941940001,4.79011257100007,0
+                38.3899004230001,4.78174775300005,0
+                38.3769958350002,4.77525017200003,0
+                38.3767663791108,4.77489233567326,0
+                38.376015377,4.77551786300006,0
+                38.369638921,4.7768602810001,0
+                38.3658711740001,4.77759040200004,0
+                38.3621189780002,4.77974472300002,0
+                38.3591821690001,4.78397394400014,0
+                38.3563680270001,4.78682141200017,0
+                38.3498098600001,4.78315186500004,0
+                38.3459279690002,4.78290589600005,0
+                38.3401279200002,4.78420687400001,0
+                38.3356644810001,4.78346101100004,0
+                38.3353619020002,4.78870547200012,0
+                38.3381241860001,4.79684991500011,0
+                38.334545247,4.80421636200003,0
+                38.3370632200001,4.8074182900001,0
+                38.3258502830002,4.81438021300016,0
+                38.3289386163223,4.82008089936528,0
+                38.330398448,4.81645991000005,0
+                38.333628381,4.81376477400016,0
+                38.3389628360001,4.81371366000019,0
+                38.341702835,4.81110108400003,0
+                38.3448039330001,4.8100242000001,0
+                38.3489196960002,4.81159824800011,0
+                38.3541157980001,4.81206202900006,0
+                38.3581693210002,4.8126174840001,0
+                38.3631793590001,4.81343831200013,0
+                38.3686282680002,4.81361864000013,0
+                38.3742537430002,4.81534538400018,0
+                38.374795607,4.81355291200003,0
+                38.378859827,4.81286272000011,0
+                38.3826964890001,4.81496385900016,0
+                38.3847896320001,4.81490148600005,0
+                38.3876507510002,4.81276507600001,0
+                38.3911500540001,4.81262282400019,0
+                38.3917180715819,4.81253998352224,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Dambala_Aba_Chana.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Dambala_Aba_Chana.schema">
+            <SimpleData name="Woreda">Yabello</SimpleData>
+            <SimpleData name="ADM3">ET041207</SimpleData>
+            <SimpleData name="RGUName">Dambala Aba Chana</SimpleData>
+            <SimpleData name="RGUCode">ET041207_01</SimpleData>
+            <SimpleData name="PadName">P4</SimpleData>
+            <SimpleData name="PadCode">ET041207_01_04</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                38.405635816392,4.86659772099097,0
+                38.4055126810001,4.86656638200003,0
+                38.4096927870002,4.82707649400004,0
+                38.3917711680001,4.81343947400006,0
+                38.3917180715819,4.81253998352224,0
+                38.3911500540001,4.81262282400019,0
+                38.3876507510002,4.81276507600001,0
+                38.3847896320001,4.81490148600005,0
+                38.3826964890001,4.81496385900016,0
+                38.378859827,4.81286272000011,0
+                38.374795607,4.81355291200003,0
+                38.3742537430002,4.81534538400018,0
+                38.3686282680002,4.81361864000013,0
+                38.3631793590001,4.81343831200013,0
+                38.3581693210002,4.8126174840001,0
+                38.3541157980001,4.81206202900006,0
+                38.3489196960002,4.81159824800011,0
+                38.3448039330001,4.8100242000001,0
+                38.341702835,4.81110108400003,0
+                38.3389628360001,4.81371366000019,0
+                38.333628381,4.81376477400016,0
+                38.330398448,4.81645991000005,0
+                38.3289386163223,4.82008089936528,0
+                38.3391956280001,4.83901409100002,0
+                38.3446614500001,4.84910333100009,0
+                38.3443592754461,4.84993141053286,0
+                38.3448615870001,4.85014642400017,0
+                38.3495231350001,4.85530951600015,0
+                38.357097406,4.85865827200013,0
+                38.3655217780002,4.86162759100006,0
+                38.3699222390001,4.85983931300007,0
+                38.3727737780002,4.86291337200009,0
+                38.3758724130001,4.86463099800011,0
+                38.3806472710002,4.86859692400014,0
+                38.3859788280001,4.86911076000007,0
+                38.3907806570002,4.86870278800006,0
+                38.3988633540002,4.86741718100018,0
+                38.405635816392,4.86659772099097,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

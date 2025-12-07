@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Delegnmur.schema">
+      <SimpleField name="Woreda" type="string"/>
+      <SimpleField name="ADM3" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+      <SimpleField name="PadName" type="string"/>
+      <SimpleField name="PadCode" type="string"/>
+      <SimpleField name="Note" type="string"/>
+      <SimpleField name="Date" type="string"/>
+      <SimpleField name="Cohort" type="float"/>
+    </Schema>
+    <Document id="Delegnmur">
+      <name>Delegnmur</name>
+      <Placemark id="Delegnmur.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="Woreda">Dasenech</SimpleData>
+            <SimpleData name="ADM3">ET070706</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+            <SimpleData name="PadName">P8</SimpleData>
+            <SimpleData name="PadCode">ET070706_03_08</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.085495,4.71756100000005,0
+                36.0987435370001,4.70081964000002,0
+                36.0986548430001,4.70086662700004,0
+                36.095481496,4.70120698500006,0
+                36.0853682010001,4.70280038400006,0
+                36.05549555,4.70750696500005,0
+                36.0543084280001,4.70785182100008,0
+                36.053333007,4.70784768400006,0
+                36.046051,4.70899500000007,0
+                36.035960951,4.70115786300005,0
+                36.0289269420001,4.70100461300007,0
+                36.0227884380001,4.70087087200005,0
+                36.0223461670001,4.70086123500005,0
+                36.015557689,4.70071333400006,0
+                36.015517238,4.71579435800004,0
+                36.085495,4.71756100000005,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Delegnmur.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="Woreda">Dasenech</SimpleData>
+            <SimpleData name="ADM3">ET070706</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+            <SimpleData name="PadName">P1</SimpleData>
+            <SimpleData name="PadCode">ET070706_03_01</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.036515982,4.76799973300007,0
+                36.0309075120001,4.75096250200005,0
+                36.030907477,4.75096239500004,0
+                36.029648857,4.74713899800003,0
+                36.0068060310001,4.74985396300002,0
+                36.008095,4.75138200000004,0
+                36.008785,4.75524500000006,0
+                36.006835,4.76097100000004,0
+                36.0092050000001,4.76570100100002,0
+                36.013046741,4.76818727900007,0
+                36.015331024,4.76904388500003,0
+                36.0176939990001,4.77087000100005,0
+                36.0181019990001,4.77685300000007,0
+                36.014805,4.78264400000006,0
+                36.0150437250001,4.78426096900006,0
+                36.020154808,4.78887236500003,0
+                36.0254800000001,4.79104100000006,0
+                36.032871502,4.77559794800004,0
+                36.036515982,4.76799973300007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Delegnmur.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="Woreda">Dasenech</SimpleData>
+            <SimpleData name="ADM3">ET070706</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+            <SimpleData name="PadName">P2</SimpleData>
+            <SimpleData name="PadCode">ET070706_03_02</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.04899512,4.75094409800005,0
+                36.0460507860001,4.75068831400006,0
+                36.0428749060001,4.75074572700004,0
+                36.0407594690001,4.75078397000004,0
+                36.0360764550001,4.75086863000007,0
+                36.0309080220001,4.75096206600006,0
+                36.0309075120001,4.75096250200005,0
+                36.036515982,4.76799973300007,0
+                36.0431090000001,4.76883700000008,0
+                36.04899512,4.75094409800005,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Delegnmur.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="Woreda">Dasenech</SimpleData>
+            <SimpleData name="ADM3">ET070706</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+            <SimpleData name="PadName">P3</SimpleData>
+            <SimpleData name="PadCode">ET070706_03_03</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.04899512,4.75094409800005,0
+                36.0490973820001,4.75063323700005,0
+                36.0512308580001,4.74945133200004,0
+                36.060235044,4.74997234100005,0
+                36.067551886,4.75038874700004,0
+                36.0725808550001,4.75069824100007,0
+                36.0808250000001,4.75093000000004,0
+                36.0826520000001,4.74583500000006,0
+                36.083851194,4.74090064700005,0
+                36.0858940000001,4.73451600100003,0
+                36.086955,4.72954900000002,0
+                36.085697,4.72834700000004,0
+                36.0309080220001,4.75096206600006,0
+                36.0360764550001,4.75086863000007,0
+                36.0407594690001,4.75078397000004,0
+                36.0428749060001,4.75074572700004,0
+                36.0460507860001,4.75068831400006,0
+                36.04899512,4.75094409800005,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Delegnmur.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="Woreda">Dasenech</SimpleData>
+            <SimpleData name="ADM3">ET070706</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+            <SimpleData name="PadName">P4</SimpleData>
+            <SimpleData name="PadCode">ET070706_03_04</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.0309080220001,4.75096206600006,0
+                36.085697,4.72834700000004,0
+                36.017735214,4.72550985600003,0
+                36.0171614450001,4.72548590300005,0
+                36.024775721,4.73566047900005,0
+                36.029648857,4.74713899800003,0
+                36.030907477,4.75096239500004,0
+                36.0309080220001,4.75096206600006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Delegnmur.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="Woreda">Dasenech</SimpleData>
+            <SimpleData name="ADM3">ET070706</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+            <SimpleData name="PadName">P5</SimpleData>
+            <SimpleData name="PadCode">ET070706_03_05</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.029648857,4.74713899800003,0
+                36.024775721,4.73566047900005,0
+                36.0171614450001,4.72548590300005,0
+                36.017735214,4.72550985600003,0
+                36.0168997050001,4.72516943500005,0
+                35.9969978930001,4.73000925900004,0
+                35.9995030000001,4.73219900100003,0
+                36.0042490000001,4.73946600000005,0
+                36.003336,4.74580300000002,0
+                36.0068060310001,4.74985396300002,0
+                36.029648857,4.74713899800003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Delegnmur.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="Woreda">Dasenech</SimpleData>
+            <SimpleData name="ADM3">ET070706</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+            <SimpleData name="PadName">P6</SimpleData>
+            <SimpleData name="PadCode">ET070706_03_06</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.0168997050001,4.72516943500005,0
+                36.015517238,4.71579435800004,0
+                36.015557689,4.70071333400006,0
+                35.997199531,4.70044402600007,0
+                35.9928200000001,4.70056400100003,0
+                35.9909177540001,4.70972392200002,0
+                35.9910302050001,4.71496154800008,0
+                35.994271031,4.72662566500003,0
+                35.9969978930001,4.73000925900004,0
+                36.0168997050001,4.72516943500005,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Delegnmur.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Delegnmur.schema">
+            <SimpleData name="Woreda">Dasenech</SimpleData>
+            <SimpleData name="ADM3">ET070706</SimpleData>
+            <SimpleData name="RGUName">Delegnmur</SimpleData>
+            <SimpleData name="RGUCode">ET070706_03</SimpleData>
+            <SimpleData name="PadName">P7</SimpleData>
+            <SimpleData name="PadCode">ET070706_03_07</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                36.085495,4.71756100000005,0
+                36.015517238,4.71579435800004,0
+                36.0168997050001,4.72516943500005,0
+                36.017735214,4.72550985600003,0
+                36.085697,4.72834700000004,0
+                36.0846790000001,4.72282700000005,0
+                36.085495,4.71756100000005,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

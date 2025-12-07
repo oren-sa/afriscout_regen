@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Masajid.schema">
+      <SimpleField name="Woreda" type="string"/>
+      <SimpleField name="ADM3" type="string"/>
+      <SimpleField name="RGUName" type="string"/>
+      <SimpleField name="RGUCode" type="string"/>
+      <SimpleField name="PadName" type="string"/>
+      <SimpleField name="PadCode" type="string"/>
+      <SimpleField name="Note" type="string"/>
+      <SimpleField name="Date" type="string"/>
+      <SimpleField name="Cohort" type="float"/>
+    </Schema>
+    <Document id="Masajid">
+      <name>Masajid</name>
+      <Placemark id="Masajid.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="Woreda">Filtu</SimpleData>
+            <SimpleData name="ADM3">ET050901</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+            <SimpleData name="PadName">P5</SimpleData>
+            <SimpleData name="PadCode">ET050901_08_05</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.7664014850001,5.19579523100003,0
+                40.7667292260001,5.19391275100003,0
+                40.766856681,5.18923921600003,0
+                40.763394631,5.18474201400005,0
+                40.7628910330001,5.17696565300002,0
+                40.761095805,5.17291821900005,0
+                40.7609301700001,5.16868072500006,0
+                40.7607250820001,5.16603279700007,0
+                40.760525704,5.16232974400003,0
+                40.7603864390001,5.15974318600007,0
+                40.7607710250001,5.15680750700005,0
+                40.7623232390001,5.15415526600003,0
+                40.764171359,5.15223136300006,0
+                40.764372214,5.15068467500004,0
+                40.767163102,5.14995416100004,0
+                40.770449716,5.14909389000007,0
+                40.7698856010001,5.14619916100003,0
+                40.7671284740001,5.14605108100005,0
+                40.7658885270001,5.14598448600003,0
+                40.759716359,5.14274545200004,0
+                40.7560907860001,5.14111681500003,0
+                40.751775853,5.13966018100007,0
+                40.748148455,5.13843564600006,0
+                40.7440438850001,5.13641310400004,0
+                40.7405936660001,5.13677002300005,0
+                40.738325043,5.13635010200005,0
+                40.7348966000001,5.13571550000006,0
+                40.732946704,5.13564484800003,0
+                40.7324629980001,5.13573047800003,0
+                40.731848831,5.13695867900003,0
+                40.7343235290001,5.14209785000003,0
+                40.734133178,5.14837906300005,0
+                40.7358464390001,5.15770571000007,0
+                40.736036809,5.16455794200004,0
+                40.732419964,5.17369425600003,0
+                40.731848896,5.18511464300002,0
+                40.732610347,5.18987313700006,0
+                40.736227211,5.19387026700002,0
+                40.742889846,5.19558331600007,0
+                40.7468874260001,5.19596399100004,0
+                40.750885006,5.19596398400006,0
+                40.754121142,5.19596398000004,0
+                40.7604030540001,5.19596397000004,0
+                40.7645909930001,5.19539294600003,0
+                40.7664014850001,5.19579523100003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Masajid.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="Woreda">Filtu</SimpleData>
+            <SimpleData name="ADM3">ET050901</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+            <SimpleData name="PadName">P1</SimpleData>
+            <SimpleData name="PadCode">ET050901_08_01</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.7979492860001,5.19279091900006,0
+                40.797021461,5.19270497300005,0
+                40.794791,5.19269030000004,0
+                40.791450911,5.19103951100004,0
+                40.7892521360001,5.19103951100004,0
+                40.786320437,5.18859642800004,0
+                40.7848165250001,5.18809701200007,0
+                40.7808346,5.18677470000006,0
+                40.7954823220001,5.20904047500005,0
+                40.7969821550001,5.21096610800004,0
+                40.7982849000001,5.21042974100004,0
+                40.799807785,5.20776498400005,0
+                40.800759584,5.20414852500005,0
+                40.7998077710001,5.19805765300003,0
+                40.798094516,5.19329916200007,0
+                40.7979492860001,5.19279091900006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Masajid.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="Woreda">Filtu</SimpleData>
+            <SimpleData name="ADM3">ET050901</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+            <SimpleData name="PadName">P2</SimpleData>
+            <SimpleData name="PadCode">ET050901_08_02</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.788381681,5.15285601600004,0
+                40.785757,5.15195380000006,0
+                40.7793931590001,5.15013109500006,0
+                40.776447895,5.14963020000005,0
+                40.773723025,5.14610389700005,0
+                40.770737689,5.14558296600006,0
+                40.7698856010001,5.14619916100003,0
+                40.770449716,5.14909389000007,0
+                40.771575625,5.15026057200004,0
+                40.772039433,5.15204211800005,0
+                40.7723606610001,5.15445346300004,0
+                40.7713327330001,5.16199159600006,0
+                40.77276041,5.16598909000004,0
+                40.774416515,5.17398407900004,0
+                40.7808346,5.18677470000006,0
+                40.7848165250001,5.18809701200007,0
+                40.786320437,5.18859642800004,0
+                40.7892521360001,5.19103951100004,0
+                40.791450911,5.19103951100004,0
+                40.794791,5.19269030000004,0
+                40.797021461,5.19270497300005,0
+                40.7979492860001,5.19279091900006,0
+                40.797713792,5.19196678400004,0
+                40.7973330660001,5.18911168800003,0
+                40.7965716190001,5.18701795100003,0
+                40.796381253,5.18340149600004,0
+                40.7956198040001,5.17902368200004,0
+                40.794667991,5.17293281200006,0
+                40.7908607640001,5.16722262300004,0
+                40.788576424,5.16094141300005,0
+                40.788576419,5.15732495800006,0
+                40.7885764150001,5.15408918100007,0
+                40.788381681,5.15285601600004,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Masajid.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="Woreda">Filtu</SimpleData>
+            <SimpleData name="ADM3">ET050901</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+            <SimpleData name="PadName">P3</SimpleData>
+            <SimpleData name="PadCode">ET050901_08_03</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.777647411,5.13802866300006,0
+                40.7748935970001,5.13976219500006,0
+                40.773751455,5.14042844400007,0
+                40.7725855200001,5.14252237000005,0
+                40.7719430650001,5.14361692200004,0
+                40.7704677990001,5.14435455500006,0
+                40.7698856010001,5.14619916100003,0
+                40.770737689,5.14558296600006,0
+                40.773723025,5.14610389700005,0
+                40.776447895,5.14963020000005,0
+                40.7793931590001,5.15013109500006,0
+                40.785757,5.15195380000006,0
+                40.788381681,5.15285601600004,0
+                40.7880053270001,5.15047272700002,0
+                40.7841981,5.14419152000005,0
+                40.778106542,5.13829099400004,0
+                40.777647411,5.13802866300006,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Masajid.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="Woreda">Filtu</SimpleData>
+            <SimpleData name="ADM3">ET050901</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+            <SimpleData name="PadName">P4</SimpleData>
+            <SimpleData name="PadCode">ET050901_08_04</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.7324629980001,5.13573047800003,0
+                40.732946704,5.13564484800003,0
+                40.7348966000001,5.13571550000006,0
+                40.738325043,5.13635010200005,0
+                40.7405936660001,5.13677002300005,0
+                40.7440438850001,5.13641310400004,0
+                40.748148455,5.13843564600006,0
+                40.751775853,5.13966018100007,0
+                40.7560907860001,5.14111681500003,0
+                40.759716359,5.14274545200004,0
+                40.7658885270001,5.14598448600003,0
+                40.7671284740001,5.14605108100005,0
+                40.7698856010001,5.14619916100003,0
+                40.7704677990001,5.14435455500006,0
+                40.7719430650001,5.14361692200004,0
+                40.7725855200001,5.14252237000005,0
+                40.773751455,5.14042844400007,0
+                40.7748935970001,5.13976219500006,0
+                40.777647411,5.13802866300006,0
+                40.7714439040001,5.13448420900005,0
+                40.7692445910001,5.13238288200006,0
+                40.76269147,5.13001260400006,0
+                40.7538874640001,5.12715725100003,0
+                40.751032111,5.12596752000007,0
+                40.747046723,5.12290183800008,0
+                40.7426993870001,5.12420590000005,0
+                40.7335620750001,5.13353256100004,0
+                40.7324629980001,5.13573047800003,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Masajid.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Masajid.schema">
+            <SimpleData name="Woreda">Filtu</SimpleData>
+            <SimpleData name="ADM3">ET050901</SimpleData>
+            <SimpleData name="RGUName">Masajid</SimpleData>
+            <SimpleData name="RGUCode">ET050901_08</SimpleData>
+            <SimpleData name="PadName">P6</SimpleData>
+            <SimpleData name="PadCode">ET050901_08_06</SimpleData>
+            <SimpleData name="Date">2025-10-19</SimpleData>
+            <SimpleData name="Cohort">2</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                40.770449716,5.14909389000007,0
+                40.767163102,5.14995416100004,0
+                40.764372214,5.15068467500004,0
+                40.764171359,5.15223136300006,0
+                40.7623232390001,5.15415526600003,0
+                40.7607710250001,5.15680750700005,0
+                40.7603864390001,5.15974318600007,0
+                40.760525704,5.16232974400003,0
+                40.7607250820001,5.16603279700007,0
+                40.7609301700001,5.16868072500006,0
+                40.761095805,5.17291821900005,0
+                40.7628910330001,5.17696565300002,0
+                40.763394631,5.18474201400005,0
+                40.766856681,5.18923921600003,0
+                40.7667292260001,5.19391275100003,0
+                40.7664014850001,5.19579523100003,0
+                40.7680174910001,5.19615430100004,0
+                40.772205435,5.19843837200006,0
+                40.780010238,5.20205481700003,0
+                40.785721074,5.20719398200004,0
+                40.7904801020001,5.21042975200004,0
+                40.795048766,5.21176212500006,0
+                40.7969821550001,5.21096610800004,0
+                40.7954823220001,5.20904047500005,0
+                40.7808346,5.18677470000006,0
+                40.774416515,5.17398407900004,0
+                40.77276041,5.16598909000004,0
+                40.7713327330001,5.16199159600006,0
+                40.7723606610001,5.15445346300004,0
+                40.772039433,5.15204211800005,0
+                40.771575625,5.15026057200004,0
+                40.770449716,5.14909389000007,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
